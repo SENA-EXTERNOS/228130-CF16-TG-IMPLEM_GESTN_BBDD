@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="345" viewBox="0 0 400 345">
+  <g id="Grupo_140234" data-name="Grupo 140234" transform="translate(5544 2517.784)">
+    <rect id="Rectángulo_294795" data-name="Rectángulo 294795" width="400" height="345" rx="15" transform="translate(-5544 -2517.784)" fill="#41b8df" opacity="0.55"/>
+    <g id="Grupo_135122" data-name="Grupo 135122" transform="translate(-5903.416 -6468.037)">
+      <rect id="Rectángulo_36943" data-name="Rectángulo 36943" width="5" height="39.425" transform="translate(379.265 3969.406)" fill="#fda000"/>
+      <g id="Figura_2._Ejemplo_de_operadores_de_asignación_" data-name="Figura 2. Ejemplo de operadores de asignación " style="isolation: isolate">
+        <text id="Figura_4" data-name="Figura 4" transform="translate(395.265 3988.406)" fill="#0c1d30" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Figura 4</tspan></text>
+        <text id="_._Ejemplo_de_una_estructura_de_control_condicional_if-_else" data-name=". Ejemplo de una estructura de control 
+  condicional if- else" transform="translate(442.746 3988.406)" fill="#0c1d30" font-size="14" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">. Ejemplo de una estructura de control </tspan><tspan x="0" y="16.8" xml:space="preserve">  condicional </tspan><tspan y="16.8" font-family="Roboto-Italic, Roboto" font-style="italic">if- else</tspan></text>
+      </g>
+    </g>
+    <text id="if_x_0_:_print_x_tiene_un_valor_de_0_else:_print_x_tiene_un_valor_diferente_a_0_" data-name="if (x==0):
+print &quot;x tiene un valor de 0&quot;
+else:
+print &quot;x tiene un valor diferente a 0&quot;
+" transform="translate(-5500.884 -2406.234)" fill="#c82b0d" font-size="21" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="20">if </tspan><tspan y="20" fill="#161615">(x==</tspan><tspan y="20" fill="#6a3181">0</tspan><tspan y="20" fill="#161615">):</tspan><tspan x="0" y="45.2">print </tspan><tspan y="45.2" fill="#0d4997">&quot;x tiene un valor de 0&quot;</tspan><tspan x="0" y="70.4">else:</tspan><tspan x="0" y="95.6">print </tspan><tspan y="95.6" fill="#0d4997">&quot;x tiene un valor diferente a 0&quot;</tspan><tspan fill="#0d4997" font-family="Roboto-Italic"><tspan x="0" y="120.8"></tspan></tspan></text>
+  </g>
+</svg>

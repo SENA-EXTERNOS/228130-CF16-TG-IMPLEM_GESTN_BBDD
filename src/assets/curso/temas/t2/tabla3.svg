@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="436.243" height="235.913" viewBox="0 0 436.243 235.913">
+  <g id="Grupo_140183" data-name="Grupo 140183" transform="translate(3144.063 3442.5)">
+    <g id="Grupo_135119" data-name="Grupo 135119" transform="translate(-315.674 -6146.697)">
+      <rect id="Rectángulo_294767" data-name="Rectángulo 294767" width="435.681" height="199.56" transform="translate(-2828.326 2740.049)" fill="#fff"/>
+      <path id="Rectángulo_293544" data-name="Rectángulo 293544" d="M0,0H435.563V34.129H0Z" transform="translate(-2827.889 2706.697)" fill="#ecf2f9"/>
+      <g id="Rectángulo_293414" data-name="Rectángulo 293414" transform="translate(-2828.208 2707.052)">
+        <rect id="Rectángulo_294768" data-name="Rectángulo 294768" width="109.929" height="232.777" fill="none"/>
+        <rect id="Rectángulo_294769" data-name="Rectángulo 294769" width="109.29" height="232.069" transform="translate(0.32 0.354)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="Operador" transform="translate(-2799.935 2718.072)" style="isolation: isolate">
+        <text id="Operador-2" data-name="Operador" transform="translate(0 10)" fill="#0c1d30" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Operador</tspan></text>
+      </g>
+      <g id="Rectángulo_293418" data-name="Rectángulo 293418" transform="translate(-2828.208 2740.506)">
+        <rect id="Rectángulo_294770" data-name="Rectángulo 294770" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294771" data-name="Rectángulo 294771" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="Nombre" transform="translate(-2694.02 2718.072)" style="isolation: isolate">
+        <text id="Operación" transform="translate(0 10)" fill="#0c1d30" font-size="10" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Operación</tspan></text>
+      </g>
+      <g id="_3" data-name=" 3" transform="translate(-2780.994 2743.952)" style="isolation: isolate">
+        <text id="_" data-name="=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">=</tspan></text>
+      </g>
+      <g id="Igual_a" data-name="Igual a" transform="translate(-2705.963 2745.392)" style="isolation: isolate">
+        <text id="Asignación_simple" data-name="Asignación simple" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Asignación simple</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-2" data-name="Rectángulo 293418" transform="translate(-2828.208 2760.417)">
+        <rect id="Rectángulo_294772" data-name="Rectángulo 294772" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294773" data-name="Rectángulo 294773" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="Grupo_135117" data-name="Grupo 135117" transform="translate(-2785.74 2763.863)">
+        <g id="_2" data-name=" " transform="translate(0 2.316)" style="isolation: isolate">
+          <text id="_3-2" data-name="&lt;" transform="translate(3.683 0) rotate(90)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&lt;</tspan></text>
+        </g>
+        <g id="_3-3" data-name=" 3" transform="translate(9.852)" style="isolation: isolate">
+          <text id="_4" data-name="=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">=</tspan></text>
+        </g>
+      </g>
+      <g id="Igual_a-2" data-name="Igual a" transform="translate(-2705.963 2765.302)" style="isolation: isolate">
+        <text id="Exponenciación_más_asignación" data-name="Exponenciación más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Exponenciación más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-3" data-name="Rectángulo 293418" transform="translate(-2828.208 2780.327)">
+        <rect id="Rectángulo_294774" data-name="Rectángulo 294774" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294775" data-name="Rectángulo 294775" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="Igual_a-3" data-name="Igual a" transform="translate(-2705.963 2785.212)" style="isolation: isolate">
+        <text id="Multiplicación_más_asignación" data-name="Multiplicación más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Multiplicación más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-4" data-name="Rectángulo 293418" transform="translate(-2828.208 2800.237)">
+        <rect id="Rectángulo_294776" data-name="Rectángulo 294776" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294777" data-name="Rectángulo 294777" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-4" data-name=" 3" transform="translate(-2783.562 2803.684)" style="isolation: isolate">
+        <text id="_5" data-name="/=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">/=</tspan></text>
+      </g>
+      <g id="Igual_a-4" data-name="Igual a" transform="translate(-2705.963 2805.123)" style="isolation: isolate">
+        <text id="División_real_más_asignación" data-name="División real más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">División real más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-5" data-name="Rectángulo 293418" transform="translate(-2828.208 2820.147)">
+        <rect id="Rectángulo_294778" data-name="Rectángulo 294778" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294779" data-name="Rectángulo 294779" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-5" data-name=" 3" transform="translate(-2783.912 2823.594)" style="isolation: isolate">
+        <text id="_6" data-name="\=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">\=</tspan></text>
+      </g>
+      <g id="Igual_a-5" data-name="Igual a" transform="translate(-2705.963 2825.033)" style="isolation: isolate">
+        <text id="División_entera_más_asignación" data-name="División entera más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">División entera más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-6" data-name="Rectángulo 293418" transform="translate(-2828.208 2840.058)">
+        <rect id="Rectángulo_294780" data-name="Rectángulo 294780" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294781" data-name="Rectángulo 294781" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-6" data-name=" 3" transform="translate(-2784.704 2843.504)" style="isolation: isolate">
+        <text id="_7" data-name="+=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">+=</tspan></text>
+      </g>
+      <g id="Igual_a-6" data-name="Igual a" transform="translate(-2705.963 2844.943)" style="isolation: isolate">
+        <text id="Suma_más_asignación" data-name="Suma más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Suma más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-7" data-name="Rectángulo 293418" transform="translate(-2828.208 2859.968)">
+        <rect id="Rectángulo_294782" data-name="Rectángulo 294782" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294783" data-name="Rectángulo 294783" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-7" data-name=" 3" transform="translate(-2783.693 2863.415)" style="isolation: isolate">
+        <text id="_-_" data-name="-=" transform="translate(0 10)" fill="#0c1d30" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">-=</tspan></text>
+      </g>
+      <g id="Igual_a-7" data-name="Igual a" transform="translate(-2705.963 2864.854)" style="isolation: isolate">
+        <text id="Resta_más_asignación" data-name="Resta más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Resta más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-8" data-name="Rectángulo 293418" transform="translate(-2828.208 2879.879)">
+        <rect id="Rectángulo_294784" data-name="Rectángulo 294784" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294785" data-name="Rectángulo 294785" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-8" data-name=" 3" transform="translate(-2787.719 2883.325)" style="isolation: isolate">
+        <text id="_8" data-name="&lt;&lt;=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&lt;&lt;=</tspan></text>
+      </g>
+      <g id="Igual_a-8" data-name="Igual a" transform="translate(-2705.963 2884.764)" style="isolation: isolate">
+        <text id="Desplazamiento_a_la_izquierda_más_asignación" data-name="Desplazamiento a la izquierda más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Desplazamiento a la izquierda más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-9" data-name="Rectángulo 293418" transform="translate(-2828.208 2899.789)">
+        <rect id="Rectángulo_294786" data-name="Rectángulo 294786" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294787" data-name="Rectángulo 294787" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-9" data-name=" 3" transform="translate(-2787.819 2903.235)" style="isolation: isolate">
+        <text id="_9" data-name="&gt;&gt;=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&gt;&gt;=</tspan></text>
+      </g>
+      <g id="Igual_a-9" data-name="Igual a" transform="translate(-2705.963 2904.674)" style="isolation: isolate">
+        <text id="Desplazamiento_a_la_derecha_más_asignación" data-name="Desplazamiento a la derecha más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Desplazamiento a la derecha más asignación</tspan></text>
+      </g>
+      <g id="Rectángulo_293418-10" data-name="Rectángulo 293418" transform="translate(-2828.208 2919.699)">
+        <rect id="Rectángulo_294788" data-name="Rectángulo 294788" width="435.882" height="20.129" fill="none"/>
+        <rect id="Rectángulo_294789" data-name="Rectángulo 294789" width="435.243" height="19.692" transform="translate(0.32 0.219)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
+      </g>
+      <g id="_3-10" data-name=" 3" transform="translate(-2785.41 2923.146)" style="isolation: isolate">
+        <text id="_10" data-name="&amp;=" transform="translate(0 10)" fill="#0c1d30" font-size="11" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&amp;=</tspan></text>
+      </g>
+      <g id="Igual_a-10" data-name="Igual a" transform="translate(-2705.963 2924.585)" style="isolation: isolate">
+        <text id="Operación_de_concatenación_de_cadenas_más_asignación" data-name="Operación de concatenación de cadenas más asignación" transform="translate(0 9)" fill="#0c1d30" font-size="9" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Operación de concatenación de cadenas más asignación</tspan></text>
+      </g>
+      <g id="Grupo_135118" data-name="Grupo 135118" transform="translate(-2783.291 2783.773)">
+        <g id="_3-11" data-name=" 3" transform="translate(4.15)" style="isolation: isolate">
+          <text id="_11" data-name="=" transform="translate(0 11)" fill="#0c1d30" font-size="12" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">=</tspan></text>
+        </g>
+        <circle id="Elipse_5198" data-name="Elipse 5198" cx="1.674" cy="1.674" r="1.674" transform="translate(0 4.226)" fill="#0c1d30"/>
+      </g>
+    </g>
+    <rect id="Rectángulo_295252" data-name="Rectángulo 295252" width="436" height="3.188" transform="translate(-3144 -3442.5)" fill="#ffb30b"/>
+  </g>
+</svg>

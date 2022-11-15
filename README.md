@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Construcción de algoritmos en un entorno de desarrollo (IDE)**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://sena-externos.github.io/228130-CF16-TG-IMPLEM_GESTN_BBDD/](https://sena-externos.github.io/228130-CF16-TG-IMPLEM_GESTN_BBDD/)
 
 #
 

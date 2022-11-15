@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="396" height="232.5" viewBox="0 0 396 232.5">
+  <g id="Grupo_140184" data-name="Grupo 140184" transform="translate(2526 3442.5)">
+    <rect id="Rectángulo_294791" data-name="Rectángulo 294791" width="396" height="230" transform="translate(-2526 -3440)" fill="#fff"/>
+    <g id="Igual_a" data-name="Igual a" transform="translate(-147.822 -6140.661)" style="isolation: isolate">
+      <g id="Grupo_135123" data-name="Grupo 135123">
+        <text id="a_7_b_2_print_operadores_de_asignación_print_a_a_print_b_b_x_a_x_b_print_x_x_Resultado:_9_x_a_x-_b_print_x-_x_Resultado:_5_x_a_x_b_print_x_x_Res" data-name="a=7; b=2
+print  (”operadores de asignación”)
+print  (”a=” , a)
+print  (”b=” , b) |
+x=a;    x+=b;    print (”x+=”,    x)        #Resultado:    9
+x=a;    x-=b;     print (”x-=”,     x)        #Resultado:    5
+x=a;    x*=b;     print (”x*=”,    x)        #Res" transform="translate(-2359.178 2720.661)" fill="#12263f" font-size="11.053" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">a=7; b=2</tspan><tspan x="0" y="13.263" xml:space="preserve">print  (”operadores de asignación”)</tspan><tspan x="0" y="26.526" xml:space="preserve">print  (”a=” , a)</tspan><tspan x="0" y="39.79" xml:space="preserve">print  (”b=” , b) |</tspan><tspan x="0" y="53.053" xml:space="preserve">x=a;    x+=b;    print (”x+=”,    x)        #Resultado:    9</tspan><tspan x="0" y="66.316" xml:space="preserve">x=a;    x-=b;     print (”x-=”,     x)        #Resultado:    5</tspan><tspan x="0" y="79.579" xml:space="preserve">x=a;    x*=b;     print (”x*=”,    x)        #Resultado:    14</tspan><tspan x="0" y="92.843" xml:space="preserve">x=a;    x/=b;     print (”x/=”,    x)        #Resultado:    3.5</tspan><tspan x="0" y="106.106" xml:space="preserve">x=a;    x%=b;    print (”x%=”,   x)        #Resultado:    1</tspan><tspan x="0" y="119.369" xml:space="preserve">x=a;    x//=b;    print (”x//=”,    x)       #Resultado:    3</tspan><tspan x="0" y="132.632" xml:space="preserve">x=a;    x**=b;    print (”x**=”,   x)       #Resultado:    49</tspan><tspan x="0" y="145.896" xml:space="preserve">x=a;    x&amp;=b;     print (”x&amp;=”,   x)        #Resultado:    2</tspan><tspan x="0" y="159.159" xml:space="preserve">x=a;    x|=b;      print (”x|=”,    x)         #Resultado:    7</tspan><tspan x="0" y="172.422" xml:space="preserve">x=a;    x^=b;     print (”x^=”,    x)        #Resultado:    5</tspan><tspan x="0" y="185.685" xml:space="preserve">x=a;    x&gt;&gt;=b;   print (”x&gt;&gt;=”,  x)       #Resultado:    1</tspan><tspan x="0" y="198.948" xml:space="preserve">x=a;    x&lt;&lt;=b;   print (”x&lt;&lt;=”,  x)       #Resultado:    28</tspan></text>
+      </g>
+      <g id="Grupo_135124" data-name="Grupo 135124">
+        <text id="a_7_b_2_print_operadores_de_asignación_print_a_a_print_b_b_x_a_x_b_print_x_x_Resultado:_9_x_a_x-_b_print_x-_x_Resultado:_5_x_a_x_b_print_x_x_Res-2" data-name="a=7; b=2
+print  (”operadores de asignación”)
+print  (”a=” , a)
+print  (”b=” , b) |
+x=a;    x+=b;    print (”x+=”,    x)        #Resultado:    9
+x=a;    x-=b;     print (”x-=”,     x)        #Resultado:    5
+x=a;    x*=b;     print (”x*=”,    x)        #Res" transform="translate(-2359.178 2720.661)" fill="#12263f" font-size="11.053" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">a=7; b=2</tspan><tspan x="0" y="13.263" xml:space="preserve">print  (”operadores de asignación”)</tspan><tspan x="0" y="26.526" xml:space="preserve">print  (”a=” , a)</tspan><tspan x="0" y="39.79" xml:space="preserve">print  (”b=” , b) |</tspan><tspan x="0" y="53.053" xml:space="preserve">x=a;    x+=b;    print (”x+=”,    x)        #Resultado:    9</tspan><tspan x="0" y="66.316" xml:space="preserve">x=a;    x-=b;     print (”x-=”,     x)        #Resultado:    5</tspan><tspan x="0" y="79.579" xml:space="preserve">x=a;    x*=b;     print (”x*=”,    x)        #Resultado:    14</tspan><tspan x="0" y="92.843" xml:space="preserve">x=a;    x/=b;     print (”x/=”,    x)        #Resultado:    3.5</tspan><tspan x="0" y="106.106" xml:space="preserve">x=a;    x%=b;    print (”x%=”,   x)        #Resultado:    1</tspan><tspan x="0" y="119.369" xml:space="preserve">x=a;    x//=b;    print (”x//=”,    x)       #Resultado:    3</tspan><tspan x="0" y="132.632" xml:space="preserve">x=a;    x**=b;    print (”x**=”,   x)       #Resultado:    49</tspan><tspan x="0" y="145.896" xml:space="preserve">x=a;    x&amp;=b;     print (”x&amp;=”,   x)        #Resultado:    2</tspan><tspan x="0" y="159.159" xml:space="preserve">x=a;    x|=b;      print (”x|=”,    x)         #Resultado:    7</tspan><tspan x="0" y="172.422" xml:space="preserve">x=a;    x^=b;     print (”x^=”,    x)        #Resultado:    5</tspan><tspan x="0" y="185.685" xml:space="preserve">x=a;    x&gt;&gt;=b;   print (”x&gt;&gt;=”,  x)       #Resultado:    1</tspan><tspan x="0" y="198.948" xml:space="preserve">x=a;    x&lt;&lt;=b;   print (”x&lt;&lt;=”,  x)       #Resultado:    28</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectángulo_295254" data-name="Rectángulo 295254" width="396" height="3.188" transform="translate(-2526 -3442.5)" fill="#ffb30b"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="345" viewBox="0 0 400 345">
+  <g id="Grupo_140235" data-name="Grupo 140235" transform="translate(5544 1936.784)">
+    <rect id="Rectángulo_294795" data-name="Rectángulo 294795" width="400" height="345" rx="15" transform="translate(-5544 -1936.784)" fill="#41b8df" opacity="0.55"/>
+    <g id="Grupo_135122" data-name="Grupo 135122" transform="translate(-5903.416 -6259.163)">
+      <rect id="Rectángulo_36943" data-name="Rectángulo 36943" width="5" height="39.425" transform="translate(379.265 4341.533)" fill="#fda000"/>
+      <g id="Figura_2._Ejemplo_de_operadores_de_asignación_" data-name="Figura 2. Ejemplo de operadores de asignación " style="isolation: isolate">
+        <text id="Figura_5" data-name="Figura 5" transform="translate(395.265 4360.532)" fill="#0c1d30" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Figura 5</tspan></text>
+        <text id="_._Ejemplo_de_una_estructura_de_control_condicional_if_-_elif_-_else" data-name=". Ejemplo de una estructura de control 
+  condicional if - elif - else" transform="translate(442.746 4360.532)" fill="#0c1d30" font-size="14" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">. Ejemplo de una estructura de control </tspan><tspan x="0" y="16.8" xml:space="preserve">  condicional </tspan><tspan y="16.8" font-family="Roboto-Italic, Roboto" font-style="italic">if - elif - else</tspan></text>
+      </g>
+    </g>
+    <text id="if_x_0_:_print_x_tiene_un_valor_de_0_elif_x_10_:_print_x_tiene_un_valor_menor_que_10_else:_print_x_tiene_un_valor_mayor_que_10_" data-name="if (x==0):
+print &quot;x tiene un valor de 0&quot;
+elif (x&lt;=10):
+print(&quot;x tiene un valor menor que 10&quot;)
+else:
+print &quot;x tiene un valor mayor que 10&quot;
+
+" transform="translate(-5512.963 -1825.234)" fill="#c82b0d" font-size="21" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="20">if </tspan><tspan y="20" fill="#161615">(x==</tspan><tspan y="20" fill="#6a3181">0</tspan><tspan y="20" fill="#161615">):</tspan><tspan x="0" y="45.2">print </tspan><tspan y="45.2" fill="#0d4997">&quot;x tiene un valor de 0&quot;</tspan><tspan x="0" y="70.4">elif </tspan><tspan y="70.4" fill="#161615">(x&lt;=</tspan><tspan y="70.4" fill="#6a3181">10</tspan><tspan y="70.4" fill="#161615">):</tspan><tspan x="0" y="95.6">print</tspan><tspan y="95.6" fill="#0d4997">(&quot;x tiene un valor menor que 10&quot;)</tspan><tspan x="0" y="120.8">else:</tspan><tspan x="0" y="146">print </tspan><tspan y="146" fill="#0d4997">&quot;x tiene un valor mayor que 10&quot;</tspan><tspan fill="#0d4997"><tspan x="0" y="171.2"></tspan></tspan><tspan fill="#0d4997" font-family="Roboto-Italic"><tspan x="0" y="196.4"></tspan></tspan></text>
+  </g>
+</svg>
