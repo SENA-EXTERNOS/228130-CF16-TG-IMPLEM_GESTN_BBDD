@@ -21,19 +21,19 @@
           em software 
           | en todas sus etapas hasta que se implemente una versión real.
 
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .fcac50.p-4
-      .row.justify-content-center.align-items-center.mb-5
+    .fcac50.p-4.mb-5
+      .row.justify-content-center.align-items-center
         .col-lg-9
-          p: b    ¡Importante! 
+          p: b ¡Importante! 
           p El concepto de «lenguaje de 
             em scripting
             | » se ha transformado ampliamente desde su creación, porque hoy en día Python es usado para desarrollar, de manera rápida, aplicaciones en diversos sectores, especialmente en las plataformas y apps.
           p.mb-0 Es un interpretador de instrucciones que permite usar un lenguaje en forma recíproca, es decir, permite trabajar de manera interactiva en una ventana, y además, a través de programas que pueden desarrollarse y ensayar a medida que son construidos. Cuenta con implícitas estructuras de datos eficientes como conjuntos, diccionarios, listas y tuplas, con un enfoque simple, pero muy eficiente que permiten llevar a cabo múltiples tareas en pocas líneas de código y de manera legible.
-        .col-lg-3
+        .col-lg-3(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t2/f2.svg', alt='')
 
@@ -55,7 +55,7 @@
           .col-lg-10.col-md-9.col-12
             p: b ¿Para qué sirve?
             p Su objetivo principal es la automatización de procesos, permitir que las tareas sean más simples a través de la creación de códigos legibles que ahorran recursos y en especial tiempo. Uno de sus puntos más fuertes es que logra “comprobar los errores sobre la marcha” para ser solucionados cuando se afecta a la memoria, lo que mantiene la integridad de la matriz y evita dificultades a la hora de escribir el código.
-        .row.justify-content-center.align-items-center(x="20%" y="20%" tooltip="" numero="B")
+        .row.justify-content-center.align-items-center(x="33%" y="74%" tooltip="" numero="B")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f5.svg', alt='')
@@ -66,7 +66,7 @@
               | , prototipado de 
               em software
               | , etc. 
-        .row.justify-content-center.align-items-center(x="20%" y="20%" tooltip="" numero="C")
+        .row.justify-content-center.align-items-center(x="43.6%" y="63.4%" tooltip="" numero="C")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f6.svg', alt='')
@@ -94,7 +94,7 @@
                   | se envía a la máquina virtual 
                   em Python
                   | , donde de nuevo se ejecuta el código del byte en PVM. Si se produce un error durante esta ejecución, ésta se detiene con un mensaje de error.
-        .row.justify-content-center.align-items-center(x="20%" y="20%" tooltip="" numero="D")
+        .row.justify-content-center.align-items-center(x="56%" y="63.4%" tooltip="" numero="D")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f7.svg', alt='')
@@ -127,7 +127,7 @@
                 i.fas.fa-circle
                 | Soporta programación imperativa, orientada a objetos y funcional
             p Su objetivo principal es aumentar la legibilidad y la facilidad de desarrollo.
-        .row.justify-content-center.align-items-center(x="20%" y="20%" tooltip="" numero="E")
+        .row.justify-content-center.align-items-center(x="66.8%" y="74%" tooltip="" numero="E")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f8.svg', alt='')
@@ -155,7 +155,7 @@
                 p.mb-0 
                   b Multiplataforma: 
                   | se puede trabajar en cualquier sistema operativo.
-        .row.justify-content-center.align-items-center(x="20%" y="20%" tooltip="" numero="F")
+        .row.justify-content-center.align-items-center(x="75.4%" y="92%" tooltip="" numero="F")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f9.svg', alt='')
@@ -844,7 +844,7 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/f31.svg', alt='Texto que describa la imagen')
-      div(x="10%" y="10%" tooltip="" numero="+")
+      div(x="15.5%" y="10.6%" tooltip="" numero="+")
         p: strong Listas: es un tipo de colecci&oacute;n ordenada
         p Las listas son estructuras de datos que permiten guardar datos de cualquier tipo, son din&aacute;micas y mutables porque permiten que se pueda agregar, cambiar o eliminar sus elementos.
         p Las listas son el equivalente a lo que en otros lenguajes se les llama como 
@@ -871,7 +871,7 @@
           | &nbsp;lista1[-4] #Resultado: 
           em True
 
-      div(x="20%" y="20%" tooltip="" numero="+")
+      div(x="14.7%" y="20%" tooltip="" numero="+")
         p Las listas permiten modificar cada uno de los datos despu&eacute;s de que es creada de la siguiente manera:
         p lista1[5] = 7.1&nbsp; #el quinto elemento de la lista se cambia a 7.1
         p lista1[2] = &quot;primera cadena de texto&quot; #el segundo elemento de la lista se cambia a &quot;primera cadena de texto&quot;
@@ -890,7 +890,7 @@
         p lista1.
           em append
           | (&apos;Nuevo elemento de la lista&apos;).
-      div(x="30%" y="30%" tooltip="" numero="+")
+      div(x="37.9%" y="10.6%" tooltip="" numero="+")
         p: strong Tuplas
         p El concepto de tupla es muy similar al de lista. Aunque hay algunas diferencias menores, lo fundamental es que, mientras una lista es mutable y se puede modificar, una tupla no admite cambios y, por lo tanto, es inmutable.
         p Son un tipo de datos que permite almacenar varios datos que no se pueden modificar despu&eacute;s de que son declaradas. Una tupla es similar a una lista con la diferencia fundamental de que no permite modificar los datos una vez creados.
@@ -945,7 +945,7 @@
           em print
           | (tupla[2][0])&nbsp;&nbsp; #Resultado: x
 
-      div(x="50%" y="50%" tooltip="" numero="+")
+      div(x="56.5%" y="19.5%" tooltip="" numero="+")
         p: strong Tambi&eacute;n se puede convertir una lista en una tupla por medio de la funci&oacute;n 
             em tuple
             | ().
@@ -987,7 +987,7 @@
           em print(
           | j)&nbsp;&nbsp;&nbsp; #Resultado: 1, 3, 5
 
-      div(x="60%" y="60%" tooltip="" numero="+")
+      div(x="42%" y="26.7%" tooltip="" numero="+")
         p Aunque puedan parecer estructuras de datos muy similares, las tuplas no cuentan con ciertas operaciones, especialmente las que tienen que ver con la modificación de sus valores, ya que son inmodificables. Si las listas son más potentes y flexibles, ¿por qué́ se necesitan las tuplas? Las siguientes son las ventajas potenciales del uso de tuplas con respecto a las listas:
         ol.lista-ol--cuadro
           li
@@ -1003,7 +1003,7 @@
               span 3
             | Las tuplas se pueden usar como claves de diccionarios
 
-      div(x="70%" y="70%" tooltip="" numero="+")
+      div(x="62.1%" y="10.4%" tooltip="" numero="+")
         p Van Rossum (2017) indica “Lo mejor es pensar en un diccionario como un conjunto no ordenado de pares clave: valor, con el requerimiento de que las claves sean únicas (dentro de un diccionario en particular). Un par de llaves crean un diccionario vacío: {}”.
         p Son una colecci&oacute;n de datos que permite guardar su contenido por medio de unas palabras conocidas como llaves o claves y cada una tiene asignado un valor. Mientras que en las estructuras de listas y tuplas se obtienen sus datos solo y &uacute;nicamente por un n&uacute;mero de &iacute;ndice, los diccionarios permiten usar una clave para declarar y acceder a un valor de acuerdo con la siguiente sintaxis:
         p &nbsp;_diccionario = {&apos;llave1&apos;: valor1, &apos;llave2&apos;: valor2, &apos;llave3&apos;: valor3}
@@ -1027,7 +1027,7 @@
           em print
           | (diccionario1) #Resultado: {&apos;Nombre&apos;: &apos;Ana&apos;, &apos;Edad&apos;: 23, &apos;Documento&apos;: 12345678}
 
-      div(x="80%" y="80%" tooltip="" numero="+")
+      div(x="78.6%" y="19.4%" tooltip="" numero="+")
         p: b Los diccionarios en 
           em Python 
           | tienen las siguientes características:

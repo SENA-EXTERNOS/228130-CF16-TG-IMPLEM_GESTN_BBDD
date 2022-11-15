@@ -86,11 +86,41 @@
 .fblanco
   background-color: white
 
-//otros
+.color-acento-botones
+  .slyder-a__btn--sigt, .slyder-a__btn--atrs, .slyder-a__bullets__item
+    background-color: $color-acento-botones
 
-.img-infografica__item
-  &__dot
-  &__numero
+//otros
+.color-secundario
+  .img-infografica-b__modal
+    background-color: $white
+    height: auto
+    box-shadow: 0 0 5px #00000088
+    border-radius: 1rem
+    h1,h2,h3,h4,h5,h6,span,p,li
+      color: $color-sistema-texto !important
+    i
+      background-color: grey
+      padding: 0.5rem
+  .img-infografica-b__item
+    &__dot
+      &::before,&::after
+        transform: scale(2)
+        box-shadow: 0 0 5px $color-acento-botones
+    &__numero
+      font-size: 2rem
+.color-acento-contenido
+  .img-infografica-b__modal
+    background-color: #F9E8C1
+    height: auto
+    box-shadow: 0 0 5px #00000088
+    border-radius: 1rem
+    h1,h2,h3,h4,h5,h6,span,p,li
+      color: $color-sistema-texto !important
+    i
+      background-color: grey
+      padding: 0.5rem
+
 
 .border1
   border: dashed $color-primario
