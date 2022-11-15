@@ -394,7 +394,7 @@
                 h3.mb-1 Infografía
                 p.text-small A continuación, las expresiones más comunes dentro de Python
               .col-auto.mb-3.mb-sm-0
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" type="application/pdf")
+                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/expresiones_mas_comunes_dentro_de_Python.pdf')" target="_blank" type="application/pdf")
                   span Descargar 
                   i.fas.fa-file-download
 
