@@ -138,32 +138,138 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Estructura secuencial',
+      referencia:
+        'GSL Industrias. (7 de junio de 2021). <em>Estructura secuencial</em>. [Web log post]. Blogspot.',
+      tipo: 'Blogs',
+      link:
+        'https://industriasgsl.com/blogs/automatizacion/que-es-la-estructura-secuencial ',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Estructuras de control',
+      referencia: '<em>El libro de Python (2022)</em>. Estructura de control.',
+      tipo: 'Página web',
+      link: 'https://ellibrodepython.com/estructuras-control-python',
+    },
+    {
+      tema: 'Estructura de datos',
+      referencia:
+        'Rootstack. (29 de diciembre de 2021) <em>Cómo funcionan las matrices en Python y cómo usarlas</em>. Web log post]. Blogspot.',
+      tipo: 'Blogs',
+      link: 'https://rootstack.com/es/blog/python  ',
+    },
+    {
+      tema: 'Estructura de datos',
+      referencia:
+        'Python Software Foundation. (23 de septiembre de 2022). <em>El tutorial de Python</em>.',
+      tipo: 'Página web',
+      link: 'https://docs.python.org/es/3/tutorial/index.html ',
+    },
+    {
+      tema: 'Entornos de desarrollos',
+      referencia:
+        'Laca, M. (12 de septiembre de 2018). <em>Programación estructurada</em>. Lenguaje Python.',
+      tipo: 'Página web',
+      link:
+        'https://pythones.net/que-es-python-y-sus-caracteristicas/#Caracteristicas_de_Python ',
+    },
+    {
+      tema: 'Estructura de datos',
+      referencia:
+        'Delgado, S. (17 de abril de 2022). <em>Aprende Python</em>. Estructura de datos. ',
+      tipo: 'Libro PDF',
+      link:
+        'https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf ',
+    },
+    {
+      tema: 'Ciclos',
+      referencia:
+        'Moreno, A. & Muñoz, S. (2020). <em>Bucles</em>. Python práctico.',
+      tipo: 'Libro PDF',
+      link:
+        'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed= ',
+    },
+    {
+      tema: 'Operadores y tipos de datos',
+      referencia:
+        'Trejos, O. & Muñoz, L. (2020). <em>Operadores y tipos de datos. Introducción a la programación con Python</em>.',
+      tipo: 'Libro PDF',
+      link:
+        'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed= ',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Código de un programa',
+      significado:
+        'la computadora lo usa para generar una versión del programa que es capaz de procesar',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Depurar',
+      significado:
+        'tarea o proceso especializado para corregir y eliminar errores en un código fuente durante la edición',
+    },
+    {
+      termino: '<em>Frameworks</em>',
+      significado:
+        'herramienta cuyo objetivo es facilitar el desarrollo y la organización de un <em>software</em> o aplicación. ',
+    },
+    {
+      termino: 'Interfaz',
+      significado:
+        'es un programa para que objetos no relacionados se comuniquen entre sí',
+    },
+    {
+      termino: 'Librerías o bibliotecas',
+      significado:
+        'es un conjunto de códigos desarrollados por un programador para ser utilizados posteriormente por él mismo o por otros programadores',
+    },
+    {
+      termino: 'Lenguaje de programación',
+      significado:
+        'es el lenguaje utilizado para realizar el código fuente de todo programa',
+    },
+    {
+      termino: 'Operadores',
+      significado:
+        'son elementos que relacionan de forma diferente, los valores de una o más variables y/o constantes. Es decir, los operadores nos permiten manipular valores',
+    },
+    {
+      termino: 'Programación',
+      significado:
+        'es el proceso que se lleva a cabo tanto en el diseño como en el desarrollo de programas y aplicaciones  ',
+    },
+    {
+      termino: '<em>Script</em>',
+      significado:
+        'instrucciones de un lenguaje de programación escritas en un archivo de texto',
+    },
+    {
+      termino: 'Variable',
+      significado:
+        'es un espacio en la memoria para almacenar un valor que puede ser modificado a lo largo de la ejecución',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Amos, D., Bader, A., Jablonski, J. & Heisler, F. 2020) <em>Python Basics: A Practical Introduction to Python 3</em>. Real Python.',
+    },
+    {
+      referencia:
+        'Joyanes, L. (2020). <em>Fundamentos de programación</em>. McGraw-Hill.',
+      link:
+        'https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=10211 ',
+    },
+    {
+      referencia:
+        'Lewis, R.M. (2017). <em>Tutorial fácil de seguir para aprender la programación de Python en menos de una semana</em>. Studoku.',
+      link:
+        'https://www.studocu.com/es/document/universidad-nebrija/programacion-ii/tutorial-facil-de-seguir-para-aprender-la-programacion-de-python-en-menos-de-una-semana-by-r-m-lewis-z-liborg/13284599 ',
+    },
+    {
+      referencia:
+        'Rossum, G. (2017). <em>El tutorial de Python</em>. Python Software Foundation.',
     },
   ],
   creditos: {

@@ -3,15 +3,14 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p En este estudio de creación de algoritmos en un entorno de desarrollo (IDE), el aprendiz se puede sumergir en una variedad de conceptos y temas muy interesantes que permiten obtener la información suficiente dentro del componente formativo. Podrá diseñar, programar y desarrollar su propio pensamiento lógico basado en la construcción de algoritmos en un entorno de desarrollo, nombre y misión de esta componente. Los temas que son tratados en todo este ciclo son de gran ayuda para resolver tipos de problemas con características tanto simples como complejas, lo que conlleva a un reto constante, debido a que cada día se indagan nuevas tecnologías para la automatización de procesos, con una mayor funcionalidad y potencia; todo esto enfocado en los lenguajes de programación. Como aspecto final de este recurso, los invitamos a observar el siguiente gráfico, que contempla de manera resumida la temática estudiada en este componente formativo:
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

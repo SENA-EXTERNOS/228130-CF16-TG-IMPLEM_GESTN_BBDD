@@ -7,7 +7,7 @@
         span 3
       h1 Métodos y funciones
 
-    .col-md-10.mx-auto.mb-5
+    .col-md-10.mx-auto.mb-5.invertido
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0

@@ -17,8 +17,7 @@
         .bloque-texto-b.color-secundario.p-4.mb-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p: b Un programa es sólo una secuencia de instrucciones que indican a una computadora las tareas a realizar.  Evidentemente se necesita proporcionar estas instrucciones en un lenguaje que la computadora pueda comprender
-            span Según, (Joyanes 2020)
+            p: b Según, (Joyanes 2020): “un programa es sólo una secuencia de instrucciones que indican a una computadora las tareas a realizar.  Evidentemente se necesita proporcionar estas instrucciones en un lenguaje que la computadora pueda comprender”.
             i.fas.fa-quote-right
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 En otras palabras, un programa de ordenador es un conjunto de instrucciones o sentencias propias de un determinado lenguaje de programación, ordenadas lógicamente con el fin de solucionar un problema específico.
@@ -254,10 +253,10 @@
 
     separador
 
-    titulo-segundo.color-acento-contenido(data-aos='fade-right')
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Sintaxis de los lenguajes de programación
 
-    .col-md-10.mx-auto
+    .col-md-10.mx-auto.invertido
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
         .row.m-0.align-items-center.justify-content-between
           .col-lg-4.mb-4.mb-lg-0

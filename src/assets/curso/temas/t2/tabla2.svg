@@ -1,141 +1,649 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="515.142" height="251.877" viewBox="0 0 515.142 251.877">
-  <g id="Grupo_140181" data-name="Grupo 140181" transform="translate(2524.142 4530.877)">
-    <g id="Grupo_140180" data-name="Grupo 140180">
-      <g id="Grupo_134716" data-name="Grupo 134716" transform="translate(-3361 -8885.137)">
-        <g id="Grupo_109589" data-name="Grupo 109589" transform="translate(21.899 1109)">
-          <g id="Grupo_135009" data-name="Grupo 135009">
-            <rect id="Rectángulo_294351" data-name="Rectángulo 294351" width="515" height="220" transform="translate(815.101 3277.137)" fill="#fff"/>
-            <g id="Grupo_135008" data-name="Grupo 135008" transform="translate(2735.879 815.461)">
-              <rect id="Rectángulo_293544" data-name="Rectángulo 293544" width="514.331" height="40.301" transform="translate(-1920.798 2433.005)" fill="#ecf2f9"/>
-              <g id="Rectángulo_293414" data-name="Rectángulo 293414">
-                <rect id="Rectángulo_294331" data-name="Rectángulo 294331" width="129.809" height="248.048" transform="translate(-1920.798 2432.676)" fill="none"/>
-                <rect id="Rectángulo_294332" data-name="Rectángulo 294332" width="129.054" height="247.293" transform="translate(-1920.42 2433.053)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Operador" style="isolation: isolate">
-                <text id="Símbolo" transform="translate(-1887.411 2459.345)" fill="#0c1d30" font-size="13.585" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Símbolo</tspan></text>
-              </g>
-              <g id="Rectángulo_293415" data-name="Rectángulo 293415">
-                <rect id="Rectángulo_294333" data-name="Rectángulo 294333" width="129.809" height="248.048" transform="translate(-1792.498 2432.676)" fill="none"/>
-                <rect id="Rectángulo_294334" data-name="Rectángulo 294334" width="129.054" height="247.293" transform="translate(-1792.121 2433.053)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293416" data-name="Rectángulo 293416">
-                <rect id="Rectángulo_294335" data-name="Rectángulo 294335" width="122.262" height="248.048" transform="translate(-1664.198 2432.676)" fill="none"/>
-                <rect id="Rectángulo_294336" data-name="Rectángulo 294336" width="121.507" height="247.293" transform="translate(-1663.821 2433.053)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293417" data-name="Rectángulo 293417">
-                <rect id="Rectángulo_294337" data-name="Rectángulo 294337" width="135.847" height="248.048" transform="translate(-1541.936 2432.676)" fill="none"/>
-                <rect id="Rectángulo_294338" data-name="Rectángulo 294338" width="135.092" height="247.293" transform="translate(-1541.559 2433.053)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293418" data-name="Rectángulo 293418">
-                <rect id="Rectángulo_294339" data-name="Rectángulo 294339" width="514.708" height="34.716" transform="translate(-1920.798 2472.929)" fill="none"/>
-                <rect id="Rectángulo_294340" data-name="Rectángulo 294340" width="513.953" height="33.962" transform="translate(-1920.42 2473.306)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293419" data-name="Rectángulo 293419">
-                <rect id="Rectángulo_294341" data-name="Rectángulo 294341" width="514.708" height="34.716" transform="translate(-1920.798 2507.645)" fill="none"/>
-                <rect id="Rectángulo_294342" data-name="Rectángulo 294342" width="513.953" height="33.962" transform="translate(-1920.42 2508.022)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293420" data-name="Rectángulo 293420">
-                <rect id="Rectángulo_294343" data-name="Rectángulo 294343" width="514.708" height="34.716" transform="translate(-1920.798 2542.361)" fill="none"/>
-                <rect id="Rectángulo_294344" data-name="Rectángulo 294344" width="513.953" height="33.962" transform="translate(-1920.42 2542.739)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293421" data-name="Rectángulo 293421">
-                <rect id="Rectángulo_294345" data-name="Rectángulo 294345" width="514.708" height="34.716" transform="translate(-1920.798 2577.078)" fill="none"/>
-                <rect id="Rectángulo_294346" data-name="Rectángulo 294346" width="513.953" height="33.962" transform="translate(-1920.42 2577.455)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293422" data-name="Rectángulo 293422">
-                <rect id="Rectángulo_294347" data-name="Rectángulo 294347" width="514.708" height="34.716" transform="translate(-1920.798 2611.794)" fill="none"/>
-                <rect id="Rectángulo_294348" data-name="Rectángulo 294348" width="513.953" height="33.962" transform="translate(-1920.42 2612.171)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Rectángulo_293423" data-name="Rectángulo 293423">
-                <rect id="Rectángulo_294349" data-name="Rectángulo 294349" width="514.708" height="34.716" transform="translate(-1920.798 2646.51)" fill="none"/>
-                <rect id="Rectángulo_294350" data-name="Rectángulo 294350" width="513.953" height="33.962" transform="translate(-1920.42 2646.888)" fill="none" stroke="#d9d9d9" stroke-width="1"/>
-              </g>
-              <g id="Nombre" style="isolation: isolate">
-                <text id="Descripción" transform="translate(-1762.342 2459.345)" fill="#0c1d30" font-size="13.585" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Descripción</tspan></text>
-              </g>
-              <g id="Significado" style="isolation: isolate">
-                <text id="Booleano" transform="translate(-1500.319 2459.345)" fill="#0c1d30" font-size="13.585" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Booleano</tspan></text>
-              </g>
-              <g id="Ejemplo" style="isolation: isolate">
-                <text id="Ejemplo-2" data-name="Ejemplo" transform="translate(-1627.756 2459.345)" fill="#0c1d30" font-size="13.585" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">Ejemplo</tspan></text>
-              </g>
-              <g id="Menor_que" data-name="Menor que" style="isolation: isolate">
-                <text id="Menor_que-2" data-name="Menor que" transform="translate(-1757.082 2562.462)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Menor que</tspan></text>
-              </g>
-              <g id="_" data-name=" " style="isolation: isolate">
-                <text id="_2" data-name="&lt;" transform="translate(-1862.76 2565.582)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&lt;</tspan></text>
-              </g>
-              <g id="x_y" data-name="x y" style="isolation: isolate">
-                <text id="_8_12" data-name="8 &lt; 12" transform="translate(-1622.324 2565.582)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">8 &lt; 12</tspan></text>
-              </g>
-              <g id="x_menor_que_y" data-name="x menor que y" style="isolation: isolate">
-                <text id="TRUE" transform="translate(-1487.698 2565.582)" fill="#006eb8" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">TRUE</tspan></text>
-              </g>
-              <g id="_2-2" data-name=" 2" style="isolation: isolate">
-                <text id="_3" data-name="&gt;" transform="translate(-1862.781 2599.91)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&gt;</tspan></text>
-              </g>
-              <g id="Mayor_que" data-name="Mayor que" style="isolation: isolate">
-                <text id="Mayor_que-2" data-name="Mayor que" transform="translate(-1756.604 2598.3)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Mayor que</tspan></text>
-              </g>
-              <g id="x_y-2" data-name="x y-2" style="isolation: isolate">
-                <text id="_12_7" data-name="12 &gt; 7" transform="translate(-1622.383 2599.91)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">12 &gt; 7</tspan></text>
-              </g>
-              <g id="x_mayor_que_y" data-name="x mayor que y" style="isolation: isolate">
-                <text id="TRUE-2" data-name="TRUE" transform="translate(-1487.698 2599.91)" fill="#006eb8" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">TRUE</tspan></text>
-              </g>
-              <g id="_3-2" data-name=" 3" style="isolation: isolate">
-                <text id="_4" data-name="==" transform="translate(-1867.749 2495.068)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">==</tspan></text>
-              </g>
-              <g id="Igual_a" data-name="Igual a" style="isolation: isolate">
-                <text id="Igual_a-2" data-name="Igual a" transform="translate(-1746.227 2494.186)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Igual a</tspan></text>
-              </g>
-              <g id="x_y-3" data-name="x y-3" style="isolation: isolate">
-                <text id="_5_7" data-name="5 = = 7" transform="translate(-1624.671 2495.068)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">5 = = 7</tspan></text>
-              </g>
-              <g id="x_igual_a_y" data-name="x igual a y" style="isolation: isolate">
-                <text id="FALSE" transform="translate(-1490.069 2494.186)" fill="#800d0f" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">FALSE</tspan></text>
-              </g>
-              <g id="_4-2" data-name=" 4" style="isolation: isolate">
-                <text id="_5" data-name="!=" transform="translate(-1865.413 2531.33)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">!=</tspan></text>
-              </g>
-              <g id="Distinto_a" data-name="Distinto a" style="isolation: isolate">
-                <text id="Distinto_a-2" data-name="Distinto a" transform="translate(-1753.783 2528.966)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Distinto a</tspan></text>
-              </g>
-              <g id="x_y-4" data-name="x y-4" style="isolation: isolate">
-                <text id="ROJO_VERDE" data-name="ROJO ! = VERDE" transform="translate(-1656.344 2531.33)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">ROJO ! = VERDE</tspan></text>
-              </g>
-              <g id="x_distinto_de_y" data-name="x distinto de y" style="isolation: isolate">
-                <text id="TRUE-3" data-name="TRUE" transform="translate(-1487.698 2531.33)" fill="#006eb8" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">TRUE</tspan></text>
-              </g>
-              <g id="_5-2" data-name=" 5" style="isolation: isolate">
-                <text id="_6" data-name="&lt;=" transform="translate(-1867.178 2634.334)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&lt;=</tspan></text>
-              </g>
-              <g id="Menor_o_igual_que" data-name="Menor o igual que" style="isolation: isolate">
-                <text id="Menor_o_igual_que-2" data-name="Menor o igual que" transform="translate(-1776.445 2631.315)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Menor o igual que</tspan></text>
-              </g>
-              <g id="x_y-5" data-name="x y-5" style="isolation: isolate">
-                <text id="_16_17" data-name="16 &lt; = 17" transform="translate(-1632.852 2634.334)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">16 &lt; = 17</tspan></text>
-              </g>
-              <g id="x_menor_o_igual_a_y" data-name="x menor o igual a y" style="isolation: isolate">
-                <text id="TRUE-4" data-name="TRUE" transform="translate(-1487.698 2634.334)" fill="#006eb8" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">TRUE</tspan></text>
-              </g>
-              <g id="_6-2" data-name=" 6" style="isolation: isolate">
-                <text id="_7" data-name="&gt;=" transform="translate(-1867.199 2669.073)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">&gt;=</tspan></text>
-              </g>
-              <g id="Mayor_o_igual_que_" data-name="Mayor o igual que " style="isolation: isolate">
-                <text id="Mayor_o_igual_que" data-name="Mayor o igual que" transform="translate(-1775.967 2670.483)" fill="#0c1d30" font-size="12.075" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">Mayor o igual que</tspan></text>
-              </g>
-              <g id="x_y-6" data-name="x y-6" style="isolation: isolate">
-                <text id="_67_72" data-name="67 &gt; = 72" transform="translate(-1632.911 2669.073)" fill="#0c1d30" font-size="15.094" font-family="Roboto-Regular, Roboto" style="isolation: isolate"><tspan x="0" y="0">67 &gt; = 72</tspan></text>
-              </g>
-              <g id="x_mayor_o_igual_a_y" data-name="x mayor o igual a y" style="isolation: isolate">
-                <text id="FALSE-2" data-name="FALSE" transform="translate(-1490.069 2669.073)" fill="#800d0f" font-size="12.075" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="0" y="0">FALSE</tspan></text>
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <path id="Trazado_196615" data-name="Trazado 196615" d="M2.77,0H516.489V3.377H2.77Z" transform="translate(-2526.02 -4530.877)" fill="#ffb30b"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 515.1 251.9" style="enable-background:new 0 0 515.1 251.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#ECF2F9;}
+	.st2{fill:none;}
+	.st3{fill:none;stroke:#D9D9D9;}
+	.st4{enable-background:new    ;}
+	.st5{fill:#0C1D30;}
+	.st6{fill:#006EB8;}
+	.st7{fill:#800D0F;}
+	.st8{fill:#FFB30B;}
+</style>
+<g id="Grupo_140181" transform="translate(2524.142 4530.877)">
+	<g id="Grupo_140180">
+		<g id="Grupo_134716" transform="translate(-3361 -8885.137)">
+			<g id="Grupo_109589" transform="translate(21.899 1109)">
+				<g id="Grupo_135009">
+					<rect id="Rectángulo_294351" x="815.1" y="3277.1" class="st0" width="515" height="220"/>
+					<g id="Grupo_135008" transform="translate(2735.879 815.461)">
+						<rect id="Rectángulo_293544" x="-1920.8" y="2433" class="st1" width="514.3" height="40.3"/>
+						<g id="Rectángulo_293414">
+							<rect id="Rectángulo_294331" x="-1920.8" y="2432.7" class="st2" width="129.8" height="248"/>
+							<rect id="Rectángulo_294332" x="-1920.4" y="2433.1" class="st3" width="129.1" height="247.3"/>
+						</g>
+						<g id="Operador">
+							<g class="st4">
+								<path class="st5" d="M-1881.5,2456.8c0-0.4-0.1-0.7-0.4-0.9c-0.3-0.2-0.7-0.4-1.4-0.6c-0.7-0.2-1.2-0.4-1.6-0.7
+									c-1.1-0.6-1.6-1.4-1.6-2.4c0-0.5,0.1-1,0.4-1.4s0.7-0.7,1.3-1c0.6-0.2,1.2-0.3,1.9-0.3c0.7,0,1.3,0.1,1.8,0.4s1,0.6,1.3,1.1
+									c0.3,0.5,0.4,1,0.4,1.6h-2c0-0.4-0.1-0.8-0.4-1c-0.3-0.2-0.7-0.4-1.2-0.4c-0.5,0-0.9,0.1-1.1,0.3c-0.3,0.2-0.4,0.5-0.4,0.8
+									c0,0.3,0.2,0.6,0.5,0.8c0.3,0.2,0.8,0.4,1.4,0.6c1.1,0.3,2,0.8,2.5,1.3c0.5,0.5,0.8,1.1,0.8,1.9c0,0.8-0.3,1.5-0.9,2
+									c-0.6,0.5-1.5,0.7-2.6,0.7c-0.7,0-1.4-0.1-2-0.4c-0.6-0.3-1.1-0.6-1.4-1.1c-0.3-0.5-0.5-1-0.5-1.6h2c0,1.1,0.6,1.6,1.9,1.6
+									c0.5,0,0.8-0.1,1.1-0.3C-1881.7,2457.4-1881.5,2457.2-1881.5,2456.8z"/>
+								<path class="st5" d="M-1876.3,2459.3h-1.9v-7.2h1.9V2459.3z M-1876.8,2449.3h2.1l-1.8,2.1h-1.6L-1876.8,2449.3z"/>
+								<path class="st5" d="M-1872.8,2452.2l0.1,0.8c0.5-0.6,1.2-0.9,2.1-0.9c0.9,0,1.6,0.4,1.9,1.1c0.5-0.7,1.2-1.1,2.2-1.1
+									c0.8,0,1.4,0.2,1.7,0.7s0.6,1.1,0.6,2v4.6h-1.9v-4.6c0-0.4-0.1-0.7-0.2-0.9s-0.4-0.3-0.8-0.3c-0.6,0-1,0.3-1.2,0.8l0,4.9
+									h-1.9v-4.6c0-0.4-0.1-0.7-0.2-0.9c-0.2-0.2-0.4-0.3-0.8-0.3c-0.5,0-0.9,0.2-1.2,0.7v5.1h-1.9v-7.2H-1872.8z"/>
+								<path class="st5" d="M-1856.4,2455.8c0,1.2-0.2,2-0.7,2.7c-0.5,0.6-1.2,1-2.1,1c-0.8,0-1.4-0.3-1.9-0.9l-0.1,0.8h-1.7v-10.2
+									h1.9v3.7c0.4-0.5,1-0.8,1.7-0.8c0.9,0,1.6,0.3,2.1,1s0.7,1.5,0.7,2.7V2455.8z M-1858.3,2455.7c0-0.7-0.1-1.3-0.3-1.6
+									s-0.6-0.5-1-0.5c-0.6,0-1,0.3-1.3,0.8v2.8c0.2,0.5,0.7,0.8,1.3,0.8c0.6,0,1-0.3,1.2-0.9
+									C-1858.3,2456.7-1858.3,2456.3-1858.3,2455.7z"/>
+								<path class="st5" d="M-1855.5,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1c-1,0-1.9-0.3-2.5-1
+									C-1855.2,2457.8-1855.5,2456.9-1855.5,2455.7L-1855.5,2455.7z M-1853.6,2455.8c0,0.7,0.1,1.2,0.4,1.6
+									c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.4-0.6-0.6-1.1-0.6
+									c-0.5,0-0.8,0.2-1.1,0.5C-1853.4,2454.5-1853.6,2455.1-1853.6,2455.8z"/>
+								<path class="st5" d="M-1845.5,2459.3h-1.9v-10.2h1.9V2459.3z"/>
+								<path class="st5" d="M-1844.2,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1c-1,0-1.9-0.3-2.5-1
+									C-1843.9,2457.8-1844.2,2456.9-1844.2,2455.7L-1844.2,2455.7z M-1842.3,2455.8c0,0.7,0.1,1.2,0.4,1.6
+									c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.4-0.6-0.6-1.1-0.6
+									c-0.5,0-0.8,0.2-1.1,0.5C-1842.2,2454.5-1842.3,2455.1-1842.3,2455.8z"/>
+							</g>
+						</g>
+						<g id="Rectángulo_293415">
+							<rect id="Rectángulo_294333" x="-1792.5" y="2432.7" class="st2" width="129.8" height="248"/>
+							<rect id="Rectángulo_294334" x="-1792.1" y="2433.1" class="st3" width="129.1" height="247.3"/>
+						</g>
+						<g id="Rectángulo_293416">
+							<rect id="Rectángulo_294335" x="-1664.2" y="2432.7" class="st2" width="122.3" height="248"/>
+							<rect id="Rectángulo_294336" x="-1663.8" y="2433.1" class="st3" width="121.5" height="247.3"/>
+						</g>
+						<g id="Rectángulo_293417">
+							<rect id="Rectángulo_294337" x="-1541.9" y="2432.7" class="st2" width="135.8" height="248"/>
+							<rect id="Rectángulo_294338" x="-1541.6" y="2433.1" class="st3" width="135.1" height="247.3"/>
+						</g>
+						<g id="Rectángulo_293418">
+							<rect id="Rectángulo_294339" x="-1920.8" y="2472.9" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294340" x="-1920.4" y="2473.3" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Rectángulo_293419">
+							<rect id="Rectángulo_294341" x="-1920.8" y="2507.6" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294342" x="-1920.4" y="2508" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Rectángulo_293420">
+							<rect id="Rectángulo_294343" x="-1920.8" y="2542.4" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294344" x="-1920.4" y="2542.7" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Rectángulo_293421">
+							<rect id="Rectángulo_294345" x="-1920.8" y="2577.1" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294346" x="-1920.4" y="2577.5" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Rectángulo_293422">
+							<rect id="Rectángulo_294347" x="-1920.8" y="2611.8" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294348" x="-1920.4" y="2612.2" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Rectángulo_293423">
+							<rect id="Rectángulo_294349" x="-1920.8" y="2646.5" class="st2" width="514.7" height="34.7"/>
+							<rect id="Rectángulo_294350" x="-1920.4" y="2646.9" class="st3" width="514" height="34"/>
+						</g>
+						<g id="Nombre">
+							<g class="st4">
+								<path class="st5" d="M-1761.5,2459.3v-9.7h3c0.8,0,1.6,0.2,2.3,0.6c0.7,0.4,1.2,0.9,1.6,1.6c0.4,0.7,0.6,1.5,0.6,2.4v0.4
+									c0,0.9-0.2,1.7-0.6,2.4c-0.4,0.7-0.9,1.2-1.6,1.6c-0.7,0.4-1.4,0.6-2.3,0.6H-1761.5z M-1759.5,2451.3v6.4h1
+									c0.8,0,1.4-0.3,1.8-0.8c0.4-0.5,0.6-1.2,0.6-2.2v-0.5c0-1-0.2-1.7-0.6-2.2c-0.4-0.5-1-0.8-1.8-0.8H-1759.5z"/>
+								<path class="st5" d="M-1749.5,2459.5c-1.1,0-1.9-0.3-2.6-1s-1-1.5-1-2.6v-0.2c0-0.7,0.1-1.4,0.4-1.9s0.7-1,1.2-1.3
+									s1.1-0.5,1.7-0.5c1,0,1.8,0.3,2.3,0.9c0.6,0.6,0.8,1.5,0.8,2.6v0.8h-4.6c0.1,0.5,0.2,0.8,0.6,1.1c0.3,0.3,0.7,0.4,1.2,0.4
+									c0.7,0,1.3-0.3,1.7-0.8l0.9,1.1c-0.3,0.4-0.7,0.7-1.2,1S-1748.9,2459.5-1749.5,2459.5z M-1749.7,2453.6
+									c-0.4,0-0.7,0.1-0.9,0.4c-0.2,0.3-0.4,0.6-0.5,1.1h2.7v-0.2c0-0.4-0.1-0.8-0.3-1C-1749,2453.7-1749.3,2453.6-1749.7,2453.6z
+									"/>
+								<path class="st5" d="M-1741.5,2457.4c0-0.2-0.1-0.4-0.3-0.6c-0.2-0.1-0.6-0.3-1.1-0.4c-1.7-0.4-2.6-1.1-2.6-2.2
+									c0-0.6,0.3-1.2,0.8-1.6s1.2-0.6,2.1-0.6c0.9,0,1.6,0.2,2.2,0.6c0.5,0.4,0.8,1,0.8,1.7h-1.9c0-0.3-0.1-0.5-0.3-0.7
+									s-0.5-0.3-0.8-0.3c-0.3,0-0.6,0.1-0.7,0.2c-0.2,0.1-0.3,0.3-0.3,0.6c0,0.2,0.1,0.4,0.3,0.5c0.2,0.1,0.5,0.2,1,0.3
+									c0.5,0.1,0.9,0.2,1.2,0.3c1,0.4,1.5,1,1.5,1.9c0,0.7-0.3,1.2-0.8,1.6c-0.6,0.4-1.3,0.6-2.2,0.6c-0.6,0-1.1-0.1-1.6-0.3
+									c-0.5-0.2-0.8-0.5-1.1-0.9c-0.3-0.4-0.4-0.8-0.4-1.2h1.8c0,0.3,0.1,0.6,0.4,0.8s0.5,0.3,0.9,0.3c0.4,0,0.6-0.1,0.8-0.2
+									C-1741.6,2457.8-1741.5,2457.6-1741.5,2457.4z"/>
+								<path class="st5" d="M-1735.5,2457.9c0.4,0,0.6-0.1,0.9-0.3c0.2-0.2,0.3-0.5,0.3-0.8h1.8c0,0.5-0.1,0.9-0.4,1.3
+									c-0.3,0.4-0.6,0.7-1.1,0.9c-0.5,0.2-1,0.3-1.5,0.3c-1,0-1.8-0.3-2.4-1s-0.9-1.6-0.9-2.7v-0.1c0-1.1,0.3-2,0.9-2.6
+									c0.6-0.7,1.4-1,2.4-1c0.9,0,1.6,0.3,2.2,0.8c0.5,0.5,0.8,1.2,0.8,2h-1.8c0-0.4-0.1-0.7-0.3-0.9s-0.5-0.4-0.9-0.4
+									c-0.4,0-0.8,0.2-1,0.5c-0.2,0.3-0.3,0.9-0.3,1.6v0.2c0,0.7,0.1,1.3,0.3,1.6C-1736.3,2457.8-1735.9,2457.9-1735.5,2457.9z"/>
+								<path class="st5" d="M-1727.3,2454c-0.3,0-0.5-0.1-0.7-0.1c-0.7,0-1.2,0.2-1.4,0.7v4.7h-1.9v-7.2h1.8l0.1,0.9
+									c0.4-0.7,0.9-1,1.6-1c0.2,0,0.4,0,0.6,0.1L-1727.3,2454z"/>
+								<path class="st5" d="M-1726.4,2450.3c0-0.3,0.1-0.5,0.3-0.7s0.5-0.3,0.8-0.3c0.3,0,0.6,0.1,0.8,0.3c0.2,0.2,0.3,0.4,0.3,0.7
+									c0,0.3-0.1,0.5-0.3,0.7s-0.5,0.3-0.8,0.3c-0.3,0-0.6-0.1-0.8-0.3S-1726.4,2450.6-1726.4,2450.3z M-1724.4,2459.3h-1.9v-7.2
+									h1.9V2459.3z"/>
+								<path class="st5" d="M-1716.3,2455.8c0,1.1-0.3,2-0.8,2.7c-0.5,0.7-1.2,1-2,1c-0.7,0-1.3-0.3-1.8-0.8v3.4h-1.9v-9.9h1.8
+									l0.1,0.7c0.5-0.6,1.1-0.8,1.8-0.8c0.9,0,1.6,0.3,2.1,1C-1716.6,2453.7-1716.3,2454.6-1716.3,2455.8L-1716.3,2455.8z
+									 M-1718.3,2455.7c0-0.7-0.1-1.2-0.4-1.6c-0.2-0.4-0.6-0.5-1-0.5c-0.6,0-1,0.2-1.2,0.7v2.9c0.2,0.5,0.7,0.7,1.3,0.7
+									C-1718.7,2457.9-1718.3,2457.2-1718.3,2455.7z"/>
+								<path class="st5" d="M-1712.2,2457.9c0.4,0,0.6-0.1,0.9-0.3c0.2-0.2,0.3-0.5,0.3-0.8h1.8c0,0.5-0.1,0.9-0.4,1.3
+									c-0.3,0.4-0.6,0.7-1.1,0.9c-0.5,0.2-1,0.3-1.5,0.3c-1,0-1.8-0.3-2.4-1s-0.9-1.6-0.9-2.7v-0.1c0-1.1,0.3-2,0.9-2.6
+									c0.6-0.7,1.4-1,2.4-1c0.9,0,1.6,0.3,2.2,0.8c0.5,0.5,0.8,1.2,0.8,2h-1.8c0-0.4-0.1-0.7-0.3-0.9s-0.5-0.4-0.9-0.4
+									c-0.4,0-0.8,0.2-1,0.5c-0.2,0.3-0.3,0.9-0.3,1.6v0.2c0,0.7,0.1,1.3,0.3,1.6C-1713,2457.8-1712.6,2457.9-1712.2,2457.9z"/>
+								<path class="st5" d="M-1708.1,2450.3c0-0.3,0.1-0.5,0.3-0.7s0.5-0.3,0.8-0.3c0.3,0,0.6,0.1,0.8,0.3c0.2,0.2,0.3,0.4,0.3,0.7
+									c0,0.3-0.1,0.5-0.3,0.7s-0.5,0.3-0.8,0.3c-0.3,0-0.6-0.1-0.8-0.3S-1708.1,2450.6-1708.1,2450.3z M-1706.1,2459.3h-1.9v-7.2
+									h1.9V2459.3z"/>
+								<path class="st5" d="M-1704.8,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1c-1,0-1.9-0.3-2.5-1
+									C-1704.5,2457.8-1704.8,2456.9-1704.8,2455.7L-1704.8,2455.7z M-1702.9,2455.8c0,0.7,0.1,1.2,0.4,1.6
+									c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.4-0.6-0.6-1.1-0.6
+									c-0.5,0-0.8,0.2-1.1,0.5C-1702.7,2454.5-1702.9,2455.1-1702.9,2455.8z M-1701,2449.2h2.1l-1.8,2.1h-1.6L-1701,2449.2z"/>
+								<path class="st5" d="M-1695,2452.2l0.1,0.8c0.5-0.6,1.2-1,2.1-1c0.8,0,1.3,0.2,1.7,0.7c0.4,0.4,0.6,1.1,0.6,2v4.6h-1.9v-4.6
+									c0-0.4-0.1-0.7-0.3-0.9s-0.5-0.3-0.9-0.3c-0.5,0-0.9,0.2-1.2,0.7v5.1h-1.9v-7.2H-1695z"/>
+							</g>
+						</g>
+						<g id="Significado">
+							<g class="st4">
+								<path class="st5" d="M-1499.5,2459.3v-9.7h3.4c1.2,0,2.1,0.2,2.7,0.7c0.6,0.4,0.9,1.1,0.9,2c0,0.5-0.1,0.9-0.4,1.3
+									s-0.6,0.6-1,0.8c0.5,0.1,0.9,0.4,1.2,0.8s0.4,0.8,0.4,1.4c0,0.9-0.3,1.6-0.9,2.1c-0.6,0.5-1.4,0.7-2.5,0.7H-1499.5z
+									 M-1497.5,2453.7h1.5c1,0,1.5-0.4,1.5-1.2c0-0.4-0.1-0.8-0.4-0.9c-0.3-0.2-0.7-0.3-1.2-0.3h-1.4V2453.7z M-1497.5,2455.1
+									v2.6h1.7c0.5,0,0.8-0.1,1.1-0.3c0.3-0.2,0.4-0.5,0.4-0.9c0-0.9-0.5-1.3-1.4-1.3H-1497.5z"/>
+								<path class="st5" d="M-1491.2,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1s-1.9-0.3-2.5-1
+									S-1491.2,2456.9-1491.2,2455.7L-1491.2,2455.7z M-1489.3,2455.8c0,0.7,0.1,1.2,0.4,1.6c0.3,0.4,0.6,0.5,1.1,0.5
+									c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6s-0.6-0.6-1.1-0.6c-0.5,0-0.8,0.2-1.1,0.5
+									C-1489.2,2454.5-1489.3,2455.1-1489.3,2455.8z"/>
+								<path class="st5" d="M-1483.5,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1c-1,0-1.9-0.3-2.5-1
+									C-1483.2,2457.8-1483.5,2456.9-1483.5,2455.7L-1483.5,2455.7z M-1481.6,2455.8c0,0.7,0.1,1.2,0.4,1.6
+									c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.4-0.6-0.6-1.1-0.6
+									c-0.5,0-0.8,0.2-1.1,0.5C-1481.5,2454.5-1481.6,2455.1-1481.6,2455.8z"/>
+								<path class="st5" d="M-1473.5,2459.3h-1.9v-10.2h1.9V2459.3z"/>
+								<path class="st5" d="M-1468.6,2459.5c-1.1,0-1.9-0.3-2.6-1s-1-1.5-1-2.6v-0.2c0-0.7,0.1-1.4,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3
+									s1.1-0.5,1.7-0.5c1,0,1.8,0.3,2.3,0.9s0.8,1.5,0.8,2.6v0.8h-4.6c0.1,0.5,0.2,0.8,0.6,1.1c0.3,0.3,0.7,0.4,1.2,0.4
+									c0.7,0,1.3-0.3,1.7-0.8l0.9,1.1c-0.3,0.4-0.7,0.7-1.2,1C-1467.5,2459.4-1468,2459.5-1468.6,2459.5z M-1468.9,2453.6
+									c-0.4,0-0.7,0.1-0.9,0.4c-0.2,0.3-0.4,0.6-0.5,1.1h2.7v-0.2c0-0.4-0.1-0.8-0.3-1
+									C-1468.1,2453.7-1468.5,2453.6-1468.9,2453.6z"/>
+								<path class="st5" d="M-1460.4,2459.3c-0.1-0.2-0.2-0.4-0.2-0.6c-0.5,0.5-1.1,0.8-1.8,0.8c-0.7,0-1.3-0.2-1.7-0.6
+									s-0.7-0.9-0.7-1.5c0-0.8,0.3-1.3,0.8-1.8c0.6-0.4,1.4-0.6,2.4-0.6h0.9v-0.4c0-0.3-0.1-0.6-0.3-0.8s-0.4-0.3-0.8-0.3
+									c-0.3,0-0.6,0.1-0.8,0.2c-0.2,0.2-0.3,0.4-0.3,0.6h-1.9c0-0.4,0.1-0.8,0.4-1.2c0.3-0.4,0.6-0.6,1.1-0.8s1-0.3,1.6-0.3
+									c0.9,0,1.6,0.2,2.1,0.7s0.8,1.1,0.8,1.9v3.1c0,0.7,0.1,1.2,0.3,1.5v0.1H-1460.4z M-1462,2458c0.3,0,0.5-0.1,0.8-0.2
+									c0.2-0.1,0.4-0.3,0.5-0.5v-1.2h-0.7c-1,0-1.5,0.3-1.5,1l0,0.1c0,0.2,0.1,0.4,0.3,0.6C-1462.6,2457.9-1462.3,2458-1462,2458z
+									"/>
+								<path class="st5" d="M-1455.6,2452.2l0.1,0.8c0.5-0.6,1.2-1,2.1-1c0.8,0,1.3,0.2,1.7,0.7c0.4,0.4,0.6,1.1,0.6,2v4.6h-1.9
+									v-4.6c0-0.4-0.1-0.7-0.3-0.9s-0.5-0.3-0.9-0.3c-0.5,0-0.9,0.2-1.2,0.7v5.1h-1.9v-7.2H-1455.6z"/>
+								<path class="st5" d="M-1450,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1s-1.9-0.3-2.5-1S-1450,2456.9-1450,2455.7
+									L-1450,2455.7z M-1448.1,2455.8c0,0.7,0.1,1.2,0.4,1.6c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5
+									c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6s-0.6-0.6-1.1-0.6c-0.5,0-0.8,0.2-1.1,0.5
+									C-1448,2454.5-1448.1,2455.1-1448.1,2455.8z"/>
+							</g>
+						</g>
+						<g id="Ejemplo">
+							<g class="st4">
+								<path class="st5" d="M-1621.1,2455.1h-3.8v2.6h4.5v1.6h-6.5v-9.7h6.5v1.6h-4.5v2.3h3.8V2455.1z"/>
+								<path class="st5" d="M-1617.3,2452.2v7.6c0,0.8-0.2,1.4-0.6,1.8c-0.4,0.4-1,0.7-1.8,0.7c-0.3,0-0.6,0-0.9-0.1v-1.5
+									c0.2,0,0.4,0.1,0.6,0.1c0.6,0,0.9-0.3,0.9-0.9v-7.6H-1617.3z M-1619.4,2450.3c0-0.3,0.1-0.5,0.3-0.7s0.5-0.3,0.8-0.3
+									c0.3,0,0.6,0.1,0.8,0.3s0.3,0.4,0.3,0.7c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.5,0.3-0.8,0.3c-0.3,0-0.6-0.1-0.8-0.3
+									C-1619.3,2450.8-1619.4,2450.6-1619.4,2450.3z"/>
+								<path class="st5" d="M-1612.5,2459.5c-1.1,0-1.9-0.3-2.6-1s-1-1.5-1-2.6v-0.2c0-0.7,0.1-1.4,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3
+									s1.1-0.5,1.7-0.5c1,0,1.8,0.3,2.3,0.9c0.6,0.6,0.8,1.5,0.8,2.6v0.8h-4.6c0.1,0.5,0.2,0.8,0.6,1.1c0.3,0.3,0.7,0.4,1.2,0.4
+									c0.7,0,1.3-0.3,1.7-0.8l0.9,1.1c-0.3,0.4-0.7,0.7-1.2,1C-1611.4,2459.4-1611.9,2459.5-1612.5,2459.5z M-1612.8,2453.6
+									c-0.4,0-0.7,0.1-0.9,0.4s-0.4,0.6-0.5,1.1h2.7v-0.2c0-0.4-0.1-0.8-0.3-1C-1612,2453.7-1612.4,2453.6-1612.8,2453.6z"/>
+								<path class="st5" d="M-1606.7,2452.2l0.1,0.8c0.5-0.6,1.2-0.9,2.1-0.9c0.9,0,1.6,0.4,1.9,1.1c0.5-0.7,1.2-1.1,2.2-1.1
+									c0.8,0,1.4,0.2,1.7,0.7c0.4,0.5,0.6,1.1,0.6,2v4.6h-1.9v-4.6c0-0.4-0.1-0.7-0.2-0.9s-0.4-0.3-0.8-0.3c-0.6,0-1,0.3-1.2,0.8
+									l0,4.9h-1.9v-4.6c0-0.4-0.1-0.7-0.2-0.9c-0.2-0.2-0.4-0.3-0.8-0.3c-0.5,0-0.9,0.2-1.2,0.7v5.1h-1.9v-7.2H-1606.7z"/>
+								<path class="st5" d="M-1590.3,2455.8c0,1.1-0.3,2-0.8,2.7c-0.5,0.7-1.2,1-2,1c-0.7,0-1.3-0.3-1.8-0.8v3.4h-1.9v-9.9h1.8
+									l0.1,0.7c0.5-0.6,1.1-0.8,1.8-0.8c0.9,0,1.6,0.3,2.1,1C-1590.5,2453.7-1590.3,2454.6-1590.3,2455.8L-1590.3,2455.8z
+									 M-1592.2,2455.7c0-0.7-0.1-1.2-0.4-1.6c-0.2-0.4-0.6-0.5-1-0.5c-0.6,0-1,0.2-1.2,0.7v2.9c0.2,0.5,0.7,0.7,1.3,0.7
+									C-1592.7,2457.9-1592.2,2457.2-1592.2,2455.7z"/>
+								<path class="st5" d="M-1587.1,2459.3h-1.9v-10.2h1.9V2459.3z"/>
+								<path class="st5" d="M-1585.8,2455.7c0-0.7,0.1-1.3,0.4-1.9c0.3-0.6,0.7-1,1.2-1.3c0.5-0.3,1.1-0.5,1.8-0.5
+									c1,0,1.8,0.3,2.4,0.9s1,1.4,1,2.4l0,0.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.5,1c-1,0-1.9-0.3-2.5-1
+									C-1585.5,2457.8-1585.8,2456.9-1585.8,2455.7L-1585.8,2455.7z M-1583.9,2455.8c0,0.7,0.1,1.2,0.4,1.6
+									c0.3,0.4,0.6,0.5,1.1,0.5c0.5,0,0.8-0.2,1.1-0.5c0.3-0.4,0.4-0.9,0.4-1.7c0-0.7-0.1-1.2-0.4-1.6c-0.3-0.4-0.6-0.6-1.1-0.6
+									c-0.5,0-0.8,0.2-1.1,0.5C-1583.7,2454.5-1583.9,2455.1-1583.9,2455.8z"/>
+							</g>
+						</g>
+						<g id="Menor_que">
+							<g class="st4">
+								<path class="st5" d="M-1754.6,2553.9l2.8,7l2.8-7h1.5v8.6h-1.1v-3.3l0.1-3.6l-2.8,7h-0.9l-2.8-6.9l0.1,3.6v3.3h-1.1v-8.6
+									H-1754.6z"/>
+								<path class="st5" d="M-1743.1,2562.6c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1741.2,2562.2-1742,2562.6-1743.1,2562.6z
+									 M-1743.2,2556.9c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1742.4,2557-1742.7,2556.9-1743.2,2556.9z"/>
+								<path class="st5" d="M-1738.3,2556.1l0,0.8c0.5-0.6,1.1-0.9,1.9-0.9c1.3,0,2,0.8,2,2.3v4.2h-1.1v-4.2c0-0.5-0.1-0.8-0.3-1
+									c-0.2-0.2-0.5-0.3-1-0.3c-0.4,0-0.7,0.1-0.9,0.3c-0.3,0.2-0.5,0.4-0.6,0.7v4.5h-1.1v-6.4H-1738.3z"/>
+								<path class="st5" d="M-1732.9,2559.2c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1732.9,2560.3-1732.9,2559.2L-1732.9,2559.2z M-1731.8,2559.3c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1731.7,2557.9-1731.8,2558.5-1731.8,2559.3z"/>
+								<path class="st5" d="M-1722.7,2557.1c-0.2,0-0.3,0-0.5,0c-0.7,0-1.2,0.3-1.5,0.9v4.5h-1.1v-6.4h1.1l0,0.7
+									c0.4-0.6,0.9-0.9,1.5-0.9c0.2,0,0.4,0,0.5,0.1V2557.1z"/>
+								<path class="st5" d="M-1719,2559.2c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.9-0.9c0.8,0,1.4,0.3,1.8,0.8l0-0.6h1v8.8h-1.1v-3
+									c-0.4,0.5-1,0.7-1.8,0.7c-0.8,0-1.4-0.3-1.8-0.9S-1719,2560.3-1719,2559.2L-1719,2559.2z M-1717.9,2559.3
+									c0,0.7,0.2,1.3,0.5,1.7c0.3,0.4,0.7,0.6,1.2,0.6c0.6,0,1.1-0.3,1.5-0.9v-3.1c-0.3-0.6-0.8-0.8-1.5-0.8
+									c-0.5,0-0.9,0.2-1.3,0.6C-1717.7,2557.9-1717.9,2558.5-1717.9,2559.3z"/>
+								<path class="st5" d="M-1707.9,2561.8c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1707.9,2561.8z"/>
+								<path class="st5" d="M-1702.5,2562.6c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1700.7,2562.2-1701.5,2562.6-1702.5,2562.6
+									z M-1702.7,2556.9c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1701.8,2557-1702.2,2556.9-1702.7,2556.9z"/>
+							</g>
+						</g>
+						<g id="_">
+							<g class="st4">
+								<path class="st5" d="M-1860.2,2561l4.2,1.5v2.1l-6.3-2.7v-1.7l6.3-2.7v2.1L-1860.2,2561z"/>
+							</g>
+						</g>
+						<g id="x_y">
+							<g class="st4">
+								<path class="st5" d="M-1614.9,2557.7c0,0.5-0.1,1-0.4,1.4c-0.3,0.4-0.7,0.7-1.1,1c0.6,0.2,1,0.6,1.3,1.1s0.5,1,0.5,1.6
+									c0,0.9-0.3,1.7-0.9,2.2c-0.6,0.5-1.5,0.8-2.5,0.8c-1,0-1.9-0.3-2.5-0.8c-0.6-0.6-0.9-1.3-0.9-2.2c0-0.6,0.2-1.1,0.5-1.6
+									c0.3-0.5,0.8-0.8,1.3-1.1c-0.5-0.2-0.9-0.6-1.1-1c-0.3-0.4-0.4-0.9-0.4-1.4c0-0.9,0.3-1.6,0.9-2.2c0.6-0.5,1.3-0.8,2.3-0.8
+									c0.9,0,1.7,0.3,2.3,0.8C-1615.2,2556-1614.9,2556.7-1614.9,2557.7z M-1616,2562.7c0-0.6-0.2-1.1-0.6-1.5s-0.9-0.6-1.5-0.6
+									s-1.1,0.2-1.5,0.6c-0.4,0.4-0.6,0.9-0.6,1.5s0.2,1.1,0.5,1.4c0.4,0.3,0.9,0.5,1.5,0.5c0.6,0,1.1-0.2,1.5-0.5
+									C-1616.2,2563.7-1616,2563.3-1616,2562.7z M-1618.1,2555.8c-0.5,0-1,0.2-1.3,0.5c-0.3,0.3-0.5,0.8-0.5,1.4
+									c0,0.5,0.2,1,0.5,1.3c0.3,0.3,0.8,0.5,1.3,0.5c0.5,0,1-0.2,1.3-0.5c0.3-0.3,0.5-0.8,0.5-1.3c0-0.5-0.2-1-0.5-1.3
+									C-1617.1,2556-1617.6,2555.8-1618.1,2555.8z"/>
+								<path class="st5" d="M-1608.2,2560.8l4.6,1.9v1.4l-6-2.8v-1.1l6-2.8v1.4L-1608.2,2560.8z"/>
+								<path class="st5" d="M-1593.3,2565.6h-1.4v-9.1l-2.7,1v-1.2l3.9-1.5h0.2V2565.6z"/>
+								<path class="st5" d="M-1582.3,2565.6h-7v-1l3.7-4.1c0.6-0.6,0.9-1.1,1.1-1.5s0.3-0.8,0.3-1.2c0-0.6-0.2-1-0.5-1.4
+									c-0.3-0.4-0.8-0.5-1.4-0.5c-0.7,0-1.2,0.2-1.6,0.6c-0.4,0.4-0.6,0.9-0.6,1.6h-1.4c0-1,0.3-1.8,1-2.4
+									c0.6-0.6,1.5-0.9,2.6-0.9c1,0,1.8,0.3,2.4,0.8c0.6,0.5,0.9,1.2,0.9,2.1c0,1.1-0.7,2.3-2,3.8l-2.9,3.1h5.4V2565.6z"/>
+							</g>
+						</g>
+						<g id="x_menor_que_y">
+							<g class="st4">
+								<path class="st6" d="M-1480.5,2558.4h-2.6v7.2h-1.8v-7.2h-2.6v-1.4h7V2558.4z"/>
+								<path class="st6" d="M-1476.3,2562.4h-1.4v3.1h-1.8v-8.6h3.2c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.1,0.8,1.9
+									c0,0.6-0.1,1.1-0.4,1.5c-0.3,0.4-0.6,0.7-1.2,0.9l1.9,3.5v0.1h-1.9L-1476.3,2562.4z M-1477.7,2561h1.4c0.4,0,0.8-0.1,1-0.3
+									c0.2-0.2,0.4-0.5,0.4-0.9c0-0.4-0.1-0.7-0.3-1c-0.2-0.2-0.6-0.3-1.1-0.3h-1.4V2561z"/>
+								<path class="st6" d="M-1465.3,2557v5.7c0,0.9-0.3,1.7-0.9,2.2c-0.6,0.5-1.4,0.8-2.4,0.8c-1,0-1.8-0.3-2.4-0.8
+									c-0.6-0.5-0.9-1.3-0.9-2.2v-5.7h1.8v5.7c0,0.6,0.1,1,0.4,1.2c0.3,0.3,0.6,0.4,1.1,0.4c1,0,1.5-0.5,1.5-1.6v-5.7H-1465.3z"/>
+								<path class="st6" d="M-1458.6,2561.8h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2561.8z"/>
+							</g>
+						</g>
+						<g id="_2-2">
+							<g class="st4">
+								<path class="st5" d="M-1857.6,2595.3l-4.3-1.5v-2l6.4,2.7v1.7l-6.4,2.7v-2.1L-1857.6,2595.3z"/>
+							</g>
+						</g>
+						<g id="Mayor_que">
+							<g class="st4">
+								<path class="st5" d="M-1754.1,2589.7l2.8,7l2.8-7h1.5v8.6h-1.1v-3.3l0.1-3.6l-2.8,7h-0.9l-2.8-6.9l0.1,3.6v3.3h-1.1v-8.6
+									H-1754.1z"/>
+								<path class="st5" d="M-1741.3,2598.3c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1741.3z M-1743.1,2597.5
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1743.5,2597.5-1743.1,2597.5z"
+									/>
+								<path class="st5" d="M-1736.7,2596.7l1.5-4.8h1.2l-2.6,7.4c-0.4,1.1-1,1.6-1.9,1.6l-0.2,0l-0.4-0.1v-0.9l0.3,0
+									c0.4,0,0.7-0.1,0.9-0.2s0.4-0.4,0.5-0.8l0.2-0.6l-2.3-6.3h1.2L-1736.7,2596.7z"/>
+								<path class="st5" d="M-1733.4,2595.1c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1733.4,2596.1-1733.4,2595.1L-1733.4,2595.1z M-1732.3,2595.2c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1732.2,2593.8-1732.3,2594.4-1732.3,2595.2z"/>
+								<path class="st5" d="M-1723.2,2592.9c-0.2,0-0.3,0-0.5,0c-0.7,0-1.2,0.3-1.5,0.9v4.5h-1.1v-6.4h1.1l0,0.7
+									c0.4-0.6,0.9-0.9,1.5-0.9c0.2,0,0.4,0,0.5,0.1V2592.9z"/>
+								<path class="st5" d="M-1719.4,2595.1c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.9-0.9c0.8,0,1.4,0.3,1.8,0.8l0-0.6h1v8.8h-1.1
+									v-3c-0.4,0.5-1,0.7-1.8,0.7c-0.8,0-1.4-0.3-1.8-0.9S-1719.4,2596.1-1719.4,2595.1L-1719.4,2595.1z M-1718.3,2595.2
+									c0,0.7,0.2,1.3,0.5,1.7c0.3,0.4,0.7,0.6,1.2,0.6c0.6,0,1.1-0.3,1.5-0.9v-3.1c-0.3-0.6-0.8-0.8-1.5-0.8
+									c-0.5,0-0.9,0.2-1.3,0.6C-1718.2,2593.7-1718.3,2594.4-1718.3,2595.2z"/>
+								<path class="st5" d="M-1708.4,2597.7c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1708.4,2597.7z"/>
+								<path class="st5" d="M-1703,2598.4c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1701.1,2598-1701.9,2598.4-1703,2598.4z
+									 M-1703.1,2592.7c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1702.3,2592.9-1702.7,2592.7-1703.1,2592.7z"/>
+							</g>
+						</g>
+						<g id="x_y-2">
+							<g class="st4">
+								<path class="st5" d="M-1617,2599.9h-1.4v-9.1l-2.7,1v-1.2l3.9-1.5h0.2V2599.9z"/>
+								<path class="st5" d="M-1606,2599.9h-7v-1l3.7-4.1c0.5-0.6,0.9-1.1,1.1-1.5c0.2-0.4,0.3-0.8,0.3-1.2c0-0.6-0.2-1-0.5-1.4
+									c-0.3-0.4-0.8-0.5-1.4-0.5c-0.7,0-1.2,0.2-1.6,0.6s-0.6,0.9-0.6,1.6h-1.4c0-1,0.3-1.8,1-2.4c0.6-0.6,1.5-0.9,2.6-0.9
+									c1,0,1.8,0.3,2.4,0.8c0.6,0.5,0.9,1.2,0.9,2.1c0,1.1-0.7,2.3-2,3.8l-2.9,3.1h5.4V2599.9z"/>
+								<path class="st5" d="M-1595.8,2595.1l-4.9-1.9v-1.4l6.3,2.8v1.1l-6.3,2.8v-1.4L-1595.8,2595.1z"/>
+								<path class="st5" d="M-1582.3,2589.9l-4.4,10h-1.4l4.4-9.6h-5.8v-1.1h7.3V2589.9z"/>
+							</g>
+						</g>
+						<g id="x_mayor_que_y">
+							<g class="st4">
+								<path class="st6" d="M-1480.5,2592.8h-2.6v7.2h-1.8v-7.2h-2.6v-1.4h7V2592.8z"/>
+								<path class="st6" d="M-1476.3,2596.8h-1.4v3.1h-1.8v-8.6h3.2c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.1,0.8,1.9
+									c0,0.6-0.1,1.1-0.4,1.5c-0.3,0.4-0.6,0.7-1.2,0.9l1.9,3.5v0.1h-1.9L-1476.3,2596.8z M-1477.7,2595.3h1.4
+									c0.4,0,0.8-0.1,1-0.3c0.2-0.2,0.4-0.5,0.4-0.9c0-0.4-0.1-0.7-0.3-1c-0.2-0.2-0.6-0.3-1.1-0.3h-1.4V2595.3z"/>
+								<path class="st6" d="M-1465.3,2591.3v5.7c0,0.9-0.3,1.7-0.9,2.2c-0.6,0.5-1.4,0.8-2.4,0.8c-1,0-1.8-0.3-2.4-0.8
+									c-0.6-0.5-0.9-1.3-0.9-2.2v-5.7h1.8v5.7c0,0.6,0.1,1,0.4,1.2c0.3,0.3,0.6,0.4,1.1,0.4c1,0,1.5-0.5,1.5-1.6v-5.7H-1465.3z"/>
+								<path class="st6" d="M-1458.6,2596.2h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2596.2z"/>
+							</g>
+						</g>
+						<g id="_3-2">
+							<g class="st4">
+								<path class="st5" d="M-1860.2,2489.6h-6.6v-1.7h6.6V2489.6z M-1860.2,2492.8h-6.6v-1.7h6.6V2492.8z"/>
+								<path class="st5" d="M-1851.5,2489.6h-6.6v-1.7h6.6V2489.6z M-1851.5,2492.8h-6.6v-1.7h6.6V2492.8z"/>
+							</g>
+						</g>
+						<g id="Igual_a">
+							<g class="st4">
+								<path class="st5" d="M-1744,2494.2h-1.1v-8.6h1.1V2494.2z"/>
+								<path class="st5" d="M-1742.4,2490.9c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.8-0.9c0.8,0,1.4,0.3,1.8,0.8l0.1-0.7h1v6.2
+									c0,0.8-0.2,1.5-0.7,2c-0.5,0.5-1.1,0.7-2,0.7c-0.5,0-0.9-0.1-1.4-0.3s-0.8-0.5-1-0.8l0.6-0.7c0.5,0.6,1,0.9,1.7,0.9
+									c0.5,0,0.9-0.1,1.2-0.4c0.3-0.3,0.4-0.7,0.4-1.3v-0.5c-0.4,0.5-1,0.8-1.8,0.8c-0.7,0-1.4-0.3-1.8-0.9
+									S-1742.4,2492-1742.4,2490.9z M-1741.3,2491.1c0,0.7,0.1,1.3,0.4,1.7s0.7,0.6,1.2,0.6c0.7,0,1.2-0.3,1.5-0.9v-2.9
+									c-0.3-0.6-0.8-0.9-1.5-0.9c-0.5,0-0.9,0.2-1.2,0.6C-1741.1,2489.6-1741.3,2490.3-1741.3,2491.1z"/>
+								<path class="st5" d="M-1731.4,2493.6c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1731.4,2493.6z"/>
+								<path class="st5" d="M-1724.7,2494.2c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1724.7z M-1726.6,2493.4
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1726.9,2493.4-1726.6,2493.4z"
+									/>
+								<path class="st5" d="M-1720.9,2494.2h-1.1v-9.1h1.1V2494.2z"/>
+								<path class="st5" d="M-1712.3,2494.2c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1712.3z M-1714.1,2493.4
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1714.4,2493.4-1714.1,2493.4z"
+									/>
+							</g>
+						</g>
+						<g id="x_y-3">
+							<g class="st4">
+								<path class="st5" d="M-1623.2,2489.7l0.5-5.4h5.5v1.3h-4.3l-0.3,2.9c0.5-0.3,1.1-0.5,1.8-0.5c1,0,1.8,0.3,2.3,1
+									c0.6,0.6,0.9,1.5,0.9,2.6c0,1.1-0.3,2-0.9,2.6c-0.6,0.6-1.4,1-2.5,1c-0.9,0-1.7-0.3-2.3-0.8c-0.6-0.5-0.9-1.3-1-2.2h1.3
+									c0.1,0.6,0.3,1.1,0.7,1.4c0.4,0.3,0.8,0.5,1.4,0.5c0.6,0,1.1-0.2,1.5-0.6c0.4-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.6-1.7
+									c-0.4-0.4-0.9-0.7-1.6-0.7c-0.6,0-1.1,0.1-1.4,0.4l-0.4,0.3L-1623.2,2489.7z"/>
+								<path class="st5" d="M-1605.2,2489.1h-6.1v-1.2h6.1V2489.1z M-1605.2,2492.1h-6.1v-1.2h6.1V2492.1z"/>
+								<path class="st5" d="M-1593.2,2489.1h-6.1v-1.2h6.1V2489.1z M-1593.2,2492.1h-6.1v-1.2h6.1V2492.1z"/>
+								<path class="st5" d="M-1580.6,2485.1l-4.4,10h-1.4l4.4-9.6h-5.8v-1.1h7.3V2485.1z"/>
+							</g>
+						</g>
+						<g id="x_igual_a_y">
+							<g class="st4">
+								<path class="st7" d="M-1484.1,2490.7h-3.4v3.5h-1.8v-8.6h5.6v1.4h-3.8v2.2h3.4V2490.7z"/>
+								<path class="st7" d="M-1479,2492.4h-3.1l-0.6,1.8h-1.9l3.2-8.6h1.6l3.2,8.6h-1.9L-1479,2492.4z M-1481.6,2491h2.1l-1.1-3.2
+									L-1481.6,2491z"/>
+								<path class="st7" d="M-1473.9,2492.8h3.8v1.4h-5.5v-8.6h1.8V2492.8z"/>
+								<path class="st7" d="M-1464.7,2491.9c0-0.3-0.1-0.6-0.4-0.8c-0.2-0.2-0.7-0.4-1.3-0.6s-1.1-0.4-1.5-0.6
+									c-1-0.5-1.5-1.2-1.5-2.1c0-0.5,0.1-0.9,0.4-1.2s0.6-0.6,1.1-0.9c0.5-0.2,1-0.3,1.6-0.3c0.6,0,1.2,0.1,1.6,0.3
+									c0.5,0.2,0.9,0.5,1.1,0.9c0.3,0.4,0.4,0.9,0.4,1.4h-1.8c0-0.4-0.1-0.7-0.4-0.9c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.8,0.1-1,0.3
+									c-0.2,0.2-0.4,0.4-0.4,0.7c0,0.3,0.1,0.5,0.4,0.7c0.3,0.2,0.7,0.4,1.2,0.5c1,0.3,1.7,0.7,2.2,1.1s0.7,1,0.7,1.7
+									c0,0.7-0.3,1.3-0.8,1.7c-0.6,0.4-1.3,0.6-2.3,0.6c-0.7,0-1.3-0.1-1.8-0.4c-0.5-0.2-1-0.6-1.2-1c-0.3-0.4-0.4-0.9-0.4-1.5
+									h1.8c0,0.9,0.6,1.4,1.7,1.4c0.4,0,0.7-0.1,1-0.3C-1464.8,2492.5-1464.7,2492.2-1464.7,2491.9z"/>
+								<path class="st7" d="M-1456.6,2490.5h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2490.5z"/>
+							</g>
+						</g>
+						<g id="_4-2">
+							<g class="st4">
+								<path class="st5" d="M-1863.3,2529.2c0.4,0,0.6,0.1,0.9,0.3c0.2,0.2,0.3,0.5,0.3,0.8c0,0.3-0.1,0.6-0.3,0.8
+									s-0.5,0.3-0.9,0.3c-0.4,0-0.6-0.1-0.9-0.3s-0.3-0.5-0.3-0.8s0.1-0.6,0.3-0.8S-1863.7,2529.2-1863.3,2529.2z M-1862.4,2528
+									h-1.8l-0.3-7.4h2.3L-1862.4,2528z"/>
+								<path class="st5" d="M-1853.7,2525.8h-6.6v-1.7h6.6V2525.8z M-1853.7,2529h-6.6v-1.7h6.6V2529z"/>
+							</g>
+						</g>
+						<g id="Distinto_a">
+							<g class="st4">
+								<path class="st5" d="M-1752.8,2529v-8.6h2.4c0.7,0,1.4,0.2,2,0.5c0.6,0.3,1,0.8,1.3,1.4c0.3,0.6,0.5,1.3,0.5,2.1v0.5
+									c0,0.8-0.2,1.5-0.5,2.1s-0.8,1.1-1.3,1.4c-0.6,0.3-1.3,0.5-2,0.5H-1752.8z M-1751.7,2521.3v6.7h1.2c0.9,0,1.6-0.3,2-0.8
+									s0.7-1.3,0.7-2.3v-0.5c0-1-0.2-1.7-0.7-2.3c-0.5-0.5-1.1-0.8-1.9-0.8H-1751.7z"/>
+								<path class="st5" d="M-1745,2520.9c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.4,0.1,0.5,0.2
+									c0.1,0.1,0.2,0.3,0.2,0.4s-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.4-0.1-0.5-0.2
+									C-1745,2521.2-1745,2521.1-1745,2520.9z M-1743.9,2529h-1.1v-6.4h1.1V2529z"/>
+								<path class="st5" d="M-1738.4,2527.3c0-0.3-0.1-0.5-0.3-0.7c-0.2-0.2-0.6-0.3-1.2-0.4s-1-0.3-1.3-0.4
+									c-0.3-0.2-0.6-0.4-0.7-0.6c-0.2-0.2-0.2-0.5-0.2-0.8c0-0.5,0.2-1,0.7-1.3c0.4-0.4,1-0.5,1.7-0.5c0.7,0,1.3,0.2,1.8,0.6
+									c0.5,0.4,0.7,0.9,0.7,1.4h-1.1c0-0.3-0.1-0.6-0.4-0.8c-0.3-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-0.9,0.3s-0.3,0.4-0.3,0.7
+									c0,0.3,0.1,0.5,0.3,0.6c0.2,0.1,0.6,0.3,1.1,0.4c0.5,0.1,1,0.3,1.3,0.4s0.6,0.4,0.8,0.6c0.2,0.2,0.2,0.5,0.2,0.9
+									c0,0.6-0.2,1-0.7,1.4c-0.5,0.3-1,0.5-1.8,0.5c-0.5,0-1-0.1-1.4-0.3s-0.7-0.4-0.9-0.8s-0.3-0.7-0.3-1.1h1.1
+									c0,0.4,0.2,0.7,0.4,0.9c0.3,0.2,0.6,0.3,1.1,0.3c0.4,0,0.7-0.1,1-0.3C-1738.5,2527.8-1738.4,2527.6-1738.4,2527.3z"/>
+								<path class="st5" d="M-1734.4,2521v1.5h1.2v0.8h-1.2v4c0,0.3,0.1,0.4,0.2,0.6c0.1,0.1,0.3,0.2,0.5,0.2c0.1,0,0.3,0,0.5-0.1
+									v0.9c-0.3,0.1-0.6,0.1-0.8,0.1c-0.5,0-0.9-0.1-1.1-0.4s-0.4-0.7-0.4-1.3v-4h-1.2v-0.8h1.2v-1.5H-1734.4z"/>
+								<path class="st5" d="M-1731.9,2520.9c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.4,0.1,0.5,0.2
+									c0.1,0.1,0.2,0.3,0.2,0.4s-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.4-0.1-0.5-0.2
+									C-1731.9,2521.2-1731.9,2521.1-1731.9,2520.9z M-1730.8,2529h-1.1v-6.4h1.1V2529z"/>
+								<path class="st5" d="M-1728,2522.6l0,0.8c0.5-0.6,1.1-0.9,1.9-0.9c1.3,0,2,0.8,2,2.3v4.2h-1.1v-4.2c0-0.5-0.1-0.8-0.3-1
+									c-0.2-0.2-0.5-0.3-1-0.3c-0.4,0-0.7,0.1-0.9,0.3c-0.3,0.2-0.5,0.4-0.6,0.7v4.5h-1.1v-6.4H-1728z"/>
+								<path class="st5" d="M-1720.9,2521v1.5h1.2v0.8h-1.2v4c0,0.3,0.1,0.4,0.2,0.6c0.1,0.1,0.3,0.2,0.5,0.2c0.1,0,0.3,0,0.5-0.1
+									v0.9c-0.3,0.1-0.6,0.1-0.8,0.1c-0.5,0-0.9-0.1-1.1-0.4s-0.4-0.7-0.4-1.3v-4h-1.2v-0.8h1.2v-1.5H-1720.9z"/>
+								<path class="st5" d="M-1718.8,2525.7c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1718.8,2526.8-1718.8,2525.7L-1718.8,2525.7z M-1717.7,2525.8c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1717.5,2524.4-1717.7,2525-1717.7,2525.8z"/>
+								<path class="st5" d="M-1704.7,2529c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1704.7z M-1706.5,2528.1
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1706.9,2528.1-1706.5,2528.1z"
+									/>
+							</g>
+						</g>
+						<g id="x_y-4">
+							<g class="st4">
+								<path class="st5" d="M-1651.2,2527h-2.5v4.3h-1.4v-10.7h3.6c1.2,0,2.1,0.3,2.8,0.8c0.7,0.5,1,1.4,1,2.4
+									c0,0.7-0.2,1.3-0.5,1.7s-0.9,0.9-1.5,1.1l2.5,4.6v0.1h-1.5L-1651.2,2527z M-1653.7,2525.8h2.2c0.7,0,1.3-0.2,1.7-0.5
+									c0.4-0.4,0.6-0.9,0.6-1.5c0-0.7-0.2-1.2-0.6-1.5s-1-0.5-1.7-0.5h-2.2V2525.8z"/>
+								<path class="st5" d="M-1637.5,2526.3c0,1.1-0.2,2-0.5,2.8c-0.4,0.8-0.9,1.4-1.5,1.8s-1.4,0.6-2.3,0.6
+									c-0.8,0-1.6-0.2-2.2-0.6c-0.7-0.4-1.2-1-1.5-1.8c-0.4-0.8-0.5-1.7-0.6-2.7v-0.8c0-1,0.2-1.9,0.5-2.7s0.9-1.4,1.5-1.8
+									c0.7-0.4,1.4-0.6,2.3-0.6c0.9,0,1.6,0.2,2.3,0.6c0.7,0.4,1.2,1,1.5,1.8c0.4,0.8,0.5,1.7,0.5,2.8V2526.3z M-1639,2525.6
+									c0-1.3-0.3-2.2-0.8-2.9c-0.5-0.7-1.2-1-2.1-1c-0.9,0-1.6,0.3-2.1,1s-0.8,1.6-0.8,2.8v0.8c0,1.2,0.3,2.2,0.8,2.9
+									s1.2,1.1,2.1,1.1c0.9,0,1.6-0.3,2.1-1s0.8-1.6,0.8-2.9V2525.6z"/>
+								<path class="st5" d="M-1630.9,2520.6h1.4v7.6c0,1-0.3,1.8-0.9,2.4c-0.6,0.6-1.4,0.9-2.5,0.9c-1.1,0-1.9-0.3-2.5-0.8
+									c-0.6-0.5-0.9-1.3-0.9-2.3h1.4c0,0.6,0.2,1.1,0.5,1.4c0.3,0.3,0.8,0.5,1.5,0.5c0.6,0,1.1-0.2,1.4-0.6
+									c0.4-0.4,0.5-0.9,0.5-1.5V2520.6z"/>
+								<path class="st5" d="M-1618.8,2526.3c0,1.1-0.2,2-0.5,2.8c-0.4,0.8-0.9,1.4-1.5,1.8s-1.4,0.6-2.3,0.6
+									c-0.8,0-1.6-0.2-2.2-0.6c-0.7-0.4-1.2-1-1.5-1.8c-0.4-0.8-0.5-1.7-0.6-2.7v-0.8c0-1,0.2-1.9,0.5-2.7s0.9-1.4,1.5-1.8
+									c0.7-0.4,1.4-0.6,2.3-0.6c0.9,0,1.6,0.2,2.3,0.6c0.7,0.4,1.2,1,1.5,1.8c0.4,0.8,0.5,1.7,0.5,2.8V2526.3z M-1620.3,2525.6
+									c0-1.3-0.3-2.2-0.8-2.9c-0.5-0.7-1.2-1-2.1-1c-0.9,0-1.6,0.3-2.1,1s-0.8,1.6-0.8,2.8v0.8c0,1.2,0.3,2.2,0.8,2.9
+									s1.2,1.1,2.1,1.1c0.9,0,1.6-0.3,2.1-1s0.8-1.6,0.8-2.9V2525.6z"/>
+								<path class="st5" d="M-1613.1,2530.6c0-0.2,0.1-0.4,0.2-0.6c0.1-0.2,0.3-0.2,0.6-0.2c0.3,0,0.5,0.1,0.6,0.2
+									c0.1,0.2,0.2,0.3,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6s-0.3,0.2-0.6,0.2c-0.3,0-0.5-0.1-0.6-0.2
+									C-1613,2531-1613.1,2530.9-1613.1,2530.6z M-1611.7,2528.3h-1.2l-0.1-7.7h1.4L-1611.7,2528.3z"/>
+								<path class="st5" d="M-1599.3,2525.3h-6.1v-1.2h6.1V2525.3z M-1599.3,2528.4h-6.1v-1.2h6.1V2528.4z"/>
+								<path class="st5" d="M-1589.8,2529.5l3.1-8.9h1.5l-4,10.7h-1.3l-4-10.7h1.5L-1589.8,2529.5z"/>
+								<path class="st5" d="M-1577.7,2526.4h-4.7v3.8h5.4v1.2h-6.8v-10.7h6.7v1.2h-5.3v3.5h4.7V2526.4z"/>
+								<path class="st5" d="M-1571.2,2527h-2.5v4.3h-1.4v-10.7h3.6c1.2,0,2.1,0.3,2.8,0.8c0.7,0.5,1,1.4,1,2.4
+									c0,0.7-0.2,1.3-0.5,1.7c-0.4,0.5-0.9,0.9-1.5,1.1l2.5,4.6v0.1h-1.5L-1571.2,2527z M-1573.7,2525.8h2.2
+									c0.7,0,1.3-0.2,1.7-0.5s0.6-0.9,0.6-1.5c0-0.7-0.2-1.2-0.6-1.5s-1-0.5-1.7-0.5h-2.2V2525.8z"/>
+								<path class="st5" d="M-1565.9,2531.3v-10.7h3c0.9,0,1.8,0.2,2.5,0.6c0.7,0.4,1.3,1,1.7,1.8s0.6,1.6,0.6,2.6v0.7
+									c0,1-0.2,1.9-0.6,2.7c-0.4,0.8-0.9,1.3-1.7,1.8c-0.7,0.4-1.6,0.6-2.5,0.6H-1565.9z M-1564.5,2521.8v8.4h1.5
+									c1.1,0,1.9-0.3,2.5-1c0.6-0.7,0.9-1.6,0.9-2.9v-0.6c0-1.2-0.3-2.2-0.9-2.8c-0.6-0.7-1.4-1-2.4-1H-1564.5z"/>
+								<path class="st5" d="M-1549.9,2526.4h-4.7v3.8h5.4v1.2h-6.8v-10.7h6.7v1.2h-5.3v3.5h4.7V2526.4z"/>
+							</g>
+						</g>
+						<g id="x_distinto_de_y">
+							<g class="st4">
+								<path class="st6" d="M-1480.5,2524.2h-2.6v7.2h-1.8v-7.2h-2.6v-1.4h7V2524.2z"/>
+								<path class="st6" d="M-1476.3,2528.2h-1.4v3.1h-1.8v-8.6h3.2c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.1,0.8,1.9
+									c0,0.6-0.1,1.1-0.4,1.5c-0.3,0.4-0.6,0.7-1.2,0.9l1.9,3.5v0.1h-1.9L-1476.3,2528.2z M-1477.7,2526.8h1.4
+									c0.4,0,0.8-0.1,1-0.3c0.2-0.2,0.4-0.5,0.4-0.9c0-0.4-0.1-0.7-0.3-1c-0.2-0.2-0.6-0.3-1.1-0.3h-1.4V2526.8z"/>
+								<path class="st6" d="M-1465.3,2522.7v5.7c0,0.9-0.3,1.7-0.9,2.2c-0.6,0.5-1.4,0.8-2.4,0.8c-1,0-1.8-0.3-2.4-0.8
+									c-0.6-0.5-0.9-1.3-0.9-2.2v-5.7h1.8v5.7c0,0.6,0.1,1,0.4,1.2c0.3,0.3,0.6,0.4,1.1,0.4c1,0,1.5-0.5,1.5-1.6v-5.7H-1465.3z"/>
+								<path class="st6" d="M-1458.6,2527.6h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2527.6z"/>
+							</g>
+						</g>
+						<g id="_5-2">
+							<g class="st4">
+								<path class="st5" d="M-1864.6,2629.8l4.2,1.5v2.1l-6.3-2.7v-1.7l6.3-2.7v2.1L-1864.6,2629.8z"/>
+								<path class="st5" d="M-1851.9,2628.8h-6.6v-1.7h6.6V2628.8z M-1851.9,2632h-6.6v-1.7h6.6V2632z"/>
+							</g>
+						</g>
+						<g id="Menor_o_igual_que">
+							<g class="st4">
+								<path class="st5" d="M-1774,2622.7l2.8,7l2.8-7h1.5v8.6h-1.1v-3.3l0.1-3.6l-2.8,7h-0.9l-2.8-6.9l0.1,3.6v3.3h-1.1v-8.6
+									H-1774z"/>
+								<path class="st5" d="M-1762.4,2631.4c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1760.6,2631-1761.4,2631.4-1762.4,2631.4z
+									 M-1762.6,2625.7c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1761.7,2625.9-1762.1,2625.7-1762.6,2625.7z"/>
+								<path class="st5" d="M-1757.6,2624.9l0,0.8c0.5-0.6,1.1-0.9,1.9-0.9c1.3,0,2,0.8,2,2.3v4.2h-1.1v-4.2c0-0.5-0.1-0.8-0.3-1
+									c-0.2-0.2-0.5-0.3-1-0.3c-0.4,0-0.7,0.1-0.9,0.3c-0.3,0.2-0.5,0.4-0.6,0.7v4.5h-1.1v-6.4H-1757.6z"/>
+								<path class="st5" d="M-1752.3,2628.1c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1752.3,2629.1-1752.3,2628.1L-1752.3,2628.1z M-1751.2,2628.2c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1751,2626.8-1751.2,2627.4-1751.2,2628.2z"/>
+								<path class="st5" d="M-1742,2625.9c-0.2,0-0.3,0-0.5,0c-0.7,0-1.2,0.3-1.5,0.9v4.5h-1.1v-6.4h1.1l0,0.7
+									c0.4-0.6,0.9-0.9,1.5-0.9c0.2,0,0.4,0,0.5,0.1V2625.9z"/>
+								<path class="st5" d="M-1738.3,2628.1c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1738.3,2629.1-1738.3,2628.1L-1738.3,2628.1z M-1737.2,2628.2c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1737.1,2626.8-1737.2,2627.4-1737.2,2628.2z"/>
+								<path class="st5" d="M-1728.2,2623.2c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.4,0.1,0.5,0.2
+									c0.1,0.1,0.2,0.3,0.2,0.4s-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.4-0.1-0.5-0.2
+									C-1728.1,2623.6-1728.2,2623.4-1728.2,2623.2z M-1727,2631.3h-1.1v-6.4h1.1V2631.3z"/>
+								<path class="st5" d="M-1725.5,2628.1c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.8-0.9c0.8,0,1.4,0.3,1.8,0.8l0.1-0.7h1v6.2
+									c0,0.8-0.2,1.5-0.7,2c-0.5,0.5-1.1,0.7-2,0.7c-0.5,0-0.9-0.1-1.4-0.3s-0.8-0.5-1-0.8l0.6-0.7c0.5,0.6,1,0.9,1.7,0.9
+									c0.5,0,0.9-0.1,1.2-0.4c0.3-0.3,0.4-0.7,0.4-1.3v-0.5c-0.4,0.5-1,0.8-1.8,0.8c-0.7,0-1.4-0.3-1.8-0.9
+									S-1725.5,2629.1-1725.5,2628.1z M-1724.4,2628.2c0,0.7,0.1,1.3,0.4,1.7s0.7,0.6,1.2,0.6c0.7,0,1.2-0.3,1.5-0.9v-2.9
+									c-0.3-0.6-0.8-0.9-1.5-0.9c-0.5,0-0.9,0.2-1.2,0.6C-1724.3,2626.8-1724.4,2627.4-1724.4,2628.2z"/>
+								<path class="st5" d="M-1714.5,2630.7c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1714.5,2630.7z"/>
+								<path class="st5" d="M-1707.9,2631.3c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1707.9z M-1709.7,2630.5
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1710,2630.5-1709.7,2630.5z"/>
+								<path class="st5" d="M-1704.1,2631.3h-1.1v-9.1h1.1V2631.3z"/>
+								<path class="st5" d="M-1699.6,2628.1c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.9-0.9c0.8,0,1.4,0.3,1.8,0.8l0-0.6h1v8.8h-1.1
+									v-3c-0.4,0.5-1,0.7-1.8,0.7c-0.8,0-1.4-0.3-1.8-0.9S-1699.6,2629.1-1699.6,2628.1L-1699.6,2628.1z M-1698.5,2628.2
+									c0,0.7,0.2,1.3,0.5,1.7c0.3,0.4,0.7,0.6,1.2,0.6c0.6,0,1.1-0.3,1.5-0.9v-3.1c-0.3-0.6-0.8-0.8-1.5-0.8
+									c-0.5,0-0.9,0.2-1.3,0.6C-1698.4,2626.8-1698.5,2627.4-1698.5,2628.2z"/>
+								<path class="st5" d="M-1688.5,2630.7c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1688.5,2630.7z"/>
+								<path class="st5" d="M-1683.2,2631.4c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1681.3,2631-1682.1,2631.4-1683.2,2631.4z
+									 M-1683.3,2625.7c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1682.5,2625.9-1682.8,2625.7-1683.3,2625.7z"/>
+							</g>
+						</g>
+						<g id="x_y-5">
+							<g class="st4">
+								<path class="st5" d="M-1627.5,2634.3h-1.4v-9.1l-2.7,1v-1.2l3.9-1.5h0.2V2634.3z"/>
+								<path class="st5" d="M-1618.1,2623.6v1.2h-0.3c-1.1,0-1.9,0.3-2.5,0.9s-1,1.5-1.1,2.6c0.6-0.6,1.3-1,2.3-1
+									c0.9,0,1.7,0.3,2.2,1s0.8,1.5,0.8,2.5c0,1.1-0.3,2-0.9,2.7c-0.6,0.7-1.4,1-2.4,1c-1,0-1.9-0.4-2.5-1.2c-0.6-0.8-1-1.8-1-3
+									v-0.5c0-2,0.4-3.5,1.3-4.5c0.8-1,2.1-1.6,3.8-1.6H-1618.1z M-1619.9,2628.4c-0.5,0-0.9,0.1-1.3,0.4
+									c-0.4,0.3-0.7,0.6-0.8,1.1v0.5c0,0.9,0.2,1.6,0.6,2.1c0.4,0.5,0.9,0.8,1.5,0.8c0.6,0,1.1-0.2,1.4-0.7c0.4-0.5,0.5-1,0.5-1.8
+									c0-0.7-0.2-1.3-0.5-1.8S-1619.3,2628.4-1619.9,2628.4z"/>
+								<path class="st5" d="M-1610.2,2629.6l4.6,1.9v1.4l-6-2.8v-1.1l6-2.8v1.4L-1610.2,2629.6z"/>
+								<path class="st5" d="M-1593.5,2628.3h-6.1v-1.2h6.1V2628.3z M-1593.5,2631.4h-6.1v-1.2h6.1V2631.4z"/>
+								<path class="st5" d="M-1583.4,2634.3h-1.4v-9.1l-2.7,1v-1.2l3.9-1.5h0.2V2634.3z"/>
+								<path class="st5" d="M-1572.4,2624.4l-4.4,10h-1.4l4.4-9.6h-5.8v-1.1h7.3V2624.4z"/>
+							</g>
+						</g>
+						<g id="x_menor_o_igual_a_y">
+							<g class="st4">
+								<path class="st6" d="M-1480.5,2627.2h-2.6v7.2h-1.8v-7.2h-2.6v-1.4h7V2627.2z"/>
+								<path class="st6" d="M-1476.3,2631.2h-1.4v3.1h-1.8v-8.6h3.2c1,0,1.8,0.2,2.3,0.7c0.5,0.5,0.8,1.1,0.8,1.9
+									c0,0.6-0.1,1.1-0.4,1.5c-0.3,0.4-0.6,0.7-1.2,0.9l1.9,3.5v0.1h-1.9L-1476.3,2631.2z M-1477.7,2629.8h1.4
+									c0.4,0,0.8-0.1,1-0.3c0.2-0.2,0.4-0.5,0.4-0.9c0-0.4-0.1-0.7-0.3-1c-0.2-0.2-0.6-0.3-1.1-0.3h-1.4V2629.8z"/>
+								<path class="st6" d="M-1465.3,2625.7v5.7c0,0.9-0.3,1.7-0.9,2.2c-0.6,0.5-1.4,0.8-2.4,0.8c-1,0-1.8-0.3-2.4-0.8
+									c-0.6-0.5-0.9-1.3-0.9-2.2v-5.7h1.8v5.7c0,0.6,0.1,1,0.4,1.2c0.3,0.3,0.6,0.4,1.1,0.4c1,0,1.5-0.5,1.5-1.6v-5.7H-1465.3z"/>
+								<path class="st6" d="M-1458.6,2630.6h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2630.6z"/>
+							</g>
+						</g>
+						<g id="_6-2">
+							<g class="st4">
+								<path class="st5" d="M-1862,2664.5l-4.3-1.5v-2l6.4,2.7v1.7l-6.4,2.7v-2.1L-1862,2664.5z"/>
+								<path class="st5" d="M-1851.8,2663.6h-6.6v-1.7h6.6V2663.6z M-1851.8,2666.8h-6.6v-1.7h6.6V2666.8z"/>
+							</g>
+						</g>
+						<g id="Mayor_o_igual_que_">
+							<g class="st4">
+								<path class="st5" d="M-1773.5,2661.9l2.8,7l2.8-7h1.5v8.6h-1.1v-3.3l0.1-3.6l-2.8,7h-0.9l-2.8-6.9l0.1,3.6v3.3h-1.1v-8.6
+									H-1773.5z"/>
+								<path class="st5" d="M-1760.7,2670.5c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1760.7z M-1762.5,2669.7
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1762.8,2669.7-1762.5,2669.7z"
+									/>
+								<path class="st5" d="M-1756,2668.9l1.5-4.8h1.2l-2.6,7.4c-0.4,1.1-1,1.6-1.9,1.6l-0.2,0l-0.4-0.1v-0.9l0.3,0
+									c0.4,0,0.7-0.1,0.9-0.2s0.4-0.4,0.5-0.8l0.2-0.6l-2.3-6.3h1.2L-1756,2668.9z"/>
+								<path class="st5" d="M-1752.8,2667.2c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1752.8,2668.3-1752.8,2667.2L-1752.8,2667.2z M-1751.7,2667.4c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1751.5,2666-1751.7,2666.6-1751.7,2667.4z"/>
+								<path class="st5" d="M-1742.5,2665.1c-0.2,0-0.3,0-0.5,0c-0.7,0-1.2,0.3-1.5,0.9v4.5h-1.1v-6.4h1.1l0,0.7
+									c0.4-0.6,0.9-0.9,1.5-0.9c0.2,0,0.4,0,0.5,0.1V2665.1z"/>
+								<path class="st5" d="M-1738.8,2667.2c0-0.6,0.1-1.2,0.4-1.7c0.2-0.5,0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.5-0.4
+									c0.9,0,1.6,0.3,2.1,0.9c0.5,0.6,0.8,1.4,0.8,2.4v0.1c0,0.6-0.1,1.2-0.4,1.7s-0.6,0.9-1,1.2c-0.4,0.3-1,0.4-1.5,0.4
+									c-0.9,0-1.6-0.3-2.1-0.9S-1738.8,2668.3-1738.8,2667.2L-1738.8,2667.2z M-1737.7,2667.4c0,0.7,0.2,1.3,0.5,1.7
+									s0.8,0.6,1.3,0.6c0.6,0,1-0.2,1.3-0.7c0.3-0.4,0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.7c-0.3-0.4-0.8-0.7-1.3-0.7
+									c-0.5,0-1,0.2-1.3,0.6C-1737.6,2666-1737.7,2666.6-1737.7,2667.4z"/>
+								<path class="st5" d="M-1728.7,2662.4c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.5-0.2c0.2,0,0.4,0.1,0.5,0.2
+									c0.1,0.1,0.2,0.3,0.2,0.4s-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.5,0.2c-0.2,0-0.4-0.1-0.5-0.2
+									C-1728.6,2662.7-1728.7,2662.6-1728.7,2662.4z M-1727.5,2670.5h-1.1v-6.4h1.1V2670.5z"/>
+								<path class="st5" d="M-1726,2667.2c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.8-0.9c0.8,0,1.4,0.3,1.8,0.8l0.1-0.7h1v6.2
+									c0,0.8-0.2,1.5-0.7,2c-0.5,0.5-1.1,0.7-2,0.7c-0.5,0-0.9-0.1-1.4-0.3s-0.8-0.5-1-0.8l0.6-0.7c0.5,0.6,1,0.9,1.7,0.9
+									c0.5,0,0.9-0.1,1.2-0.4c0.3-0.3,0.4-0.7,0.4-1.3v-0.5c-0.4,0.5-1,0.8-1.8,0.8c-0.7,0-1.4-0.3-1.8-0.9
+									S-1726,2668.3-1726,2667.2z M-1724.9,2667.4c0,0.7,0.1,1.3,0.4,1.7s0.7,0.6,1.2,0.6c0.7,0,1.2-0.3,1.5-0.9v-2.9
+									c-0.3-0.6-0.8-0.9-1.5-0.9c-0.5,0-0.9,0.2-1.2,0.6C-1724.7,2665.9-1724.9,2666.6-1724.9,2667.4z"/>
+								<path class="st5" d="M-1715,2669.9c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1715,2669.9z"/>
+								<path class="st5" d="M-1708.4,2670.5c-0.1-0.1-0.1-0.3-0.2-0.7c-0.5,0.5-1.1,0.8-1.8,0.8c-0.6,0-1.1-0.2-1.5-0.5
+									c-0.4-0.4-0.6-0.8-0.6-1.4c0-0.7,0.3-1.2,0.8-1.5c0.5-0.4,1.2-0.6,2.1-0.6h1.1v-0.5c0-0.4-0.1-0.7-0.3-0.9
+									c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.7,0.1-1,0.3c-0.3,0.2-0.4,0.4-0.4,0.7h-1.1c0-0.3,0.1-0.6,0.3-0.9s0.5-0.5,0.9-0.7
+									s0.8-0.3,1.3-0.3c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5v2.9c0,0.6,0.1,1.1,0.2,1.4v0.1H-1708.4z M-1710.2,2669.7
+									c0.3,0,0.7-0.1,1-0.3s0.5-0.4,0.7-0.7v-1.3h-0.9c-1.3,0-2,0.4-2,1.2c0,0.3,0.1,0.6,0.3,0.8S-1710.5,2669.7-1710.2,2669.7z"
+									/>
+								<path class="st5" d="M-1704.5,2670.5h-1.1v-9.1h1.1V2670.5z"/>
+								<path class="st5" d="M-1700.1,2667.2c0-1,0.2-1.8,0.7-2.4c0.5-0.6,1.1-0.9,1.9-0.9c0.8,0,1.4,0.3,1.8,0.8l0-0.6h1v8.8h-1.1
+									v-3c-0.4,0.5-1,0.7-1.8,0.7c-0.8,0-1.4-0.3-1.8-0.9S-1700.1,2668.3-1700.1,2667.2L-1700.1,2667.2z M-1699,2667.4
+									c0,0.7,0.2,1.3,0.5,1.7c0.3,0.4,0.7,0.6,1.2,0.6c0.6,0,1.1-0.3,1.5-0.9v-3.1c-0.3-0.6-0.8-0.8-1.5-0.8
+									c-0.5,0-0.9,0.2-1.3,0.6C-1698.8,2665.9-1699,2666.5-1699,2667.4z"/>
+								<path class="st5" d="M-1689,2669.9c-0.4,0.5-1,0.7-1.9,0.7c-0.7,0-1.2-0.2-1.6-0.6c-0.4-0.4-0.5-1-0.5-1.8v-4.2h1.1v4.1
+									c0,1,0.4,1.5,1.2,1.5c0.8,0,1.4-0.3,1.7-0.9v-4.6h1.1v6.4h-1L-1689,2669.9z"/>
+								<path class="st5" d="M-1683.6,2670.6c-0.9,0-1.6-0.3-2.1-0.9c-0.5-0.6-0.8-1.3-0.8-2.3v-0.2c0-0.6,0.1-1.2,0.4-1.7
+									s0.6-0.9,1-1.2c0.4-0.3,0.9-0.4,1.4-0.4c0.8,0,1.5,0.3,1.9,0.8c0.5,0.5,0.7,1.3,0.7,2.3v0.5h-4.3c0,0.6,0.2,1.1,0.6,1.5
+									c0.4,0.4,0.8,0.6,1.3,0.6c0.4,0,0.7-0.1,1-0.2c0.3-0.2,0.5-0.4,0.7-0.6l0.7,0.5C-1681.8,2670.2-1682.6,2670.6-1683.6,2670.6
+									z M-1683.8,2664.9c-0.4,0-0.8,0.2-1.1,0.5c-0.3,0.3-0.5,0.8-0.6,1.3h3.2v-0.1c0-0.6-0.2-1-0.4-1.3
+									C-1683,2665-1683.3,2664.9-1683.8,2664.9z"/>
+							</g>
+						</g>
+						<g id="x_y-6">
+							<g class="st4">
+								<path class="st5" d="M-1626.7,2658.3v1.2h-0.3c-1.1,0-1.9,0.3-2.5,0.9s-1,1.5-1.1,2.6c0.6-0.6,1.3-1,2.3-1
+									c0.9,0,1.7,0.3,2.2,1s0.8,1.5,0.8,2.5c0,1.1-0.3,2-0.9,2.7s-1.4,1-2.4,1c-1,0-1.9-0.4-2.5-1.2c-0.6-0.8-1-1.8-1-3v-0.5
+									c0-2,0.4-3.5,1.3-4.5c0.8-1,2.1-1.6,3.8-1.6H-1626.7z M-1628.5,2663.2c-0.5,0-0.9,0.1-1.3,0.4c-0.4,0.3-0.7,0.6-0.8,1.1v0.5
+									c0,0.9,0.2,1.6,0.6,2.1c0.4,0.5,0.9,0.8,1.5,0.8c0.6,0,1.1-0.2,1.4-0.7s0.5-1,0.5-1.8c0-0.7-0.2-1.3-0.5-1.8
+									C-1627.4,2663.4-1627.9,2663.2-1628.5,2663.2z"/>
+								<path class="st5" d="M-1616.6,2659.1l-4.4,10h-1.4l4.4-9.6h-5.8v-1.1h7.3V2659.1z"/>
+								<path class="st5" d="M-1606.4,2664.3l-4.9-1.9v-1.4l6.3,2.8v1.1l-6.3,2.8v-1.4L-1606.4,2664.3z"/>
+								<path class="st5" d="M-1593.3,2663.1h-6.1v-1.2h6.1V2663.1z M-1593.3,2666.1h-6.1v-1.2h6.1V2666.1z"/>
+								<path class="st5" d="M-1580.8,2659.1l-4.4,10h-1.4l4.4-9.6h-5.8v-1.1h7.3V2659.1z"/>
+								<path class="st5" d="M-1572.2,2669.1h-7v-1l3.7-4.1c0.6-0.6,0.9-1.1,1.1-1.5s0.3-0.8,0.3-1.2c0-0.6-0.2-1-0.5-1.4
+									c-0.3-0.4-0.8-0.5-1.4-0.5c-0.7,0-1.2,0.2-1.6,0.6s-0.6,0.9-0.6,1.6h-1.4c0-1,0.3-1.8,1-2.4c0.6-0.6,1.5-0.9,2.6-0.9
+									c1,0,1.8,0.3,2.4,0.8c0.6,0.5,0.9,1.2,0.9,2.1c0,1.1-0.7,2.3-2,3.8l-2.9,3.1h5.4V2669.1z"/>
+							</g>
+						</g>
+						<g id="x_mayor_o_igual_a_y">
+							<g class="st4">
+								<path class="st7" d="M-1484.1,2665.6h-3.4v3.5h-1.8v-8.6h5.6v1.4h-3.8v2.2h3.4V2665.6z"/>
+								<path class="st7" d="M-1479,2667.3h-3.1l-0.6,1.8h-1.9l3.2-8.6h1.6l3.2,8.6h-1.9L-1479,2667.3z M-1481.6,2665.9h2.1
+									l-1.1-3.2L-1481.6,2665.9z"/>
+								<path class="st7" d="M-1473.9,2667.7h3.8v1.4h-5.5v-8.6h1.8V2667.7z"/>
+								<path class="st7" d="M-1464.7,2666.8c0-0.3-0.1-0.6-0.4-0.8c-0.2-0.2-0.7-0.4-1.3-0.6s-1.1-0.4-1.5-0.6
+									c-1-0.5-1.5-1.2-1.5-2.1c0-0.5,0.1-0.9,0.4-1.2s0.6-0.6,1.1-0.9c0.5-0.2,1-0.3,1.6-0.3c0.6,0,1.2,0.1,1.6,0.3
+									c0.5,0.2,0.9,0.5,1.1,0.9c0.3,0.4,0.4,0.9,0.4,1.4h-1.8c0-0.4-0.1-0.7-0.4-0.9c-0.2-0.2-0.6-0.3-1-0.3c-0.4,0-0.8,0.1-1,0.3
+									c-0.2,0.2-0.4,0.4-0.4,0.7c0,0.3,0.1,0.5,0.4,0.7c0.3,0.2,0.7,0.4,1.2,0.5c1,0.3,1.7,0.7,2.2,1.1s0.7,1,0.7,1.7
+									c0,0.7-0.3,1.3-0.8,1.7c-0.6,0.4-1.3,0.6-2.3,0.6c-0.7,0-1.3-0.1-1.8-0.4c-0.5-0.2-1-0.6-1.2-1c-0.3-0.4-0.4-0.9-0.4-1.5
+									h1.8c0,0.9,0.6,1.4,1.7,1.4c0.4,0,0.7-0.1,1-0.3C-1464.8,2667.4-1464.7,2667.1-1464.7,2666.8z"/>
+								<path class="st7" d="M-1456.6,2665.3h-3.4v2.3h4v1.4h-5.8v-8.6h5.7v1.4h-4v2h3.4V2665.3z"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="Trazado_196615" class="st8" d="M-2523.2-4530.9h513.7v3.4h-513.7V-4530.9z"/>
+	</g>
+</g>
 </svg>

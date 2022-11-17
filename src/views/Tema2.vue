@@ -80,16 +80,22 @@
               li
                 .lista-ol--cuadro__vineta
                   span a
-                | Paso 1: el intérprete lee un código o instrucción, verifica y comprueba la sintaxis de cada línea; si encuentra un error, detiene la traducción y muestra un mensaje de error.
+                p.mb-0 
+                  b Paso 1: 
+                  | el intérprete lee un código o instrucción, verifica y comprueba la sintaxis de cada línea; si encuentra un error, detiene la traducción y muestra un mensaje de error.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                p.mb-0  Paso 2: si no presenta errores, el intérprete lo traduce a un lenguaje intermedio llamado código 
+                p.mb-0  
+                  b Paso 2: 
+                  | si no presenta errores, el intérprete lo traduce a un lenguaje intermedio llamado código 
                   em byte. 
               li
                 .lista-ol--cuadro__vineta
                   span c
-                p.mb-0  Paso 3: el código del 
+                p.mb-0  
+                  b Paso 3: 
+                  | el código del 
                   em byte 
                   | se envía a la máquina virtual 
                   em Python
@@ -100,7 +106,9 @@
               img(src='@/assets/curso/temas/t2/f7.svg', alt='')
           .col-lg-10.col-md-9.col-12
             p: b Características del lenguaje.
-            p Python se caracteriza especialmente en:
+            p 
+              em Python 
+              | se caracteriza especialmente en:
             ul.lista-ul--color
               li
                 i.fas.fa-circle
@@ -184,11 +192,12 @@
           img(src='@/assets/curso/temas/t2/f10.png', alt='')
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="Paso 1") 
-            | Ir a la página de descargas para Windows del sitio oficial y descargar la versión adecuada del instalador ejecutable de Python.
-          p.text-small(numero="2" titulo="Paso 2") 
+          p.text-small(numero="1" titulo="") 
+            | Ir a la página de descargas para Windows del sitio oficial y descargar la versión adecuada del instalador ejecutable de 
+            em Python.
+          p.text-small(numero="2" titulo="") 
             | Realizar la instalación haciendo doble clic sobre el archivo ejecutable descargado para lo cual es necesario tener permisos de Administrador del equipo.
-          p.text-small(numero="3" titulo="Paso 3") 
+          p.text-small(numero="3" titulo="") 
             | Una vez iniciado el instalador, en la ventana 
             em Install Python 
             | se debe activar las casillas de las opciones: 
@@ -197,24 +206,26 @@
             em Add Python to PATH
             | . Después, seleccione la opción 
             em Customize installation.
-          p.text-small(numero="4" titulo="Paso 4") 
-            | En la ventana optional features seleccione todas las opciones y hacer clic en el botón 
+          p.text-small(numero="4" titulo="") 
+            | En la ventana 
+            em optional features 
+            | seleccione todas las opciones y hacer clic en el botón 
             em [Next].
-          p.text-small(numero="5" titulo="Paso 5") 
+          p.text-small(numero="5" titulo="") 
             | En la ventana 
             em advanced options 
             | activar todas las opciones, aceptar la ruta dada por defecto o escribir una ruta personalizada del directorio de instalación e iniciar la instalación haciendo clic en el botón 
             em [Install].
-          p.text-small(numero="6" titulo="Paso 6") 
+          p.text-small(numero="6" titulo="") 
             | Esperar unos segundos y comenzará el proceso de instalación de 
             em Python.
-          p.text-small(numero="7" titulo="Paso 7") 
+          p.text-small(numero="7" titulo="") 
             | Al finalizar la instalación debe aparecer una ventana con el mensaje 
             em setup was successful. 
             | En esta ventana se puede acceder a un tutorial online, a la documentación oficial de 
             em Python 
             | y a información adicional de las novedades de la versión instalada.
-          p.text-small(numero="8" titulo="Paso 8") 
+          p.text-small(numero="8" titulo="") 
             | Posteriormente se podrá instalar cualquier paquete adicional utilizando el instalador PIP.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -261,7 +272,7 @@
           em Python
           | . Esta pr&aacute;ctica permitir&aacute; resaltar las diferencias entre el modo interactivo y el modo de programaci&oacute;n.
 
-      .col-lg-4.tarjeta.p-3.order-first.order-lg-last(style="background-color: #B9DDFC", data-aos="fade-left")
+      .col-lg-4.tarjeta.p-3.order-first.order-lg-last(style="background-color: rgba(185,221,252,.37)", data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/t2/f11.svg', alt='')
 
@@ -479,7 +490,7 @@
         .row(titulo="Paso 4")
           .col-md-6.mb-4.mb-md-0
             p Ventajas de las estructuras secuenciales
-            p Con este tipo de estructura, se tienen tenemos las siguientes ventajas:
+            p Con este tipo de estructura, se tienen las siguientes ventajas:
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
@@ -542,8 +553,10 @@
               | en el lenguaje de programaci&oacute;n 
               em Pytho
               | n maneja las siguientes estructuras:
-            ol(style='list-style-type: lower-alpha;')
+            ol.lista-ol--cuadro
               li
+                .lista-ol--cuadro__vineta
+                  span a
                 | La sintaxis de una sentencia 
                 em if
                 |  es la siguiente:
@@ -624,7 +637,7 @@
     .row.justify-content-center.mb-5
       .col-md-6
         img(src='@/assets/curso/temas/t2/f26.svg', alt='')
-        .fcs15.p-4
+        .p-4.bg24
           p
             | El ciclo 
             em for 
@@ -637,7 +650,7 @@
             | para iterar sobre una lista de elementos, en otras palabras, los ciclos 
             em for
             |  iteran sobre estructuras de datos basadas en colecciones como listas, tuplas y/o diccionarios.
-        .fcab17.p-4
+        .p-4.bg44
           p
             | La sintaxis b&aacute;sica de un ciclo 
             em for
@@ -653,7 +666,7 @@
             em for
           p #se puede leer de la siguiente forma:
           p #por cada &lt;valor&gt; en la &lt;lista_de_valores&gt;
-        .fcs15.p-4
+        .p-4.bg24
           p
             | Ejemplo de una estructura de un ciclo 
             em for
@@ -675,14 +688,14 @@
           p &gt;
       .col-md-6
         img(src='@/assets/curso/temas/t2/f27.svg', alt='')
-        .fcs15.p-4
+        .p-4.bg24
           p
             | El ciclo 
             em while
             |  tambi&eacute;n es una sentencia que agrupa un conjunto de instrucciones, las cuales se repiten mientras se cumpla la respectiva condici&oacute;n booleana (es decir, una expresi&oacute;n que su evaluaci&oacute;n sea verdadera o falsa). En el ciclo 
             em while
             |  dif&iacute;cilmente se puede saber con anterioridad el n&uacute;mero de veces que se repetir&aacute;n las instrucciones.
-        .fcab17.p-4
+        .p-4.bg44
           p
             | La sintaxis b&aacute;sica de un ciclo 
             em while
@@ -692,7 +705,7 @@
             | (condici&oacute;n):
           p # Ejecuta este bloque de c&oacute;digo
           p # Siempre que condici&oacute;n sea verdadera
-        .fcs15.p-4
+        .p-4.bg24
           p
             | Ejemplo de una estructura de un ciclo 
             em while
@@ -828,7 +841,9 @@
       .col-lg-1.col-md-2.col-6
         img(src='@/assets/curso/temas/t2/f30.svg', alt='')
       .col-lg-11.col-md-10.col-12
-        p Python, posee además de los tipos de datos vistos anteriormente, tres tipos más complejos que pueden almacenar colecciones de datos de diversos tipos y se diferencian por su sintaxis, la manera en la que los datos son gestionados y que admiten una colección de datos. 
+        p 
+          em Python
+          | , posee además de los tipos de datos vistos anteriormente, tres tipos más complejos que pueden almacenar colecciones de datos de diversos tipos y se diferencian por su sintaxis, la manera en la que los datos son gestionados y que admiten una colección de datos. 
         p Los tipos de datos complejos son los siguientes:
         p 
           span.cac ● 
@@ -1006,7 +1021,7 @@
       div(x="62.1%" y="10.4%" tooltip="" numero="+")
         p Van Rossum (2017) indica “Lo mejor es pensar en un diccionario como un conjunto no ordenado de pares clave: valor, con el requerimiento de que las claves sean únicas (dentro de un diccionario en particular). Un par de llaves crean un diccionario vacío: {}”.
         p Son una colecci&oacute;n de datos que permite guardar su contenido por medio de unas palabras conocidas como llaves o claves y cada una tiene asignado un valor. Mientras que en las estructuras de listas y tuplas se obtienen sus datos solo y &uacute;nicamente por un n&uacute;mero de &iacute;ndice, los diccionarios permiten usar una clave para declarar y acceder a un valor de acuerdo con la siguiente sintaxis:
-        p &nbsp;_diccionario = {&apos;llave1&apos;: valor1, &apos;llave2&apos;: valor2, &apos;llave3&apos;: valor3}
+        p nombre_diccionario = {&apos;llave1&apos;: valor1, &apos;llave2&apos;: valor2, &apos;llave3&apos;: valor3}
         p: strong Ejemplo:
         p diccionario1 = {&quot;Nombre&quot;: &quot;Ana&quot;, &quot;Edad&quot;: 23, &quot;Documento&quot;: 12345678}
         p print(diccionario1) #Resultado: {&apos;Nombre&apos;: &apos;Ana&apos;, &apos;Edad&apos;: 23, &apos;Documento&apos;: 12345678}
@@ -1063,11 +1078,11 @@
         h3.titulo-tercero(data-aos='fade-right')
           i.fas.fa-square.cac.me-2
           | Otro tipo de estructura de datos:
-        .cajon-b.color-primario.p-3.mb-5.abajo-derecha
           p: b Matrices
           p Las matrices no son una estructura propia de 
             em Python
             | . Simplemente, una matriz es una lista de listas que se interpreta desde el punto de vista matemático. 
+        .cajon-b.color-secundario.p-3.mb-5.abajo-derecha
           p Cuando se habla de matrices en 
             em Python
             | , se está refiriendo a una matriz rectangular bidimensional especializada de datos, los cuales están almacenados en filas y columnas. Dentro de esta matriz puede haber datos en forma de números, cadenas, símbolos, expresiones, etc. La matriz es una de las estructuras de datos más importantes que se pueden utilizar en cálculos matemáticos y científicos.
