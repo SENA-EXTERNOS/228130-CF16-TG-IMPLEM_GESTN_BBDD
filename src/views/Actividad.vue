@@ -11,8 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Construcción de algoritmos en un entorno de desarrollo (IDE)
-        p Apreciado aprendiz, a continuación, encontrará unos enunciados relacionados con la experiencia de aprendizaje del presente componente. Escoja la respuesta correcta de acuerdo con lo aprendido.  
-        p: b ¡Adelante!
+        p Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo:
 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

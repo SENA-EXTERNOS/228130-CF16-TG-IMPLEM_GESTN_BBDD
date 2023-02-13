@@ -7,7 +7,7 @@
         span 2
       h1 Entornos de desarrollo
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-3
         figure
           img(src='@/assets/curso/temas/t2/f1.svg', alt='')
@@ -20,6 +20,8 @@
         p Es decir, un entorno de desarrollo integrado es un espacio de trabajo en el que se puede llevar a cabo la gestión del desarrollo de 
           em software 
           | en todas sus etapas hasta que se implemente una versión real.
+    p.mb-5 El siguiente video expone las generalidades y aspectos claves de los entornos de desarrollo. Visualícelo con atención:
+      
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -40,10 +42,6 @@
     p A continuación, se presentan las funciones y usos de Python 
 
     .col-md-10.mx-auto.mb-5
-      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-        h5 Figura 1
-        br
-        em Funciones y usos de Python
       ImagenInfograficaB.color-secundario.mb-5
         template(v-slot:imagen)
           figure
@@ -106,9 +104,7 @@
               img(src='@/assets/curso/temas/t2/f7.svg', alt='')
           .col-lg-10.col-md-9.col-12
             p: b Características del lenguaje.
-            p 
-              em Python 
-              | se caracteriza especialmente en:
+            p <i>Python</i> se caracteriza, especialmente, por lo siguiente:
             ul.lista-ul--color
               li
                 i.fas.fa-circle
@@ -140,8 +136,8 @@
             figure
               img(src='@/assets/curso/temas/t2/f8.svg', alt='')
           .col-lg-10.col-md-9.col-12
-            p: b Características del lenguaje 
-              em Python.
+            p: b Otras características del lenguaje 
+              em Python:
             ul.lista-ul--color
               li
                 i.fas.fa-circle
@@ -279,7 +275,7 @@
     h3.titulo-tercero(data-aos='fade-right')
       i.fas.fa-square.cac.me-2 
       | Operadores de 
-      em Python.
+      em Python
 
     p Son los símbolos utilizados para expresar las operaciones básicas en los programas, por ejemplo, hacer los cálculos matemáticos y la comparación de diferentes expresiones del código.
 
@@ -312,13 +308,14 @@
       .py-4.py-md-5(titulo="Operadores relacionales o de comparación")
         .row
           .col-md-6.mb-4.mb-md-0
-            p Estos símbolos son utilizados para escribir expresiones de comparación entre dos o más valores. El resultado siempre será un valor lógico o booleano (True o False).
-            p (==): evaluar si dos valores son iguales
-            p (! =): evaluar si dos valores son diferentes
-            p (&lt;): evaluar si el valor del lado izquierdo de la expresi&oacute;n es menor que el valor que est&aacute; en el lado derecho.
-            p (&gt;): evaluar si el valor del lado izquierdo de la expresi&oacute;n es mayor que el valor que est&aacute; en el lado derecho.
-            p (&lt;=): evaluar si el valor del lado izquierdo de la expresi&oacute;n es menor o igual que el valor que est&aacute; en el lado derecho.
-            p (&gt; =): evaluar si el valor del lado izquierdo de la expresi&oacute;n es mayor o igual que el valor que est&aacute; en el lado derecho.
+            p Estos símbolos son utilizados para escribir expresiones de comparación entre dos o más valores. El resultado siempre será un valor lógico o booleano <i>(True o False).</i>
+            p (==): evaluar si dos valores son iguales.
+            p (! =): evaluar si dos valores son diferentes.
+            p (<): evaluar si el valor del lado izquierdo de la expresión, es menor que el valor que está en el lado derecho.
+            p (>): evaluar si el valor del lado izquierdo de la expresión, es mayor que el valor que está en el lado derecho.
+            p (<=): evaluar si el valor del lado izquierdo de la expresión, es menor o igual que el valor que está en el lado derecho.
+            p (> =): evaluar si el valor del lado izquierdo de la expresión, es mayor o igual que el valor que está en el lado derecho.
+
           .col-md-6
             img(src='@/assets/curso/temas/t2/tabla2.svg', alt='')
       .py-4.py-md-5(titulo="Los operadores lógicos")
@@ -350,10 +347,6 @@
             img(src='@/assets/curso/temas/t2/tabla3.svg', alt='')
           .col-md-6 
             p: b Ejemplos de operadores de asignación
-            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-              h5 Figura 2
-              br
-              em Ejemplo de operadores de asignación 
             img(src='@/assets/curso/temas/t2/tabla4.svg', alt='')
       .py-4.py-md-5(titulo="Operadores especiales")
         .row
@@ -409,18 +402,16 @@
                   span Descargar 
                   i.fas.fa-file-download
 
-    separador
-
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.1 Estructuras de control
+    h3 Estructuras de control
 
     p Las estructuras de control son las encargadas de direccionar la secuencia o flujo de ejecución de las instrucciones de un algoritmo.
-    p: b Las estructuras de control se dividen en tres categorías en función del orden de ejecución:
+    p Las estructuras de control se dividen en tres categorías, en función del orden de ejecución. Siga los pasos del siguiente recurso para que conozca dichas categorías y sus particularidades. Preste suma atención a cada elemento mencionado:
 
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-primario(text-small)
         .row(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
+            h4 Estructuras
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
@@ -445,13 +436,15 @@
               img(src='@/assets/curso/temas/t2/f17.svg', alt='')
         .row(titulo="Paso 2")
           .col-md-6.mb-4.mb-md-0
-            p Las estructuras de secuencias son la forma de solución más sencilla de resolver un problema en un programa, ya que las instrucciones son ejecutadas en un orden secuencial de arriba hacia abajo.
+            h4 De secuencia
+            p Las estructuras de secuencia son la forma de solución más sencilla de resolver un problema en un programa, porque las instrucciones son ejecutadas en un orden secuencial, de arriba hacia abajo.
             p Por lo general, el proceso de una estructura secuencial tiene un comienzo, seguido por la sentencia número uno, luego la sentencia número dos, posteriormente la sentencia número tres, y así sucesivamente hasta llegar a la finalización del proceso.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/t2/f18.svg', alt='')
         .row(titulo="Paso 3")
           .col-md-6.mb-4.mb-md-0
+            h4 Fases de las estructuras
             p Toda estructura secuencial de un programa se basa en 5 fases:
             ol.lista-ol--cuadro
               li
@@ -489,7 +482,7 @@
               img(src='@/assets/curso/temas/t2/f19.svg', alt='')
         .row(titulo="Paso 4")
           .col-md-6.mb-4.mb-md-0
-            p Ventajas de las estructuras secuenciales
+            h4 Ventajas de las estructuras secuenciales
             p Con este tipo de estructura, se tienen las siguientes ventajas:
             ol.lista-ol--cuadro
               li
@@ -529,7 +522,8 @@
               img(src='@/assets/curso/temas/t2/f20.svg', alt='')
         .row(titulo="Paso 5")
           .col-md-6.mb-4.mb-md-0
-            p Las estructuras de control condicional
+            h4 Las estructuras de control condicional 
+
             p Son las que manejan diferentes opciones de selecci&oacute;n dependiendo del resultado de una operaci&oacute;n booleana (siempre ser&aacute; un valor verdadero o falso), por ejemplo, una comparaci&oacute;n (x = y). Seg&uacute;n la expresi&oacute;n sea cierta o falsa, se lleva a cabo un c&oacute;digo u otro.
             p En el lenguaje 
               em Python
@@ -567,7 +561,7 @@
               em True
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t2/f22.svg', alt='')
+              img(src='@/assets/curso/temas/t2/f22-.svg', alt='')
         .row(titulo="Paso 7")
           .col-md-6.mb-4.mb-md-0
             p b. La sintaxis de una sentencia 
@@ -584,7 +578,7 @@
               em False
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t2/f23.svg', alt='')
+              img(src='@/assets/curso/temas/t2/f23-.svg', alt='')
         .row(titulo="Paso 8")
           .col-md-6.mb-4.mb-md-0
             p c. La sintaxis de una sentencia 
@@ -604,10 +598,12 @@
               em False
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/t2/f24.svg', alt='')
+              img(src='@/assets/curso/temas/t2/f24-.svg', alt='')
         .row(titulo="Paso 9")
           .col-md-6.mb-4.mb-md-0
-            p Las estructuras de control usan los siguientes tipos de datos: 
+          
+            h4 Las estructuras de control, usan los siguientes tipos de datos: 
+
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
@@ -626,10 +622,7 @@
             figure
               img(src='@/assets/curso/temas/t2/f25.svg', alt='')
 
-    separador 
-
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Ciclos
+    h3 Ciclos
 
     p Los ciclos también llamados bucles, son estructuras de control iterativas. Tal como su nombre lo indica, consiste en una forma de trabajar que permite llevar a cabo un pedazo del código varias veces.
     p: b A continuación, se presentan los tipos de ciclos o bucles: 
@@ -726,10 +719,7 @@
           p N&uacute;mero Cuatro
           p N&uacute;mero Cinco
 
-    separador
-
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.3 Estructura de datos
+    h3 Estructura de datos
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-md-2.col-6
@@ -1008,15 +998,15 @@
           li
             .lista-ol--cuadro__vineta
               span 1
-            | Las tuplas ocupan menos espacio en memoria
+            | Las tuplas ocupan menos espacio en memoria.
           li
             .lista-ol--cuadro__vineta
               span 2
-            | Debido a que las tuplas son inmutables, tienen protección frente a cambios no deseados
+            | Debido a que las tuplas son inmutables, tienen protección frente a cambios no deseados.
           li
             .lista-ol--cuadro__vineta
               span 3
-            | Las tuplas se pueden usar como claves de diccionarios
+            | Las tuplas se pueden usar como claves de diccionarios.
 
       div(x="62.1%" y="10.4%" tooltip="" numero="+")
         p Van Rossum (2017) indica “Lo mejor es pensar en un diccionario como un conjunto no ordenado de pares clave: valor, con el requerimiento de que las claves sean únicas (dentro de un diccionario en particular). Un par de llaves crean un diccionario vacío: {}”.

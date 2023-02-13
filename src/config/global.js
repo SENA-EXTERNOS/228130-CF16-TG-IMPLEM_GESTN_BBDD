@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Construcción de algoritmos en un entorno de desarrollo (IDE)',
     descripcionCurso:
-      'Es a través de los lenguajes de programación se pueden crear diferentes soluciones y responder a millones de necesidades de la vida cotidiana por medio del desarrollo de programas o aplicaciones. Actualmente, están presentes en los diferentes sectores o industrias, pues contribuyen a desarrollar recursos capaces de responder a las deficiencias o vacíos del día a día.',
+      'Es a través de los lenguajes de programación que se pueden crear diferentes soluciones y responder a millones de necesidades de la vida cotidiana, por medio del desarrollo de programas o aplicaciones. Actualmente, están presentes en los diferentes sectores o industrias, pues contribuyen a desarrollar recursos capaces de responder a las deficiencias o vacíos del día a día.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-img.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-bg.svg'),
     imagenesDecorativasBanner: [
@@ -40,26 +40,6 @@ export default {
         numero: '1',
         titulo: 'Lenguajes de programación',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Definición y características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Tipos de lenguajes de programación',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Sintaxis de los lenguajes de programación',
-            hash: 't_1_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema2',
@@ -67,26 +47,6 @@ export default {
         numero: '2',
         titulo: 'Entornos de desarrollo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Estructuras de control',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Ciclos',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Estructura de datos',
-            hash: 't_2_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -138,51 +98,43 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estructura secuencial',
-      referencia:
-        'GSL Industrias. (7 de junio de 2021). <em>Estructura secuencial</em>. [Web log post]. Blogspot.',
+      tema: 'Entornos de desarrollo',
+      referencia: 'GSL Industrias. (2021). <i>Estructura secuencial.</i>',
       tipo: 'Blogs',
       link:
         'https://industriasgsl.com/blogs/automatizacion/que-es-la-estructura-secuencial ',
     },
     {
-      tema: 'Estructuras de control',
-      referencia: '<em>El libro de Python (2022)</em>. Estructura de control.',
+      tema: 'Entornos de desarrollo',
+      referencia: 'El libro de Python. (2022). <i>Estructura de control.</i>',
       tipo: 'Página web',
       link: 'https://ellibrodepython.com/estructuras-control-python',
     },
+
     {
-      tema: 'Estructura de datos',
+      tema: 'Entornos de desarrollo',
       referencia:
-        'Rootstack. (29 de diciembre de 2021) <em>Cómo funcionan las matrices en Python y cómo usarlas</em>. Web log post]. Blogspot.',
-      tipo: 'Blogs',
-      link: 'https://rootstack.com/es/blog/python  ',
-    },
-    {
-      tema: 'Estructura de datos',
-      referencia:
-        'Python Software Foundation. (23 de septiembre de 2022). <em>El tutorial de Python</em>.',
+        'Python Software Foundation. (2022).<i> El tutorial de Python.</i>',
       tipo: 'Página web',
       link: 'https://docs.python.org/es/3/tutorial/index.html ',
     },
     {
-      tema: 'Entornos de desarrollos',
+      tema: 'Entornos de desarrollo',
       referencia:
-        'Laca, M. (12 de septiembre de 2018). <em>Programación estructurada</em>. Lenguaje Python.',
+        'Laca, M. (2018).<i> Programación estructurada. Lenguaje Python.</i>',
       tipo: 'Página web',
       link:
         'https://pythones.net/que-es-python-y-sus-caracteristicas/#Caracteristicas_de_Python ',
     },
     {
-      tema: 'Estructura de datos',
-      referencia:
-        'Delgado, S. (17 de abril de 2022). <em>Aprende Python</em>. Estructura de datos. ',
+      tema: 'Entornos de desarrollo',
+      referencia: 'Delgado, S. (2022). Aprende Python. Estructura de datos.',
       tipo: 'Libro PDF',
       link:
         'https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf ',
     },
     {
-      tema: 'Ciclos',
+      tema: 'Entornos de desarrollo',
       referencia:
         'Moreno, A. & Muñoz, S. (2020). <em>Bucles</em>. Python práctico.',
       tipo: 'Libro PDF',
@@ -190,7 +142,7 @@ export default {
         'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=&pg=&ed= ',
     },
     {
-      tema: 'Operadores y tipos de datos',
+      tema: 'Lenguajes de programación',
       referencia:
         'Trejos, O. & Muñoz, L. (2020). <em>Operadores y tipos de datos. Introducción a la programación con Python</em>.',
       tipo: 'Libro PDF',
@@ -202,52 +154,52 @@ export default {
     {
       termino: 'Código de un programa',
       significado:
-        'la computadora lo usa para generar una versión del programa que es capaz de procesar',
+        'la computadora lo usa para generar una versión del programa, que es capaz de procesar.',
     },
     {
       termino: 'Depurar',
       significado:
-        'tarea o proceso especializado para corregir y eliminar errores en un código fuente durante la edición',
+        'tarea o proceso especializado para corregir y eliminar errores en un código fuente durante la edición.',
     },
     {
       termino: '<em>Frameworks</em>',
       significado:
-        'herramienta cuyo objetivo es facilitar el desarrollo y la organización de un <em>software</em> o aplicación. ',
+        'herramienta cuyo objetivo es facilitar el desarrollo y la organización de un software o aplicación.',
     },
     {
       termino: 'Interfaz',
       significado:
-        'es un programa para que objetos no relacionados se comuniquen entre sí',
+        'es un programa para que objetos no relacionados se comuniquen entre sí.',
     },
     {
       termino: 'Librerías o bibliotecas',
       significado:
-        'es un conjunto de códigos desarrollados por un programador para ser utilizados posteriormente por él mismo o por otros programadores',
+        'es un conjunto de códigos desarrollados por un programador para ser utilizados posteriormente por él mismo o por otros programadores.',
     },
     {
       termino: 'Lenguaje de programación',
       significado:
-        'es el lenguaje utilizado para realizar el código fuente de todo programa',
+        'es el lenguaje utilizado para realizar el código fuente de todo programa.',
     },
     {
       termino: 'Operadores',
       significado:
-        'son elementos que relacionan de forma diferente, los valores de una o más variables y/o constantes. Es decir, los operadores nos permiten manipular valores',
+        'son elementos que relacionan de forma diferente, los valores de una o más variables y/o constantes. Es decir, los operadores nos permiten manipular valores.',
     },
     {
       termino: 'Programación',
       significado:
-        'es el proceso que se lleva a cabo tanto en el diseño como en el desarrollo de programas y aplicaciones  ',
+        'es el proceso que se lleva a cabo tanto en el diseño como en el desarrollo de programas y aplicaciones.',
     },
     {
       termino: '<em>Script</em>',
       significado:
-        'instrucciones de un lenguaje de programación escritas en un archivo de texto',
+        'instrucciones de un lenguaje de programación escritas en un archivo de texto.',
     },
     {
       termino: 'Variable',
       significado:
-        'es un espacio en la memoria para almacenar un valor que puede ser modificado a lo largo de la ejecución',
+        'es un espacio en la memoria para almacenar un valor que puede ser modificado a lo largo de la ejecución.',
     },
   ],
   referencias: [

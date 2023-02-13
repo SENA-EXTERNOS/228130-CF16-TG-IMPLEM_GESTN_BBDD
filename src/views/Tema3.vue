@@ -141,7 +141,7 @@
                   | Vac&iacute;a la lista 
                   strong o 
 
-    p Algunas de estas funciones generan un error 
+    p.mb-5 Algunas de estas funciones generan un error 
       em ValueError
       |  si no est&aacute; el elemento indicado, por lo cual es recomendable, hacer una validaci&oacute;n previa de la existencia del elemento.
 
@@ -149,8 +149,7 @@
     .fcac50.p-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9
-          p: b ¡Felicitaciones!
-          p.mb-0 Ha finalizado el estudio de este componente formativo, a través del cual ha aprendido sobre la construcción de algoritmos en un entorno de desarrollo (IDE). Ahora, es importante revisar y estudiar la síntesis con la que podrá recordar de forma general los saberes que se han desarrollado; realizar la actividad de aprendizaje donde podrá poner a prueba lo aprendido; consultar el material complementario que le servirá como refuerzo y profundización y a estudiar el glosario que le dará un repaso sobre los distintos conceptos .
+          p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
         .col-lg-3
           figure
             img(src='@/assets/curso/temas/t3/f3.svg', alt='')

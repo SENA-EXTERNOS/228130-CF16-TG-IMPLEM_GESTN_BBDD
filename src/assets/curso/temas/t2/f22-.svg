@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="345" viewBox="0 0 400 345">
+  <g id="Grupo_140193" data-name="Grupo 140193" transform="translate(5544 3105.784)">
+    <g id="Grupo_137089" data-name="Grupo 137089" transform="translate(-5903.416 -6675.574)">
+      <rect id="Rectángulo_294795" data-name="Rectángulo 294795" width="400" height="345" rx="15" transform="translate(359.416 3569.79)" fill="#41b8df" opacity="0.55"/>
+      <text id="if_x_0_:_print_x_tiene_un_valor_de_0_Resultado:_x_tiene_un_valor_de_0_" data-name="if (x==0):
+print &quot;x tiene un valor de 0&quot;   
+#Resultado: x tiene un valor de 0
+" transform="translate(402.532 3681.339)" fill="#c82b0d" font-size="21" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="22">if </tspan><tspan y="22" fill="#161615">(x==</tspan><tspan y="22" fill="#6a3181">0</tspan><tspan y="22" fill="#161615">):</tspan><tspan x="0" y="47.2">print </tspan><tspan y="47.2" xml:space="preserve" fill="#0d4997">&quot;x tiene un valor de 0&quot;   </tspan><tspan fill="#0d4997"><tspan x="0" y="72.4">#Resultado: x tiene un valor de 0</tspan></tspan><tspan fill="#0d4997" font-family="Roboto-Italic"><tspan x="0" y="97.6"></tspan></tspan></text>
+    </g>
+  </g>
+</svg>

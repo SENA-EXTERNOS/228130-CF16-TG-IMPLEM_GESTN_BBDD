@@ -17,12 +17,9 @@
               img(src='@/assets/curso/temas/if1.svg', alt='')
           .col-lg-8
             .bloque-texto-a__texto.p-4
-              p.mb-0 Apreciado aprendiz, sea bienvenido a este momento de formación orientado a los procesos de implementación y gestión de soluciones de 
-                em software 
-                | de acuerdo con el diseño y metodologías de desarrollo, aplicando todo el conocimiento con criterios propios de desempeño en diferentes campos como el del sector académico, productivo e investigativo. 
+              p.mb-0 Apreciado aprendiz, bienvenido a este componente formativo, donde se orienta la mirada hacia los procesos de implementación y gestión de soluciones de<i> software</i>, de acuerdo con el diseño y metodologías de desarrollo. Afiance sus saberes, conocimientos y habilidades en todo lo relacionado con lenguajes de programación, entornos de desarrollo, estructuras de control, métodos y funciones.
 
-    p En el siguiente video conocerá, de forma general, la temática que se explorará a lo largo de este componente formativo.
-    p: b ¡Muchos éxitos en este proceso de aprendizaje!
+    p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo de este componente formativo:
 
     figure
       .video

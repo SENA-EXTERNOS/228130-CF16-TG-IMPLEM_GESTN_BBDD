@@ -25,14 +25,12 @@
         figure
           img(src='@/assets/curso/temas/t1/f1.svg', alt='')
 
-    p A lo largo de este componente formativo, se estudia la importancia de saber programar y la lógica que permite comprender cómo se construyen los programas en las computadoras tomando como base el lenguaje Python que es uno de los más usados actualmente y más fáciles de aprender.
+    p.mb-5 A lo largo de este componente formativo, se estudia la importancia de saber programar y la lógica que permite comprender cómo se construyen los programas en las computadoras tomando como base el lenguaje Python que es uno de los más usados actualmente y más fáciles de aprender.
 
-    separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.1 Definición y características
+    h3 Definición y características de los lenguajes de programación
 
-    p A continuación, se presenta información relevante sobre la importancia de saber programar y la eficacia de la lógica. Se sugiere leer con atención y tomar nota de los aspectos más relevantes para el aprendizaje.
+    p A continuación, se presenta información relevante sobre la importancia de saber programar y la eficacia de la lógica en este proceso. Se sugiere leer con atención y tomar nota de los aspectos más relevantes para el aprendizaje:
 
     .tarjeta.fcs15.p-4.mb-5(data-aos="zoom-in")
       SlyderA.color-acento-botones(tipo='b')
@@ -59,6 +57,7 @@
               img(src='@/assets/curso/temas/t1/f4.png', alt='Texto que describa la imagen')
         .row.justify-content-around.align-items-center
           .col-md-4.mb-4.mb-md-0
+            h3 Léxico
             p Un lenguaje de programación está constituido por un léxico, una sintaxis y una semántica que definen su estructura principal y le dan un significado a sus elementos y expresiones para resolver problemas que se pueden ver interpretados en apps, páginas webs, programas de 
               em software, scripts 
               | y otros elementos que hoy facilitan el día a día a los diferentes tipos de usuarios.
@@ -67,6 +66,7 @@
               img(src='@/assets/curso/temas/t1/f5.png', alt='Texto que describa la imagen')
         .row.justify-content-around.align-items-center
           .col-md-4.mb-4.mb-md-0
+            h3 Atributos
             p De acuerdo con lo mencionado anteriormente, los lenguajes de programación vienen definidos con tres características principales que los identifican:
             p Tienen un 
               b léxico
@@ -113,6 +113,7 @@
               img(src='@/assets/curso/temas/t1/f7.png', alt='Texto que describa la imagen')
         .row.justify-content-around.align-items-center
           .col-md-4.mb-4.mb-md-0
+            h3 Reglas o sintaxis
             p Tienen una 
               b sintaxis
               | , que es un conjunto de reglas que definen las expresiones de texto que son correctas, así como la secuencia de símbolos que forman las diferentes sentencias del lenguaje. Estas reglas indican si una sentencia está bien escrita o no.
@@ -121,18 +122,16 @@
               img(src='@/assets/curso/temas/t1/f8.png', alt='Texto que describa la imagen')
         .row.justify-content-around.align-items-center
           .col-md-4.mb-4.mb-md-0
+            h3 Semántica
             p Tienen una determinada semántica que define cuál será el resultado de la ejecución de un programa. Indica el significado de las expresiones y los tipos de datos del lenguaje.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/t1/f9.png', alt='Texto que describa la imagen')
               
-    separador
+    h3 Tipos de lenguajes de programación
 
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.2 Tipos de lenguajes de programación
-
-    p Existen diversos tipos de lenguajes de programación, ya que cada uno es creado para resolver diferentes tipos de problemas con características similares; esto ha hecho que cada día aparezcan distintos tipos de lenguajes que ofrecen un estilo de programación fácil, pero con una funcionalidad mayor y con más potencia.
-    p A continuación, se presenta los distintos lenguajes de programación:
+    p Existen diversos tipos de lenguajes de programación, y cada uno es creado para resolver diferentes tipos de problemas con características similares; esto ha hecho que cada día aparezcan distintos tipos de lenguajes y que se les pueda clasificar, comprendiendo que lo principal es que ofrezcan un estilo de programación fácil, con una funcionalidad mayor y con más potencia.
+    p A continuación, se presentan algunos lenguajes de programación y sus características propias que los diferencian entre sí:
 
     .row.justify-content-center.mb-5
       .col-lg-4(data-aos="fade-right")
@@ -140,7 +139,7 @@
           img(src='@/assets/curso/temas/t1/f10.svg', alt='')
       .col-lg-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
-          div(titulo="Las diferencias que hay entre los tipos de lenguaje son:")
+          div(titulo="Los lenguajes de programación están diferenciados por:")
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
@@ -251,10 +250,7 @@
                   b Lenguaje compilado: 
                   | convierte un lenguaje “cualquiera” en código máquina”. Se pueden ver como traductores, permitiendo a la máquina interpretar lo que se quiere hacer. La ventaja de este lenguaje es que su ejecución es más rápida.
 
-    separador
-
-    #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 1.3 Sintaxis de los lenguajes de programación
+    h3 Sintaxis de los lenguajes de programación
 
     .col-md-10.mx-auto.invertido
       .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5
