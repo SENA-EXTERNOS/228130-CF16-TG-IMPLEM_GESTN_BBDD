@@ -156,7 +156,7 @@
               li
                 .lista-ol--cuadro__vineta
                   span d
-                | Las librerías disponibles, tales como frameworks o comunidad que lo soporta.
+                p Las librerías disponibles, tales como <em>frameworks</em> o comunidad que lo soporta.
           div(titulo="Los tipos de lenguajes de programación se clasifican:")
             p De acuerdo con el nivel de programación, se encuentran de tres tipos:
             ol.lista-ol--cuadro

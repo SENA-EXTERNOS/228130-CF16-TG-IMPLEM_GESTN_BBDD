@@ -103,33 +103,33 @@
             figure
               img(src='@/assets/curso/temas/t2/f7.svg', alt='')
           .col-lg-10.col-md-9.col-12
-            p: b Características del lenguaje.
+            p: b Características del lenguaje
             p <i>Python</i> se caracteriza, especialmente, por lo siguiente:
             ul.lista-ul--color
               li
                 i.fas.fa-circle
-                | Es un lenguaje interpretado
+                | Es un lenguaje interpretado.
               li
                 i.fas.fa-circle
-                | Lenguaje sencillo, legible y elegante
+                | Lenguaje sencillo, legible y elegante.
               li
                 i.fas.fa-circle
-                | Sintaxis simple, clara y sencilla
+                | Sintaxis simple, clara y sencilla.
               li
                 i.fas.fa-circle
-                | Tiene tipado dinámico
+                | Tiene tipado dinámico.
               li
                 i.fas.fa-circle
-                | Es fuertemente tipado
+                | Es fuertemente tipado.
               li
                 i.fas.fa-circle
-                | Es multiplataforma
+                | Es multiplataforma.
               li
                 i.fas.fa-circle
-                | Permite llevar a cabo aplicaciones de manera práctica y rápida
+                | Permite llevar a cabo aplicaciones de manera práctica y rápida.
               li
                 i.fas.fa-circle
-                | Soporta programación imperativa, orientada a objetos y funcional
+                | Soporta programación imperativa, orientada a objetos y funcional.
             p Su objetivo principal es aumentar la legibilidad y la facilidad de desarrollo.
         .row.justify-content-center.align-items-center(x="66.8%" y="74%" tooltip="" numero="E")
           .col-lg-2.col-md-3.col-8
@@ -188,12 +188,12 @@
           img(src='@/assets/curso/temas/t2/f10.png', alt='')
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p.text-small(numero="1" titulo="") 
+          p(numero="1" titulo="").mb-0
             | Ir a la página de descargas para Windows del sitio oficial y descargar la versión adecuada del instalador ejecutable de 
             em Python.
-          p.text-small(numero="2" titulo="") 
+          p.mb-0(numero="2" titulo="") 
             | Realizar la instalación haciendo doble clic sobre el archivo ejecutable descargado para lo cual es necesario tener permisos de Administrador del equipo.
-          p.text-small(numero="3" titulo="") 
+          p.mb-0(numero="3" titulo="") 
             | Una vez iniciado el instalador, en la ventana 
             em Install Python 
             | se debe activar las casillas de las opciones: 
@@ -202,26 +202,26 @@
             em Add Python to PATH
             | . Después, seleccione la opción 
             em Customize installation.
-          p.text-small(numero="4" titulo="") 
+          p.mb-0(numero="4" titulo="") 
             | En la ventana 
             em optional features 
             | seleccione todas las opciones y hacer clic en el botón 
             em [Next].
-          p.text-small(numero="5" titulo="") 
+          p.mb-0(numero="5" titulo="") 
             | En la ventana 
             em advanced options 
             | activar todas las opciones, aceptar la ruta dada por defecto o escribir una ruta personalizada del directorio de instalación e iniciar la instalación haciendo clic en el botón 
             em [Install].
-          p.text-small(numero="6" titulo="") 
+          p.mb-0(numero="6" titulo="") 
             | Esperar unos segundos y comenzará el proceso de instalación de 
             em Python.
-          p.text-small(numero="7" titulo="") 
+          p.mb-0(numero="7" titulo="") 
             | Al finalizar la instalación debe aparecer una ventana con el mensaje 
             em setup was successful. 
             | En esta ventana se puede acceder a un tutorial online, a la documentación oficial de 
             em Python 
             | y a información adicional de las novedades de la versión instalada.
-          p.text-small(numero="8" titulo="") 
+          p.mb-0(numero="8" titulo="") 
             | Posteriormente se podrá instalar cualquier paquete adicional utilizando el instalador PIP.
 
     .row.justify-content-center.align-items-center.mb-5
@@ -295,7 +295,7 @@
           | Operadores de asignación&emsp;
 
     TabsC.color-acento-botones.mb-5
-      .py-4.py-md-5(titulo="Operadores aritméticos.")
+      .py-4.py-md-5(titulo="Operadores aritméticos")
         .row
           .col-md-6.mb-4.mb-md-0
             p Son los símbolos que se utilizan para escribir ecuaciones aritméticas. También se pueden usar los paréntesis para definir el orden de las operaciones. El resultado de estas operaciones siempre será numérico.
@@ -409,8 +409,8 @@
 
     .tarjeta.tarjeta--gris.p-4.mb-5
       LineaTiempoC.color-primario(text-small)
-        .row(titulo="Paso 1")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             h4 Estructuras
             ol.lista-ol--cuadro
               li
@@ -431,19 +431,19 @@
                 p.mb-0 
                   b De iteración o de control de ciclos: 
                   | se refiere a las instrucciones que se repiten.
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f17.svg', alt='')
-        .row(titulo="Paso 2")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             h4 De secuencia
             p Las estructuras de secuencia son la forma de solución más sencilla de resolver un problema en un programa, porque las instrucciones son ejecutadas en un orden secuencial, de arriba hacia abajo.
             p Por lo general, el proceso de una estructura secuencial tiene un comienzo, seguido por la sentencia número uno, luego la sentencia número dos, posteriormente la sentencia número tres, y así sucesivamente hasta llegar a la finalización del proceso.
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f18.svg', alt='')
-        .row(titulo="Paso 3")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             h4 Fases de las estructuras
             p Toda estructura secuencial de un programa se basa en 5 fases:
             ol.lista-ol--cuadro
@@ -477,62 +477,62 @@
                 p.mb-0 
                   b Salida: 
                   | es el resultado final de la estructura secuencial.
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f19.svg', alt='')
-        .row(titulo="Paso 4")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             h4 Ventajas de las estructuras secuenciales
             p Con este tipo de estructura, se tienen las siguientes ventajas:
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
                   span a
-                | Los programas son más fáciles de crear
+                | Los programas son más fáciles de crear.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                | Ayuda a entender visualmente la secuencia ordenada
+                | Ayuda a entender visualmente la secuencia ordenada.
               li
                 .lista-ol--cuadro__vineta
                   span c
-                | Es fácil identificar y corregir posibles errores
+                | Es fácil identificar y corregir posibles errores.
               li
                 .lista-ol--cuadro__vineta
                   span d
-                | Disminución de pruebas
+                | Disminución de pruebas.
               li
                 .lista-ol--cuadro__vineta
                   span e
-                | Mantiene condiciones específicas
+                | Mantiene condiciones específicas.
               li
                 .lista-ol--cuadro__vineta
                   span f
-                | Permite la rápida corrección y modificación de las sentencias
+                | Permite la rápida corrección y modificación de las sentencias.
               li
                 .lista-ol--cuadro__vineta
                   span g
-                | Reducción de tareas de mantenimiento
+                | Reducción de tareas de mantenimiento.
               li
                 .lista-ol--cuadro__vineta
                   span h
-                | Aumenta la producción del sistema
-          .col-md-6
+                | Aumenta la producción del sistema.
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f20.svg', alt='')
-        .row(titulo="Paso 5")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             h4 Las estructuras de control condicional 
 
             p Son las que manejan diferentes opciones de selecci&oacute;n dependiendo del resultado de una operaci&oacute;n booleana (siempre ser&aacute; un valor verdadero o falso), por ejemplo, una comparaci&oacute;n (x = y). Seg&uacute;n la expresi&oacute;n sea cierta o falsa, se lleva a cabo un c&oacute;digo u otro.
             p En el lenguaje 
               em Python
               |  existen los siguientes tipos de estructuras de control condicional:
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f21.svg', alt='')
-        .row(titulo="Paso 6")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             p
               strong
                 | Estructura condicional 
@@ -559,11 +559,11 @@
               | condici&oacute;n:
             p ejecutar c&oacute;digo si la condici&oacute;n es 
               em True
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f22-.svg', alt='')
-        .row(titulo="Paso 7")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             p b. La sintaxis de una sentencia 
               em if
               |  - else es la siguiente:
@@ -576,11 +576,11 @@
               em else:
             p ejecutar c&oacute;digo si la condici&oacute;n es 
               em False
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f23-.svg', alt='')
-        .row(titulo="Paso 8")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
             p c. La sintaxis de una sentencia 
               em if - elif - else
               |  es la siguiente:
@@ -596,11 +596,11 @@
               em else:
             p ejecutar sentencia alternativa si todas las condiciones previas son evaluadas como 
               em False
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f24-.svg', alt='')
-        .row(titulo="Paso 9")
-          .col-md-6.mb-4.mb-md-0
+        .row(titulo="")
+          .col-md-6.mb-4.mb-md-0.mt-4
           
             h4 Las estructuras de control, usan los siguientes tipos de datos: 
 
@@ -610,15 +610,15 @@
                   span a
                 p.mb-0 
                   b Datos simples como son: 
-                  | numéricos, alfanuméricos y lógicos
+                  | numéricos, alfanuméricos y lógicos.
               li
                 .lista-ol--cuadro__vineta
                   span b
                 p.mb-0 
                   b Datos estructurados como son: 
-                  | arreglos, registros, archivos y apuntadores 
+                  | arreglos, registros, archivos y apuntadores. 
             p Las estructuras de control también manejan constantes y variables, las cuales pueden ser numéricas, alfanuméricas y lógicas, y por su trabajo, en acumulares y contadores.
-          .col-md-6
+          .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f25.svg', alt='')
 
