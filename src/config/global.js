@@ -211,7 +211,7 @@ export default {
       referencia:
         'Joyanes, L. (2020). <em>Fundamentos de programación</em>. McGraw-Hill.',
       link:
-        'https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=10211 ',
+        'https://combomix.net/wp-content/uploads/2017/03/Fundamentos-de-programaci%C3%B3n-4ta-Edici%C3%B3n-Luis-Joyanes-Aguilar-2.pdf ',
     },
     {
       referencia:
