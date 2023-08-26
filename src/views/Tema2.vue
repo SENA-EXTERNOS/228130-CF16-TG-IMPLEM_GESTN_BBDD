@@ -204,7 +204,7 @@
             em Customize installation.
           p.mb-0(numero="4" titulo="") 
             | En la ventana 
-            em optional features 
+            em optional features, 
             | seleccione todas las opciones y hacer clic en el botón 
             em [Next].
           p.mb-0(numero="5" titulo="") 
@@ -617,7 +617,7 @@
                 p.mb-0 
                   b Datos estructurados como son: 
                   | arreglos, registros, archivos y apuntadores. 
-            p Las estructuras de control también manejan constantes y variables, las cuales pueden ser numéricas, alfanuméricas y lógicas, y por su trabajo, en acumulares y contadores.
+            p Las estructuras de control también manejan constantes y variables, las cuales pueden ser numéricas, alfanuméricas y lógicas, y por su trabajo, en acumuladores y contadores.
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f25.svg', alt='')
@@ -1055,7 +1055,7 @@
         p Algunas propiedades de los diccionarios en 
           em Python 
           | son las siguientes:
-        p Son din&aacute;micos, pueden crecer o decrecer ya que se pueden a&ntilde;adir o eliminar elementos.
+        p Son din&aacute;micos, pueden crecer o decrecer, ya que se pueden a&ntilde;adir o eliminar elementos.
         p Son indexados, los elementos del diccionario son accesibles a trav&eacute;s de la respectiva llave.
         p Y son anidados, un diccionario puede contener a otro diccionario en su campo valor.
         p Un diccionario permite eliminar cualquier entrada de la siguiente forma:

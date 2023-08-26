@@ -25,7 +25,7 @@
         figure
           img(src='@/assets/curso/temas/t1/f1.svg', alt='')
 
-    p.mb-5 A lo largo de este componente formativo, se estudia la importancia de saber programar y la lógica que permite comprender cómo se construyen los programas en las computadoras tomando como base el lenguaje Python que es uno de los más usados actualmente y más fáciles de aprender.
+    p.mb-5 A lo largo de este componente formativo, se estudia la importancia de saber programar y la lógica que permite comprender cómo se construyen los programas en las computadoras, tomando como base el lenguaje Python que es uno de los más usados actualmente y más fáciles de aprender.
 
 
     h3 Definición y características de los lenguajes de programación
@@ -60,7 +60,7 @@
             h3 Léxico
             p Un lenguaje de programación está constituido por un léxico, una sintaxis y una semántica que definen su estructura principal y le dan un significado a sus elementos y expresiones para resolver problemas que se pueden ver interpretados en apps, páginas webs, programas de 
               em software, scripts 
-              | y otros elementos que hoy facilitan el día a día a los diferentes tipos de usuarios.
+              | y otros elementos que hoy facilitan el día a día de los diferentes tipos de usuarios.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/t1/f5.png', alt='Texto que describa la imagen')
@@ -248,7 +248,7 @@
                   span b
                 p.mb-0
                   b Lenguaje compilado: 
-                  | convierte un lenguaje “cualquiera” en código máquina”. Se pueden ver como traductores, permitiendo a la máquina interpretar lo que se quiere hacer. La ventaja de este lenguaje es que su ejecución es más rápida.
+                  | convierte un lenguaje “cualquiera” en código máquina. Se pueden ver como traductores, permitiendo a la máquina interpretar lo que se quiere hacer. La ventaja de este lenguaje es que su ejecución es más rápida.
 
     h3 Sintaxis de los lenguajes de programación
 
