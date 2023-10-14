@@ -12,16 +12,16 @@
         figure
           img(src='@/assets/curso/temas/t2/f1.svg', alt='')
       .col-lg-9
-        p En el mundo del 
-          em software 
-          | y la tecnología, un entorno de desarrollo integrado (IDE) por sus siglas en inglés 
-          em Integrated Development Environment
+        p En el mundo del&nbsp;
+          em software
+          | &nbsp;y la tecnología, un entorno de desarrollo integrado (IDE) por sus siglas en inglés
+          em &nbsp;Integrated Development Environment
           | , es una herramienta informática que proporciona servicios integrales para facilitar al programador el desarrollo de software a través de un conjunto de procedimientos y aplicaciones que sirven para codificar, integrar, testear, validar, depurar y ejecutar programas.
-        p Es decir, un entorno de desarrollo integrado es un espacio de trabajo en el que se puede llevar a cabo la gestión del desarrollo de 
-          em software 
-          | en todas sus etapas hasta que se implemente una versión real.
+        p Es decir, un entorno de desarrollo integrado es un espacio de trabajo en el que se puede llevar a cabo la gestión del desarrollo de
+          em &nbsp;software
+          | &nbsp;en todas sus etapas hasta que se implemente una versión real.
     p.mb-5 El siguiente video expone las generalidades y aspectos claves de los entornos de desarrollo. Visualícelo con atención:
-      
+
 
     figure.mb-5(data-aos="zoom-in")
       .video
@@ -30,16 +30,16 @@
     .fcac50.p-4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-9
-          p: b ¡Importante! 
-          p El concepto de «lenguaje de 
+          p: b ¡Importante!
+          p El concepto de «lenguaje de&nbsp;
             em scripting
-            | » se ha transformado ampliamente desde su creación, porque hoy en día Python es usado para desarrollar, de manera rápida, aplicaciones en diversos sectores, especialmente en las plataformas y apps.
+            | » &nbsp;se ha transformado ampliamente desde su creación, porque hoy en día Python es usado para desarrollar, de manera rápida, aplicaciones en diversos sectores, especialmente en las plataformas y apps.
           p.mb-0 Es un interpretador de instrucciones que permite usar un lenguaje en forma recíproca, es decir, permite trabajar de manera interactiva en una ventana, y además, a través de programas que pueden desarrollarse y ensayar a medida que son construidos. Cuenta con implícitas estructuras de datos eficientes como conjuntos, diccionarios, listas y tuplas, con un enfoque simple, pero muy eficiente que permiten llevar a cabo múltiples tareas en pocas líneas de código y de manera legible.
         .col-lg-3(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t2/f2.svg', alt='')
 
-    p A continuación, se presentan las funciones y usos de Python 
+    p A continuación, se presentan las funciones y usos de Python
 
     .col-md-10.mx-auto.mb-5
       ImagenInfograficaB.color-secundario.mb-5
@@ -59,43 +59,43 @@
               img(src='@/assets/curso/temas/t2/f5.svg', alt='')
           .col-lg-10.col-md-9.col-12
             p: b ¿Dónde se utiliza?
-            p Al ser un lenguaje de propósito general, se puede utilizar en diferentes campos para análisis de datos, crear aplicaciones de escritorios, bases de datos relacionales, NoSQL, criptomonedas, desarrollo de aplicaciones multimedia, desarrollo de videojuegos, desarrollo móvil y desarrollo 
+            p Al ser un lenguaje de propósito general, se puede utilizar en diferentes campos para análisis de datos, crear aplicaciones de escritorios, bases de datos relacionales, NoSQL, criptomonedas, desarrollo de aplicaciones multimedia, desarrollo de videojuegos, desarrollo móvil y desarrollo&nbsp;
               em web
-              | , prototipado de 
+              | , prototipado de&nbsp;
               em software
-              | , etc. 
+              | , etc.
         .row.justify-content-center.align-items-center(x="43.6%" y="63.4%" tooltip="" numero="C")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f6.svg', alt='')
           .col-lg-10.col-md-9.col-12
             p: b ¿Cómo funciona?
-            p El intérprete de 
-              em Python 
-              | maneja módulos de código que son intercambiables en lugar de una extensa lista de sentencias de códigos estándar para los lenguajes de programación funcional.
+            p El intérprete de&nbsp;
+              em Python
+              | &nbsp;maneja módulos de código que son intercambiables en lugar de una extensa lista de sentencias de códigos estándar para los lenguajes de programación funcional.
             p Realizando los siguientes pasos:
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
                   span a
-                p.mb-0 
-                  b Paso 1: 
+                p.mb-0
+                  b Paso 1:
                   | el intérprete lee un código o instrucción, verifica y comprueba la sintaxis de cada línea; si encuentra un error, detiene la traducción y muestra un mensaje de error.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                p.mb-0  
-                  b Paso 2: 
-                  | si no presenta errores, el intérprete lo traduce a un lenguaje intermedio llamado código 
-                  em byte. 
+                p.mb-0
+                  b Paso 2:
+                  | si no presenta errores, el intérprete lo traduce a un lenguaje intermedio llamado código
+                  em byte.
               li
                 .lista-ol--cuadro__vineta
                   span c
-                p.mb-0  
-                  b Paso 3: 
-                  | el código del 
-                  em byte 
-                  | se envía a la máquina virtual 
+                p.mb-0
+                  b Paso 3:
+                  | el código del&nbsp;
+                  em byte
+                  | se envía a la máquina virtual&nbsp;
                   em Python
                   | , donde de nuevo se ejecuta el código del byte en PVM. Si se produce un error durante esta ejecución, ésta se detiene con un mensaje de error.
         .row.justify-content-center.align-items-center(x="56%" y="63.4%" tooltip="" numero="D")
@@ -108,79 +108,79 @@
             ul.lista-ul--color
               li
                 i.fas.fa-circle
-                | Es un lenguaje interpretado.
+                span Es un lenguaje interpretado.
               li
                 i.fas.fa-circle
-                | Lenguaje sencillo, legible y elegante.
+                span Lenguaje sencillo, legible y elegante.
               li
                 i.fas.fa-circle
-                | Sintaxis simple, clara y sencilla.
+                span Sintaxis simple, clara y sencilla.
               li
                 i.fas.fa-circle
-                | Tiene tipado dinámico.
+                span Tiene tipado dinámico.
               li
                 i.fas.fa-circle
-                | Es fuertemente tipado.
+                span Es fuertemente tipado.
               li
                 i.fas.fa-circle
-                | Es multiplataforma.
+                span Es multiplataforma.
               li
                 i.fas.fa-circle
-                | Permite llevar a cabo aplicaciones de manera práctica y rápida.
+                span Permite llevar a cabo aplicaciones de manera práctica y rápida.
               li
                 i.fas.fa-circle
-                | Soporta programación imperativa, orientada a objetos y funcional.
+                span Soporta programación imperativa, orientada a objetos y funcional.
             p Su objetivo principal es aumentar la legibilidad y la facilidad de desarrollo.
         .row.justify-content-center.align-items-center(x="66.8%" y="74%" tooltip="" numero="E")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f8.svg', alt='')
           .col-lg-10.col-md-9.col-12
-            p: b Otras características del lenguaje 
+            p: b Otras características del lenguaje
               em Python:
             ul.lista-ul--color
               li
                 i.fas.fa-circle
-                p.mb-0 
-                  b Es Interpretado: 
-                  | el código del programador es traducido mediante un intérprete a medida que lo necesite. 
+                p.mb-0
+                  b Es Interpretado:
+                  span el código del programador es traducido mediante un intérprete a medida que lo necesite.
               li
                 i.fas.fa-circle
-                p.mb-0 
-                  b Multiparadigma: 
-                  | soporta más de un paradigma.
+                p.mb-0
+                  b Multiparadigma:
+                  span soporta más de un paradigma.
               li
                 i.fas.fa-circle
-                p.mb-0 
-                  b Tipo dinámico: 
-                  | permite la transformación de variables.
+                p.mb-0
+                  b Tipo dinámico:
+                  span permite la transformación de variables.
               li
                 i.fas.fa-circle
-                p.mb-0 
-                  b Multiplataforma: 
-                  | se puede trabajar en cualquier sistema operativo.
+                p.mb-0
+                  b Multiplataforma:
+                  span se puede trabajar en cualquier sistema operativo.
         .row.justify-content-center.align-items-center(x="75.4%" y="92%" tooltip="" numero="F")
           .col-lg-2.col-md-3.col-8
             figure
               img(src='@/assets/curso/temas/t2/f9.svg', alt='')
           .col-lg-10.col-md-9.col-12
             p: b Ejemplo de empresas a nivel mundial que son un caso de éxito con el uso de Python:
-            p 
-              em Google, Netflix, YouTube, Dropbox, Spotify, Yahoo!, la NASA, PayPal, Prezi, Instagram 
+            p
+              em Google, Netflix, YouTube, Dropbox, Spotify, Yahoo!, la NASA, PayPal, Prezi, Instagram&nbsp;
               | y muchas más.
 
       .p-4.fcs15
         .border2
           p: b Importante
-          p.mb-0 Se debe tener en cuenta que 
-            em Python 
-            | no es adecuado para la programación de bajo nivel.
+          p.mb-0 Se debe tener en cuenta que&nbsp;
+            em Python
+            | &nbsp;no es adecuado para la programación de bajo nivel.
 
-    p Instalación de 
-      em Python en 
-      | Windows: para instalar 
-      em Python 
-      | en un equipo con el sistema operativo Windows se debe realizar los siguientes pasos:	
+    p <strong>Instalación de
+      em Python en&nbsp;
+      | Windows</strong>: &nbsp;para instalar&nbsp;
+      em Python
+      | &nbsp;en un equipo con el sistema operativo Windows se debe realizar los siguientes pasos:
 
     .row.justify-content-center.mb-5
       .col-lg-5
@@ -188,63 +188,63 @@
           img(src='@/assets/curso/temas/t2/f10.png', alt='')
       .col-lg-7
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="").mb-0
-            | Ir a la página de descargas para Windows del sitio oficial y descargar la versión adecuada del instalador ejecutable de 
+          p(numero="1" titulo="Paso 1").mb-0
+            | Ir a la página de descargas para Windows del sitio oficial y descargar la versión adecuada del instalador ejecutable de&nbsp;
             em Python.
-          p.mb-0(numero="2" titulo="") 
+          p.mb-0(numero="2" titulo="Paso 2")
             | Realizar la instalación haciendo doble clic sobre el archivo ejecutable descargado para lo cual es necesario tener permisos de Administrador del equipo.
-          p.mb-0(numero="3" titulo="") 
-            | Una vez iniciado el instalador, en la ventana 
-            em Install Python 
-            | se debe activar las casillas de las opciones: 
-            em Install launcher for all users (recommended) 
-            | y 
+          p.mb-0(numero="3" titulo="Paso 3")
+            | Una vez iniciado el instalador, en la ventana&nbsp;
+            em Install Python
+            | &nbsp;se debe activar las casillas de las opciones:
+            em Install launcher for all users (recommended)&nbsp;
+            | y&nbsp;
             em Add Python to PATH
-            | . Después, seleccione la opción 
+            | . Después, seleccione la opción&nbsp;
             em Customize installation.
-          p.mb-0(numero="4" titulo="") 
-            | En la ventana 
-            em optional features, 
-            | seleccione todas las opciones y hacer clic en el botón 
+          p.mb-0(numero="4" titulo="Paso 4")
+            | En la ventana&nbsp;
+            em optional features,
+            | &nbsp;seleccione todas las opciones y hacer clic en el botón&nbsp;
             em [Next].
-          p.mb-0(numero="5" titulo="") 
-            | En la ventana 
-            em advanced options 
-            | activar todas las opciones, aceptar la ruta dada por defecto o escribir una ruta personalizada del directorio de instalación e iniciar la instalación haciendo clic en el botón 
+          p.mb-0(numero="5" titulo="Paso 5")
+            | En la ventana&nbsp;
+            em advanced options
+            | &nbsp;activar todas las opciones, aceptar la ruta dada por defecto o escribir una ruta personalizada del directorio de instalación e iniciar la instalación haciendo clic en el botón&nbsp;
             em [Install].
-          p.mb-0(numero="6" titulo="") 
-            | Esperar unos segundos y comenzará el proceso de instalación de 
+          p.mb-0(numero="6" titulo="Paso 6")
+            | Esperar unos segundos y comenzará el proceso de instalación de&nbsp;
             em Python.
-          p.mb-0(numero="7" titulo="") 
-            | Al finalizar la instalación debe aparecer una ventana con el mensaje 
-            em setup was successful. 
-            | En esta ventana se puede acceder a un tutorial online, a la documentación oficial de 
-            em Python 
+          p.mb-0(numero="7" titulo="Paso 7")
+            | Al finalizar la instalación debe aparecer una ventana con el mensaje&nbsp;
+            em setup was successful.
+            | En esta ventana se puede acceder a un tutorial online, a la documentación oficial de&nbsp;
+            em Python&nbsp;
             | y a información adicional de las novedades de la versión instalada.
-          p.mb-0(numero="8" titulo="") 
+          p.mb-0(numero="8" titulo="Paso 8")
             | Posteriormente se podrá instalar cualquier paquete adicional utilizando el instalador PIP.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         h3.titulo-tercero(data-aos='fade-right')
-          i.fas.fa-square.cac.me-2 
+          i.fas.fa-square.cac.me-2
           | Un ejemplo introductorio desarrollado en modo interactivo
-        p Para iniciar el aprendizaje del lenguaje 
+        p Para iniciar el aprendizaje del lenguaje&nbsp;
           em Python
           | , en esta sección se desarrolla un ejemplo en forma interactiva en la ventana principal o shell. Se recomienda que el aprendiz realice esta práctica en la computadora.
         .cajon.color-acento-botones.p-4.mb-4
-          p Solución en modo interactivo en la ventana principal o  
-            em shell 
-            | de 
+          p Solución en modo interactivo en la ventana principal o&nbsp;
+            em shell&nbsp;
+            | de&nbsp;
             em Python.
-          p.mb-0 Para iniciar el entorno interactivo de 
-            em Python 
-            | se debe escribir 
-            em Python 
-            | desde la línea de comando o símbolo del sistema, en el cual puede escribir instrucciones de 
+          p.mb-0 Para iniciar el entorno interactivo de&nbsp;
+            em Python&nbsp;
+            | se debe escribir&nbsp;
+            em Python&nbsp;
+            | &nbsp;desde la línea de comando o símbolo del sistema, en el cual puede escribir instrucciones de&nbsp;
             em Python.
             |  Al inicio de las siguientes líneas se muestra un aviso para escribir cada instrucción. Este aviso son tres ángulos como estos: &gt;&gt;&gt;
-        p En esta ventana escriba cada instrucción a la derecha del símbolo >>> 
+        p En esta ventana escriba cada instrucción a la derecha del símbolo >>>
         p Al final de cada línea presione la tecla Enter. Siga el ejemplo que se muestra a continuación:
         .col-md-9.mx-auto
           .fcac50.p-4.p-4.mb-4(style="border-left: solid #FFB30B 5px")
@@ -254,17 +254,17 @@
             p &gt;&gt;&gt;&iexcl;Hola Mundo!
             p &gt;&gt;&gt;
               em print
-              | (&ldquo;&iexcl;Mis primeras l&iacute;neas de c&oacute;digo en 
+              | (&ldquo;&iexcl;Mis primeras l&iacute;neas de c&oacute;digo en
               em Python
               | !&rdquo;)
             p.mb-0
-              | &gt;&gt;&gt;&iexcl;Mis primeras l&iacute;neas de c&oacute;digo en 
+              | &gt;&gt;&gt;&iexcl;Mis primeras l&iacute;neas de c&oacute;digo en
               em Python
               | !
-        p En el anterior ejemplo, se ordena visualizar primero un mensaje con las palabras: &iexcl;Hola Mundo! y en la siguiente l&iacute;nea tambi&eacute;n se visualiza el mensaje: &iexcl;mis primeras l&iacute;neas de c&oacute;digo en 
+        p En el anterior ejemplo, se ordena visualizar primero un mensaje con las palabras: &iexcl;Hola Mundo! y en la siguiente l&iacute;nea tambi&eacute;n se visualiza el mensaje: &iexcl;mis primeras l&iacute;neas de c&oacute;digo en&nbsp;
           em Python
           | !
-        p El mismo ejemplo se debe resolver posteriormente escribiendo un programa en una ventana de edici&oacute;n de 
+        p El mismo ejemplo se debe resolver posteriormente escribiendo un programa en una ventana de edici&oacute;n de&nbsp;
           em Python
           | . Esta pr&aacute;ctica permitir&aacute; resaltar las diferencias entre el modo interactivo y el modo de programaci&oacute;n.
 
@@ -273,8 +273,8 @@
           img(src='@/assets/curso/temas/t2/f11.svg', alt='')
 
     h3.titulo-tercero(data-aos='fade-right')
-      i.fas.fa-square.cac.me-2 
-      | Operadores de 
+      i.fas.fa-square.cac.me-2
+      | Operadores de&nbsp;
       em Python
 
     p Son los símbolos utilizados para expresar las operaciones básicas en los programas, por ejemplo, hacer los cálculos matemáticos y la comparación de diferentes expresiones del código.
@@ -284,7 +284,7 @@
         img(src='@/assets/curso/temas/t2/f12.svg', alt='')
       .col-lg-11.col-md-10.col-12
         p: b Los operadores se clasifican en:
-        p 
+        p
           span.cuadro.fcac.text-white.me-2.px-1 a
           | Operadores aritméticos&emsp;
           span.cuadro.fcac.text-white.me-2.px-1 b
@@ -324,35 +324,35 @@
             p Estos operadores se utilizan para evaluar el resultado de dos o m&aacute;s expresiones. El resultado ser&aacute; siempre un valor booleano (
               em True o False
               | ).
-            p Los tres principales operadores l&oacute;gicos son: 
+            p Los tres principales operadores l&oacute;gicos son: &nbsp;
               strong
                 em And, Or y Not
               | .
             p
-              em And
+              em #[strong And]
               | : se utiliza entre dos o m&aacute;s expresiones y su resultado ser&aacute; verdadero si sus expresiones son verdaderas.
             p
-              em Or:
+              em #[strong Or]:
               |  se utiliza entre dos o m&aacute;s expresiones y su resultado ser&aacute; verdadero si una de sus expresiones es verdadera.
             p
-              em Not
+              em #[strong Not]
               | : es la negaci&oacute;n de una expresi&oacute;n.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/t2/f13.svg', alt='')
-      .py-4.py-md-5(titulo="Operadores de Asignación")
+      .py-4.py-md-5(titulo="Operadores de asignación")
         .row
-          .col-md-6.mb-4.mb-md-0 
+          .col-md-6.mb-4.mb-md-0
             p Estos operadores permiten realizar una operación y guardar su resultado en la misma variable.
             img(src='@/assets/curso/temas/t2/tabla3.svg', alt='')
-          .col-md-6 
+          .col-md-6
             p: b Ejemplos de operadores de asignación
             img(src='@/assets/curso/temas/t2/tabla4.svg', alt='')
       .py-4.py-md-5(titulo="Operadores especiales")
         .row
           .col-md-6.mb-4.mb-md-0
             p Existen otros tipos de operadores, a continuaci&oacute;n, los 2 m&aacute;s usados de esta categor&iacute;a:
-            p Operador de inclusi&oacute;n 
+            p Operador de inclusi&oacute;n
               em in o not in.
             p Este operador eval&uacute;a si un valor est&aacute; incluido o no en una colecci&oacute;n de datos. Ejemplo:
             p
@@ -365,7 +365,7 @@
       .py-4.py-md-5(titulo="Operador de concatenación")
         .row
           .col-md-6.mb-4.mb-md-0
-            p El operador + se puede usar para concatenar cadenas de texto o 
+            p El operador + se puede usar para concatenar cadenas de texto o&nbsp;
               em strings
               | . Cuando se concatenan cadenas, el resultado es una cadena compuesta por ambas cadenas. Ejemplo:
             p a=&apos;
@@ -399,7 +399,7 @@
                 p.text-small A continuación, las expresiones más comunes dentro de Python
               .col-auto.mb-3.mb-sm-0
                 a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/expresiones_mas_comunes_dentro_de_Python.pdf')" target="_blank" type="application/pdf")
-                  span Descargar 
+                  span Descargar
                   i.fas.fa-file-download
 
     h3 Estructuras de control
@@ -416,20 +416,20 @@
               li
                 .lista-ol--cuadro__vineta
                   span a
-                p.mb-0 
-                  b De secuencia: 
+                p.mb-0
+                  b De secuencia:
                   | como su nombre lo indica, se ejecutan las instrucciones una seguida de la otra.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                p.mb-0 
-                  b De selección o control condicional: 
-                  | controlan si una sentencia o secuencia de sentencias se ejecutan. 
+                p.mb-0
+                  b De selección o control condicional:
+                  | controlan si una sentencia o secuencia de sentencias se ejecutan.
               li
                 .lista-ol--cuadro__vineta
                   span c
-                p.mb-0 
-                  b De iteración o de control de ciclos: 
+                p.mb-0
+                  b De iteración o de control de ciclos:
                   | se refiere a las instrucciones que se repiten.
           .col-md-6.mt-4
             figure
@@ -450,32 +450,32 @@
               li
                 .lista-ol--cuadro__vineta
                   span a
-                p.mb-0 
-                  b Declaración de variables: 
+                p.mb-0
+                  b Declaración de variables:
                   | para utilizar una variable tanto en pseudocódigo como en diagrama de flujo, es necesario siempre declararla, es decir, indicarle al algoritmo que va a utilizar una variable.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                p.mb-0 
-                  b Inicialización de variables: 
+                p.mb-0
+                  b Inicialización de variables:
                   | es asignarle un valor a cada una de las variables dependiendo de su tipo de dato.
               li
                 .lista-ol--cuadro__vineta
                   span c
-                p.mb-0 
-                  b Lectura de datos: 
+                p.mb-0
+                  b Lectura de datos:
                   | es el ingreso de datos que se realiza por medio de un dispositivo de entrada.
               li
                 .lista-ol--cuadro__vineta
                   span d
-                p.mb-0 
-                  b Cálculos: 
+                p.mb-0
+                  b Cálculos:
                   | son las diferentes operaciones que se realizan con los datos de entrada.
               li
                 .lista-ol--cuadro__vineta
                   span e
-                p.mb-0 
-                  b Salida: 
+                p.mb-0
+                  b Salida:
                   | es el resultado final de la estructura secuencial.
           .col-md-6.mt-4
             figure
@@ -522,10 +522,10 @@
               img(src='@/assets/curso/temas/t2/f20.svg', alt='')
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0.mt-4
-            h4 Las estructuras de control condicional 
+            h4 Las estructuras de control condicional
 
             p Son las que manejan diferentes opciones de selecci&oacute;n dependiendo del resultado de una operaci&oacute;n booleana (siempre ser&aacute; un valor verdadero o falso), por ejemplo, una comparaci&oacute;n (x = y). Seg&uacute;n la expresi&oacute;n sea cierta o falsa, se lleva a cabo un c&oacute;digo u otro.
-            p En el lenguaje 
+            p En el lenguaje
               em Python
               |  existen los siguientes tipos de estructuras de control condicional:
           .col-md-6.mt-4
@@ -535,53 +535,53 @@
           .col-md-6.mb-4.mb-md-0.mt-4
             p
               strong
-                | Estructura condicional 
+                | Estructura condicional
                 em if
             p Son las que permiten evaluar si una o m&aacute;s condiciones se cumplen, para decidir qu&eacute; instrucciones se van a llevar a cabo. El resultado de la condici&oacute;n arroja un valor de solo dos posibilidades: verdadero (
               em True
               | ) o falso (
               em False
               | ).
-            p El condicional 
-              em if 
-              | en el lenguaje de programaci&oacute;n 
+            p El condicional
+              em if
+              | en el lenguaje de programaci&oacute;n
               em Pytho
               | n maneja las siguientes estructuras:
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
                   span a
-                | La sintaxis de una sentencia 
+                | La sintaxis de una sentencia
                 em if
                 |  es la siguiente:
             p
-              em if 
+              em if
               | condici&oacute;n:
-            p ejecutar c&oacute;digo si la condici&oacute;n es 
+            p ejecutar c&oacute;digo si la condici&oacute;n es
               em True
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f22-.svg', alt='')
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0.mt-4
-            p b. La sintaxis de una sentencia 
+            p b. La sintaxis de una sentencia
               em if
               |  - else es la siguiente:
             p
               em if
               |  condici&oacute;n:
-            p ejecutar c&oacute;digo si la condici&oacute;n es 
+            p ejecutar c&oacute;digo si la condici&oacute;n es
               em True
             p
               em else:
-            p ejecutar c&oacute;digo si la condici&oacute;n es 
+            p ejecutar c&oacute;digo si la condici&oacute;n es
               em False
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f23-.svg', alt='')
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0.mt-4
-            p c. La sintaxis de una sentencia 
+            p c. La sintaxis de una sentencia
               em if - elif - else
               |  es la siguiente:
             p
@@ -594,29 +594,29 @@
             p ejecutar sentencia
             p
               em else:
-            p ejecutar sentencia alternativa si todas las condiciones previas son evaluadas como 
+            p ejecutar sentencia alternativa si todas las condiciones previas son evaluadas como
               em False
           .col-md-6.mt-4
             figure
               img(src='@/assets/curso/temas/t2/f24-.svg', alt='')
         .row(titulo="")
           .col-md-6.mb-4.mb-md-0.mt-4
-          
-            h4 Las estructuras de control, usan los siguientes tipos de datos: 
+
+            h4 Las estructuras de control, usan los siguientes tipos de datos:
 
             ol.lista-ol--cuadro
               li
                 .lista-ol--cuadro__vineta
                   span a
-                p.mb-0 
-                  b Datos simples como son: 
+                p.mb-0
+                  b Datos simples como son:
                   | numéricos, alfanuméricos y lógicos.
               li
                 .lista-ol--cuadro__vineta
                   span b
-                p.mb-0 
-                  b Datos estructurados como son: 
-                  | arreglos, registros, archivos y apuntadores. 
+                p.mb-0
+                  b Datos estructurados como son:
+                  | arreglos, registros, archivos y apuntadores.
             p Las estructuras de control también manejan constantes y variables, las cuales pueden ser numéricas, alfanuméricas y lógicas, y por su trabajo, en acumuladores y contadores.
           .col-md-6.mt-4
             figure
@@ -625,28 +625,28 @@
     h3 Ciclos
 
     p Los ciclos también llamados bucles, son estructuras de control iterativas. Tal como su nombre lo indica, consiste en una forma de trabajar que permite llevar a cabo un pedazo del código varias veces.
-    p: b A continuación, se presentan los tipos de ciclos o bucles: 
+    p: b A continuación, se presentan los tipos de ciclos o bucles:
 
     .row.justify-content-center.mb-5
       .col-md-6
         img(src='@/assets/curso/temas/t2/f26.svg', alt='')
         .p-4.bg24
           p
-            | El ciclo 
-            em for 
+            | El ciclo&nbsp;
+            em for&nbsp;
             | o bucle es una sentencia que agrupa un conjunto de instrucciones y es controlado por una variable normalmente llamada i (pero puede ser identificada con cualquier otra letra), de tipo entero cuyo valor va cambiando en cada iteraci&oacute;n.
           p
-            | El lenguaje 
-            em Python
-            |  usa ciclos 
-            em for 
-            | para iterar sobre una lista de elementos, en otras palabras, los ciclos 
-            em for
+            | El lenguaje&nbsp;
+            em Python&nbsp;
+            |  usa ciclos&nbsp;
+            em for&nbsp;
+            | para iterar sobre una lista de elementos, en otras palabras, los ciclos&nbsp;
+            em for&nbsp;
             |  iteran sobre estructuras de datos basadas en colecciones como listas, tuplas y/o diccionarios.
         .p-4.bg44
           p
-            | La sintaxis b&aacute;sica de un ciclo 
-            em for
+            | La sintaxis b&aacute;sica de un ciclo&nbsp;
+            em for&nbsp;
             |  es la siguiente:
           p
             em For
@@ -655,13 +655,13 @@
           p
             | #
             em for, in
-            |  --&gt;&gt; son palabras reservadas del bucle 
+            |  --&gt;&gt; son palabras reservadas del bucle
             em for
           p #se puede leer de la siguiente forma:
           p #por cada &lt;valor&gt; en la &lt;lista_de_valores&gt;
         .p-4.bg24
           p
-            | Ejemplo de una estructura de un ciclo 
+            | Ejemplo de una estructura de un ciclo&nbsp;
             em for
             | :
           p
@@ -683,24 +683,24 @@
         img(src='@/assets/curso/temas/t2/f27.svg', alt='')
         .p-4.bg24
           p
-            | El ciclo 
-            em while
-            |  tambi&eacute;n es una sentencia que agrupa un conjunto de instrucciones, las cuales se repiten mientras se cumpla la respectiva condici&oacute;n booleana (es decir, una expresi&oacute;n que su evaluaci&oacute;n sea verdadera o falsa). En el ciclo 
-            em while
+            | El ciclo&nbsp;
+            em while&nbsp;
+            |  tambi&eacute;n es una sentencia que agrupa un conjunto de instrucciones, las cuales se repiten mientras se cumpla la respectiva condici&oacute;n booleana (es decir, una expresi&oacute;n que su evaluaci&oacute;n sea verdadera o falsa). En el ciclo&nbsp;
+            em while&nbsp;
             |  dif&iacute;cilmente se puede saber con anterioridad el n&uacute;mero de veces que se repetir&aacute;n las instrucciones.
         .p-4.bg44
           p
-            | La sintaxis b&aacute;sica de un ciclo 
-            em while
+            | La sintaxis b&aacute;sica de un ciclo&nbsp;
+            em while&nbsp;
             |  es el siguiente:
           p
-            em while 
+            em while
             | (condici&oacute;n):
           p # Ejecuta este bloque de c&oacute;digo
           p # Siempre que condici&oacute;n sea verdadera
         .p-4.bg24
           p
-            | Ejemplo de una estructura de un ciclo 
+            | Ejemplo de una estructura de un ciclo&nbsp;
             em while
             | :
           p numero = 0&nbsp;&nbsp;&nbsp;
@@ -709,7 +709,7 @@
             em while
             |  numero &lt; 5:
           p
-            em print 
+            em print
             | (&quot;N&uacute;mero&quot; + nombres[numero])
           p &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; numero + = 1
           p El resultado de este ciclo es lo siguiente:
@@ -725,9 +725,9 @@
       .col-lg-1.col-md-2.col-6
         img(src='@/assets/curso/temas/t2/f28.svg', alt='')
       .col-lg-11.col-md-10.col-12
-        p: b A continuación, se presenta la manera en que están divididas las estructuras de datos:  
-        p El lenguaje de programación 
-          em Python 
+        p: b A continuación, se presenta la manera en que están divididas las estructuras de datos:
+        p El lenguaje de programación&nbsp;
+          em Python&nbsp;
           | maneja diferentes tipos de estructura de datos, las cuales permiten el procesamiento de los datos que utilizan los programas de acuerdo con la respectiva necesidad.
         p Estas estructuras se encuentran divididas en:
 
@@ -741,9 +741,9 @@
       .col-lg-9
         TabsA.color-primario.mb-5
           .tarjeta.fcs15.color-secundario--borde.p-4(titulo="Entero o int")
-            p En 
-              em Python,
-              |  los enteros o tambi&eacute;n conocidos como 
+            p En&nbsp;
+              em Python,&nbsp;
+              |  los enteros o tambi&eacute;n conocidos como&nbsp;
               em int,
               |  son un tipo de datos que permite representar n&uacute;meros enteros, es decir, positivos y negativos sin decimales y sin importar la longitud del n&uacute;mero almacenado.
             p: b Ejemplo:
@@ -753,7 +753,7 @@
               |  (x)
             p: b Resultado:
             p 12
-            p Se puede usar la funci&oacute;n 
+            p Se puede usar la funci&oacute;n&nbsp;
               em type
               |  () para determinar el tipo de dato de la variable indicada entre par&eacute;ntesis. Ejemplo:
             p
@@ -772,10 +772,10 @@
             p Son un tipo de datos que permite representar textos o cadenas de caracteres alfanum&eacute;ricos encerradas entre comillas simples o comillas dobles.
             p: b Ejemplos:
             p s1 = &apos;
-              em Pyhton
+              em Python
               |  es un lenguaje de programaci&oacute;n&apos;
             p s2 = &quot;
-              em Pyhton
+              em Python
               |  es un lenguaje de programaci&oacute;n&quot;
             p
               em print
@@ -791,10 +791,10 @@
               | (s2))
             p: b Resultado:
             p
-              em Pyhton
+              em Python&nbsp;
               |  es un lenguaje de programaci&oacute;n
             p
-              em Pyhton 
+              em Python&nbsp;
               | es un lenguaje de programaci&oacute;n
             p &lt;
               em class &apos;str&apos;
@@ -804,11 +804,11 @@
               | &gt;
 
           .tarjeta.fcs15.color-secundario--borde.p-4(titulo="Booleano")
-            p En 
-              em Python
-              |  existe el tipo de dato booleano, el cual es un tipo de dato que permite almacenar dos valores: 
+            p En&nbsp;
+              em Python&nbsp;
+              |  existe el tipo de dato booleano, el cual es un tipo de dato que permite almacenar dos valores:&nbsp;
               em True
-              |  o 
+              |  o
               em False.
             p: b Ejemplo:
             p X =
@@ -831,16 +831,16 @@
       .col-lg-1.col-md-2.col-6
         img(src='@/assets/curso/temas/t2/f30.svg', alt='')
       .col-lg-11.col-md-10.col-12
-        p 
-          em Python
-          | , posee además de los tipos de datos vistos anteriormente, tres tipos más complejos que pueden almacenar colecciones de datos de diversos tipos y se diferencian por su sintaxis, la manera en la que los datos son gestionados y que admiten una colección de datos. 
+        p
+          em Python&nbsp;
+          | , posee además de los tipos de datos vistos anteriormente, tres tipos más complejos que pueden almacenar colecciones de datos de diversos tipos y se diferencian por su sintaxis, la manera en la que los datos son gestionados y que admiten una colección de datos.
         p Los tipos de datos complejos son los siguientes:
-        p 
-          span.cac ● 
+        p
+          span.cac ●
           | Listas &emsp;
-          span.cac ● 
+          span.cac ●
           | Tuplas &emsp;
-          span.cac ● 
+          span.cac ●
           | Diccionarios &emsp;
 
 
@@ -852,14 +852,14 @@
       div(x="15.5%" y="10.6%" tooltip="" numero="+")
         p: strong Listas: es un tipo de colecci&oacute;n ordenada
         p Las listas son estructuras de datos que permiten guardar datos de cualquier tipo, son din&aacute;micas y mutables porque permiten que se pueda agregar, cambiar o eliminar sus elementos.
-        p Las listas son el equivalente a lo que en otros lenguajes se les llama como 
+        p Las listas son el equivalente a lo que en otros lenguajes se les llama como&nbsp;
           em arrays,
-          |  o vectores y pueden almacenar cualquier tipo de dato: num&eacute;ricos, 
+          |  o vectores y pueden almacenar cualquier tipo de dato: num&eacute;ricos,
           em strings,
           |  booleanos e incluso otras listas.
         p Una lista se crea sencillamente indicando sus valores entre corchetes y separados por comas.
         p: strong Ejemplo:
-        p lista1 = [94, &ldquo;cadena de texto&rdquo;, 
+        p lista1 = [94, &ldquo;cadena de texto&rdquo;,
           em True
           | , &apos;otra cadena de texto&apos;, 4.8, [5, 10]]
         p A las listas se accede a sus valores por su n&uacute;mero de &iacute;ndice de la siguiente forma:
@@ -868,12 +868,12 @@
           |  lista1[1]&nbsp;&nbsp; #Resultado: 94
         p
           em print
-          |  lista1[2:4] #Resultado: [&quot;cadena de texto&quot;, 
+          |  lista1[2:4] #Resultado: [&quot;cadena de texto&quot;,
           em True,
           |  &apos;otra cadena de texto&apos;]
         p
           em print
-          | &nbsp;lista1[-4] #Resultado: 
+          | &nbsp;lista1[-4] #Resultado:
           em True
 
       div(x="14.7%" y="20%" tooltip="" numero="+")
@@ -884,9 +884,9 @@
         p: strong Ejemplo:
         p Lista = [1, 3, 5]
         p
-          em for 
-          | j 
-          em in 
+          em for&nbsp;
+          | j&nbsp;
+          em in&nbsp;
           | Lista:
         p
           em print
@@ -901,7 +901,7 @@
         p Son un tipo de datos que permite almacenar varios datos que no se pueden modificar despu&eacute;s de que son declaradas. Una tupla es similar a una lista con la diferencia fundamental de que no permite modificar los datos una vez creados.
         p Las tuplas son declaradas utilizando par&eacute;ntesis en lugar de corchetes.
         p: strong Ejemplo:
-        p tupla1 = (23, &apos;cadena de texto&apos;, 
+        p tupla1 = (23, &apos;cadena de texto&apos;,
           em False
           | , &apos;otra cadena de texto&apos;, 7.5)
         p A las tuplas se accede a sus valores por su n&uacute;mero de &iacute;ndice de la siguiente forma, siendo 0 (cero), el &iacute;ndice del primer dato:
@@ -951,12 +951,12 @@
           | (tupla[2][0])&nbsp;&nbsp; #Resultado: x
 
       div(x="56.5%" y="19.5%" tooltip="" numero="+")
-        p: strong Tambi&eacute;n se puede convertir una lista en una tupla por medio de la funci&oacute;n 
+        p: strong Tambi&eacute;n se puede convertir una lista en una tupla por medio de la funci&oacute;n
             em tuple
             | ().
         p: strong Ejemplo:
         p lista = [1, 3, 5]
-        p tupla = 
+        p tupla =
           em tuple
           | (lista)
         p
@@ -985,7 +985,7 @@
         p tupla = (1, 3, 5)
         p
           em for
-          |  j 
+          |  j
           em in
           |  tupla:
         p
@@ -1015,13 +1015,13 @@
         p: strong Ejemplo:
         p diccionario1 = {&quot;Nombre&quot;: &quot;Ana&quot;, &quot;Edad&quot;: 23, &quot;Documento&quot;: 12345678}
         p print(diccionario1) #Resultado: {&apos;Nombre&apos;: &apos;Ana&apos;, &apos;Edad&apos;: 23, &apos;Documento&apos;: 12345678}
-        p: b Otra forma de declarar un diccionario en 
+        p: b Otra forma de declarar un diccionario en
           em Python
-          |  es usando 
+          |  es usando
           em dic
           | t() e colocando los pares llave y valor entre par&eacute;ntesis.
         p: b Ejemplo:
-        p diccionario1 = 
+        p diccionario1 =
           em dict
           | ([
         p &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(&apos;Nombre&apos;, &apos;Ana&apos;),
@@ -1033,28 +1033,28 @@
           | (diccionario1) #Resultado: {&apos;Nombre&apos;: &apos;Ana&apos;, &apos;Edad&apos;: 23, &apos;Documento&apos;: 12345678}
 
       div(x="78.6%" y="19.4%" tooltip="" numero="+")
-        p: b Los diccionarios en 
-          em Python 
+        p: b Los diccionarios en
+          em Python
           | tienen las siguientes características:
         p
-          span.cac ● 
+          span.cac ●
           | Las claves deben ser únicas y pueden ser de cualquier tipo de datos inmutables: cadenas de texto, enteros, flotantes, tuplas, etc.
         p
-          span.cac ● 
-          | Son 
+          span.cac ●
+          | Son
           b mutables
           | , por lo que permiten añadir, borrar y modificar sus elementos.
         p
-          span.cac ● 
+          span.cac ●
           | Mantienen el orden en el que se insertan las claves.
         p
-          span.cac ● 
-          | Tienen un 
-          b acceso muy rápido 
+          span.cac ●
+          | Tienen un
+          b acceso muy rápido
           | a sus elementos, debido a la forma en la que están implementados internamente.
-        p Algunas propiedades de los diccionarios en 
-          em Python 
-          | son las siguientes:
+        p Algunas propiedades de los diccionarios en&nbsp;
+          em Python&nbsp;
+          | son las siguientes:&nbsp;
         p Son din&aacute;micos, pueden crecer o decrecer, ya que se pueden a&ntilde;adir o eliminar elementos.
         p Son indexados, los elementos del diccionario son accesibles a trav&eacute;s de la respectiva llave.
         p Y son anidados, un diccionario puede contener a otro diccionario en su campo valor.
@@ -1069,24 +1069,24 @@
           i.fas.fa-square.cac.me-2
           | Otro tipo de estructura de datos:
           p: b Matrices
-          p Las matrices no son una estructura propia de 
-            em Python
-            | . Simplemente, una matriz es una lista de listas que se interpreta desde el punto de vista matemático. 
+          p Las matrices no son una estructura propia de&nbsp;
+            em Python&nbsp;
+            | . Simplemente, una matriz es una lista de listas que se interpreta desde el punto de vista matemático.
         .cajon-b.color-secundario.p-3.mb-5.abajo-derecha
-          p Cuando se habla de matrices en 
-            em Python
+          p Cuando se habla de matrices en&nbsp;
+            em Python&nbsp;
             | , se está refiriendo a una matriz rectangular bidimensional especializada de datos, los cuales están almacenados en filas y columnas. Dentro de esta matriz puede haber datos en forma de números, cadenas, símbolos, expresiones, etc. La matriz es una de las estructuras de datos más importantes que se pueden utilizar en cálculos matemáticos y científicos.
-          p.mb-0 Las 
-            b matrices 
-            | son una estructura de datos bidimensional donde los elementos se organizan en 
-            b filas 
-            | y 
-            b columnas. 
-      .col-lg-4.order-first.order-lg-last 
+          p.mb-0 Las&nbsp;
+            b matrices&nbsp;
+            | son una estructura de datos bidimensional donde los elementos se organizan en&nbsp;
+            b filas&nbsp;
+            | y&nbsp;
+            b columnas.
+      .col-lg-4.order-first.order-lg-last
         figure
           img(src='@/assets/curso/temas/t2/f32.svg', alt='')
 
-    p Ejemplo de esto: 
+    p Ejemplo de esto:
     .col-md-4.mx-auto.mb-4
       .titulo-sexto.color-acento-contenido(data-aos='fade-right')
         h5 Tabla 1
@@ -1095,8 +1095,8 @@
 
       img(src='@/assets/curso/temas/t2/f33.svg', alt='')
 
-    p Esta 
-      b matriz 
+    p Esta
+      b matriz
       | es una matriz de 3 x 4 porque tiene 3 filas y 4 columnas.
 
 </template>
