@@ -217,7 +217,7 @@
             em Python.
           p.mb-0(numero="7" titulo="Paso 7")
             | Al finalizar la instalación debe aparecer una ventana con el mensaje&nbsp;
-            em setup was successful.
+            em setup was successful. 
             | En esta ventana se puede acceder a un tutorial online, a la documentación oficial de&nbsp;
             em Python&nbsp;
             | y a información adicional de las novedades de la versión instalada.
@@ -1033,15 +1033,15 @@
           | (diccionario1) #Resultado: {&apos;Nombre&apos;: &apos;Ana&apos;, &apos;Edad&apos;: 23, &apos;Documento&apos;: 12345678}
 
       div(x="78.6%" y="19.4%" tooltip="" numero="+")
-        p: b Los diccionarios en
-          em Python
+        p: b Los diccionarios en 
+          em Python 
           | tienen las siguientes características:
         p
           span.cac ●
           | Las claves deben ser únicas y pueden ser de cualquier tipo de datos inmutables: cadenas de texto, enteros, flotantes, tuplas, etc.
         p
           span.cac ●
-          | Son
+          | Son 
           b mutables
           | , por lo que permiten añadir, borrar y modificar sus elementos.
         p
@@ -1049,8 +1049,8 @@
           | Mantienen el orden en el que se insertan las claves.
         p
           span.cac ●
-          | Tienen un
-          b acceso muy rápido
+          | Tienen un 
+          b acceso muy rápido 
           | a sus elementos, debido a la forma en la que están implementados internamente.
         p Algunas propiedades de los diccionarios en&nbsp;
           em Python&nbsp;
@@ -1095,8 +1095,8 @@
 
       img(src='@/assets/curso/temas/t2/f33.svg', alt='')
 
-    p Esta
-      b matriz
+    p Esta 
+      b matriz 
       | es una matriz de 3 x 4 porque tiene 3 filas y 4 columnas.
 
 </template>
