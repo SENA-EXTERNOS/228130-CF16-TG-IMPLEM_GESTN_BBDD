@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="345" viewBox="0 0 400 345">
+  <g id="Grupo_140195" data-name="Grupo 140195" transform="translate(5629 1929)">
+    <g id="Grupo_137091" data-name="Grupo 137091" transform="translate(-5988.416 -6251.379)">
+      <rect id="Rectángulo_294795" data-name="Rectángulo 294795" width="400" height="345" rx="15" transform="translate(359.416 4322.379)" fill="#41b8df" opacity="0.55"/>
+      <text id="if_x_0_:_print_x_tiene_un_valor_de_0_elif_x_10_:_print_x_tiene_un_valor_menor_que_10_else:_print_x_tiene_un_valor_mayor_que_10_" data-name="if (x==0):
+print &quot;x tiene un valor de 0&quot;
+elif (x&lt;=10):
+print(&quot;x tiene un valor menor que 10&quot;)
+else:
+print &quot;x tiene un valor mayor que 10&quot;
+
+" transform="translate(390.453 4433.929)" fill="#c82b0d" font-size="21" font-family="Roboto-Italic, Roboto" font-style="italic"><tspan x="0" y="22">if </tspan><tspan y="22" fill="#161615">(x==</tspan><tspan y="22" fill="#6a3181">0</tspan><tspan y="22" fill="#161615">):</tspan><tspan x="0" y="47.2">print </tspan><tspan y="47.2" fill="#0d4997">&quot;x tiene un valor de 0&quot;</tspan><tspan x="0" y="72.4">elif </tspan><tspan y="72.4" fill="#161615">(x&lt;=</tspan><tspan y="72.4" fill="#6a3181">10</tspan><tspan y="72.4" fill="#161615">):</tspan><tspan x="0" y="97.6">print</tspan><tspan y="97.6" fill="#0d4997">(&quot;x tiene un valor menor que 10&quot;)</tspan><tspan x="0" y="122.8">else:</tspan><tspan x="0" y="148">print </tspan><tspan y="148" fill="#0d4997">&quot;x tiene un valor mayor que 10&quot;</tspan><tspan fill="#0d4997"><tspan x="0" y="173.2"></tspan></tspan><tspan fill="#0d4997" font-family="Roboto-Italic"><tspan x="0" y="198.4"></tspan></tspan></text>
+    </g>
+  </g>
+</svg>
