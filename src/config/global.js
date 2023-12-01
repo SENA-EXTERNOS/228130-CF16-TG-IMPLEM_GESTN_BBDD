@@ -223,6 +223,7 @@ export default {
     {
       referencia:
         'Rossum, G. (2017). <em>El tutorial de Python</em>. Python Software Foundation.',
+      link: 'https://docs.python.org/es/3/tutorial/',
     },
   ],
   creditos: {
